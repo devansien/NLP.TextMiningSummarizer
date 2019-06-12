@@ -33,5 +33,10 @@ for idx, d in enumerate(tok_documents):
 for idx, d in enumerate(tok_documents):
     tok_documents[idx] = ps.remove_punctuations(d)
 
+# pre-process step 06: convert int to string representation
+for idx, d in enumerate(tok_documents):
+    tok_documents[idx] = ps.
+
+
 print(documents[0])
 print(tok_documents)
