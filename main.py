@@ -120,9 +120,21 @@ pprint(Counter(labels))
 # pprint(Counter(items).most_common(3))
 
 # most common organizations
-orgs = [x.text for x in doc.ents if x.label_ == 'ORG']
+target_orgs = []
+organizations = [x.text for x in doc.ents if x.label_ == 'ORG']
+target_orgs = Counter(organizations).most_common(5)
 print('\nTop 5 most commonly appeared organizations:')
-pprint(Counter(orgs).most_common(5))
+pprint(target_orgs)
+
+# get articles which contain the target words
+target_orgs = [org for (org, count) in target_orgs]
+
+for didx, d in enumerate(documents):
+    for oidx, o in enumerate(target_orgs):
+        if o in d:
+            file = open('./output/' + str(o) + '.txt', 'a+')
+            file.writelines(d)
+            file.close()
 
 # process ends
 end_time = datetime.datetime.now()
