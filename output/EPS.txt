@@ -1,0 +1,2347 @@
+-- Morgan Stanley analyst David Togut said he reduced the earnings estimates for First Data Corp, citing the company becoming "modestly more conservative" on near-term and intermediate-term earnings growth potential.
+-- also cited lower-than-expected growth at its Western Union international business; further delays in Act III, its healthcare claims processing system; slower-than-expected sales at its First Image business; and tighter lending stadnards from credit-card issuers.
+-- Togut said managers remain confident of a 20 percent EPS growth target.
+-- reduced his earnings estimate to $2.72 per share from $2.75 for 1996, and to $3.25 from $3.35 for 1997.
+-- kept his rating at outperform.The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+			 First Call Earnings Surprises
+Positive Surprises
+------------------	First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS   Surprise
+S&K Famous Brands  Q2Jul96    0.13     0.17     30.8%
+Brown Group Inc    Q2Jul96    0.25     0.31     24.0%
+National Picture   Q1Jul96    0.11     0.13     18.2%
+Layne Inc	    Q2Jul96    0.25     0.28     12.0%
+Shiloh Industries  Q3Jul96    0.28     0.31     10.7%
+PHH Corp	     Q1Jul96    0.56     0.61	8.9%
+Harnischfeger Corp Q3Jul96    0.74     0.80	8.1%
+Toys R Us Inc	Q2Jul96    0.09     0.10	N/A
+Negative Surprises
+------------------				First Call
+				   Consensus Actual
+Company Name	 Period    EPS     EPS   Surprise
+BioWhittaker Inc    Q3Jul96   0.14    0.13     -7.1%
+Designs Inc	   Q2Jul96   0.08    0.04	N/A
+			Other Companies Reporting Today
+Positive Reports
+----------------			     First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Harcourt General    Q3Jul96    1.45     1.45     0.0%
+SCB Computer Techno Q1Jul96    0.18     0.18     0.0%
+Negative Reports
+----------------				First Call
+				    Consensus  Actual
+ Company Name	Period     EPS	EPS     Diff.
+None Reported.
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.Analysts estimates of major South African company results expected this week include the following (all figures cents per share):
+DAY--COMPANY--------------PERIOD--CONSENSUS----RANGE-------PVS
+WED  Liberty Life	   H1 EPS  252.7	240.0-268.0   175.9
+     Liberty Life	   H1 DIV  145.7	145.0-148.0   116.0
+-- Johannesburg newsroom +27 11 482 1003The following bond was announced by lead manager Sal Oppenheim jr. & Cie.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT    100 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+-- London Newsroom +44 171 542 7658Includes all companies that have reported EPS and have at
+least one quarterly estimate in I/B/E/S. Reported estimate are
+compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			   MEAN ESTIMATE
+HARNISCHFEGER IN		$0.74
+TOYS R US			 $0.08
+HARCOURT GENERAL		$1.45
+MEDTRONIC INC		   $0.54FRENCH FRAGRANCES INC
+			3 Mos ended 7/31	   6 Mos ended 7/31
+			1996	  1995	   1996	   1995
+Net Sales  $23,802,106 $14,913,452  $43,118,599  $30,645,569  Gross Profit 8,564,748   3,484,502   14,425,253    6,526,080
+ EBITDA	 3,508,654   1,118,111    5,461,314    2,250,672
+Income From Operations
+		  2,517,035     812,156    3,937,394    1,658,810
+ Net Income     676,638    (109,084)     968,983	 38,972
+ Shrs	  12,281,453   7,120,000(a)11,728,719  7,120,000(a)
+ Primary EPS	  .06     (.02)(a)	    .08	 .01(a)
+NOTE: (a) Shares for three and six months ended July 31, 1995 presented on a pro forma basis using conversion factor of 7.12 for each historical share outstanding.Rupert Murdoch's News Corp Ltd is expected to report on Thursday a stagnant net profit for the year to June 30, held back by soaring newsprint costs and losses from its burgeoning Star TV operations, analysts said.
+The median forecast in BZW's BARCEPS broker survey is for a A$1.343 billion net profit before abnormals for the year, a virtual replica of the A$1.342 billion profit posted in 1994/95.
+Analysts said News may even struggle to match last year's result, particularly given its lower than expected third quarter result.  
+"It's got to be a reasonably strong last quarter to match that (1994/95) figure," said ABN AMRO Hoare Govett media analyst John Bell.
+"I doubt there'll be many surprises on the upside," he said.
+News posted a A$281 million net profit before abnormals in the third quarter, below expectations of about A$300 million and taking profits for the first nine months of the year to A$944 million.
+The result is expected around 8.30 a.m. Australian time on Thursday (2230 GMT Wednesday).  
+Analysts said News' 1995/96 profits had been restrained generally by the higher paper costs, a U.K. cover price war and continued losses from its Star TV operation in Hong Kong.
+"People will look at newspapers because that will reflect higher newsprint prices and the impact of the newspaper price war," said one Melbourne media analyst.
+Margins on News' British newspapers were seen pressured in the final few months of the year by cover price discounts ahead of the Olympics.
+"There was a little bit of renewed competition on the Monday cover prices pre-Olympics," Bell said.  
+"Margins may have slipped a little bit in the last few months of the year," he said.
+Star TV was seen pumping out another US$90 million to US$100 million of losses for the year as it establishes itself in the potentially lucrative Asian satellite television markets.
+"I would expect a full year loss of US$90 million given what we've been told so far and I've seen nothing to change that," the Melbourne analyst said.
+"I would see it somewhere in excess of of US$100 million," Bell said.  
+Continued strong earnings from U.S. television and films are seen offsetting somewhat the newsprint and Star TV losses.
+Looking ahead however, analysts are confident News' profits can start growing again in 1996/97, boosted by potentially lower newsprint prices and an earnings surge from the hit U.S. special effects movie, "Independence Day".
+"'Independence Day' could add up to US$200 million to the bottom line," said Bell, who forecast net profit rising to A$1.5 billion in 1996/97.  
+"The 1996/97 result will show some clear profit growth as much as anything because of paper prices and 'Independence Day'," the Melbourne analyst said, who forecast a A$1.6 billion net profit.
+News' share price was down one cent at A$6.49 at 2.00 p.m. (0400 GMT).
+-- Sydney Newsroom 61-2 9373-1800Philippines' Asiatrust Bank has set a price of 39.88 pesos per share for its initial public offering due to open on September 3, the issue's international lead manager PrimeEast Capital (HongKong) Ltd said.
+The bank is offering 18.8 million shares, or a 27.1 percent public float and hopes to raise 750 million pesos. The offer closes September 16 and listing is set for October 7.
+PrimeEast said money from the IPO would be used to fund the bank's loan portfolio expansion, for information technology upgrade as well as for opening of new branches.
+"The issue is very attractive at a PER of 11 times prospective 1997 earnings on an expected EPS growth of 70 percent," PrimeEast's research head for the Philippines, Joy Quintos, said in a statement.
+"This is a big discount to the average sector PER of 16.5 times for 1997, with an estimated average EPS growth of 31 percent," Quintos said.
+Asiatrust's net earnings have grown by a compounded annual rate of 32 percent in the last five years and this is expected to grow by 70 percent and 31 percent in 1996 and 1997, the statement said. PrimeEast said a roadshow was planned in Hong Kong and Singapore later this month.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  3.70		 3.51
+ Current	   prft 40 million  loss 185    million
+ Net		 prft 15 million  loss 191    million
+ EPS	     prft 1.66 yen   loss 21.19 yen
+ Ord div		 nil		  nil
+NOTE - Norita Kogaku KK is a specialist maker of lenses.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.09		vs	    1.54
+ Operating	   48    million    vs	   24    million
+ Current	   prft 26 million    vs    loss 14    million
+ Net		  prft 3 million    vs    loss 15    million
+ EPS	     prft 0.38 yen	  vs     loss 1.75 yen
+ Shares		9 million	  vs	   9 million
+ Interim div	   nil		vs	     nil
+NOTE - Norita Kogaku KK is a specialist maker of lenses.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  4.25		 3.93
+ Current	    594    million	 635    million
+ Net		  307    million	 284    million
+ EPS		   50.79 yen	 534.63 yen
+ Ord div	     12.50 yen	  62.50 yen
+NOTE - IMI Co Ltd is the full company name.  
+IMI's forecast for 1996 earnings per share (EPS) is based on the firm's current 6.06 million shares outstanding against 571,000 shares as of December 31, 1995, it said.
+The dramatic increase in the number of IMI shares is mainly due to a share split the company carried out on May 1. IMI split each of its shares, which had a face value of 500 yen, into 10 shares with a 50-yen face value. It also issued an additional 350,000 shares on July 24, IMI said.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.28		vs	    1.95
+ Operating	  407    million    vs	  281    million
+ Current	    392    million    vs	  281    million
+ Net		  195    million    vs	  128    million
+ EPS		   34.18 yen	  vs	  262.14 yen
+ Shares		6 million	  vs	 571,000
+ Interim div	   nil		vs	     nil
+NOTE - IMI Co Ltd split its share with a 500-yen face value into 10 shares with a 50-yen face value on May 1.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.30		 5.72
+ Current		1.00	     844    million
+ Net		  500    million	 388    million
+ EPS		   56.91 yen	  44.42 yen
+ Ord div	     10.50 yen	  10.50 yen
+NOTE - Create Medic Co Ltd specialises in the manufacturing of disposable medical supplies.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 81.00		80.01
+ Current		2.10		 2.05
+ Net		    1.10		 1.01
+ EPS		   16.49 yen	  15.18 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - Hokkai Can Co Ltd manufactures cans for canned foods.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.96		vs	    2.68
+ Operating	  483    million    vs	  336    million
+ Current	    472    million    vs	  349    million
+ Net		  240    million    vs	  150    million
+ EPS		   27.43 yen	  vs	   17.18 yen
+ Shares		9 million	  vs	   9 million
+ Interim div	   nil		vs	     nil
+NOTE - Create Medic Co Ltd specialises in the manufacturing of disposable medical supplies.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.20		 5.31
+ Current	     75    million	  19    million
+ Net		   68    million	  48    million
+ EPS		   12.57 yen	   8.93 yen
+ Ord div		 nil		  nil
+NOTE - Tokki Corp is a maker of factory automation equipment.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 38.32		vs	   39.22
+ Operating	    1.10		vs	    1.15
+ Current	    831    million    vs	    1.02
+ Net		  427    million    vs	  634    million
+ EPS		    6.41 yen	  vs	    9.54 yen
+ Shares	     67 million	  vs	  67 million
+ Interim div	  3.75 yen	  vs	    3.75 yen
+NOTE - Hokkai Can Co Ltd manufactures cans for canned foods.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  5.31		vs	    4.70
+ Operating	 prft 22 million    vs   loss 202    million
+ Current	   prft 19 million    vs   loss 293    million
+ Net		 prft 48 million    vs   loss 587    million
+ EPS	     prft 8.93 yen	  vs   loss 108.48 yen
+ Diluted EPS	     -		vs		 -
+ Shares		5 million	  vs	   5 million
+ Ord div		 nil		vs	     nil
+NOTE - Tokki Corp is a maker of factory automation equipment.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 20.00		19.31
+ Current	    300    million	 405    million
+ Net		  200    million	 243    million
+ EPS		   11.18 yen	  13.59 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Fujicopian Co Ltd is a leading developer and manufacturer of wide variety of recording printing media.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  9.31		vs	    9.51
+ Operating	   16    million    vs	  219    million
+ Current	     47    million    vs	  180    million
+ Net		   34    million    vs	  102    million
+ EPS		    1.93 yen	  vs	    5.74 yen
+ Shares	     18 million	  vs	  18 million
+ Interim div	  5.00 yen	  vs	    5.00 yen
+NOTE - Fujicopian Co Ltd is a leading developer and manufacturer of wide variety of recording printing media.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 38.00		36.76
+ Current		1.60		 1.44
+ Net		  600    million	 510    million
+ EPS		   17.89 yen	  15.21 yen
+ Ord div		8.00 yen	   8.00 yen
+NOTE - S.T. Chemical Co Ltd is a maker of mothballs, aromatics and resin gloves.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 48.00		52.10
+ Current		2.80		    3
+ Net		    1.80		 1.49
+ EPS		  121.30 yen	 110.69 yen
+ Ord div	     18.00 yen	  18.00 yen
+NOTE - I-O Data Device Inc manufactures PC memory boards.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 36.76		vs	   36.74
+ Operating	    1.76		vs	    2.25
+ Current		1.44		vs	    2.04
+ Net		  510    million    vs	    1.00
+ EPS		   15.21 yen	  vs	   29.94 yen
+ Shares	     34 million	  vs	  34 million
+ Ord div		8.00 yen	  vs	    8.00 yen
+NOTE - S.T. Chemical Co Ltd is a maker of mothballs, aromatics and resin gloves.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.00		 6.26
+ Current		 nil	loss 227    million
+ Net		 prft 70 million  loss 237    million
+ EPS	     prft 6.94 yen   loss 23.53 yen
+ Ord div		 nil		  nil
+NOTE - Daiwa Heavy Industry Co Ltd is an independent cast manufacturer.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 23.20		20.22
+ Current	    470    million	 356    million
+ Net		  210    million	 150    million
+ EPS		   61.21 yen	  47.89 yen
+ Ord div	     15.00 yen	  12.00 yen
+ -Commem div	     -		 3.00 yen
+NOTE - Nishikawa Keisoku Co Ltd is the full company name.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 52.10		vs	   43.67
+ Operating	    2.57		vs	    3.80
+ Current		3		   vs	    3.78
+ Net		    1.49		vs	    1.98
+ EPS		  110.69 yen	  vs	  188.95 yen
+ Diluted EPS	     -		vs		 -
+ Shares	     13 million	  vs	  11 million
+ Ord div	     18.00 yen	  vs	   17.00 yen
+NOTE - I-O Data Device Inc manufactures PC memory boards.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.41		vs	    3.07
+ Operating	 prft 45 million    vs    loss 69    million
+ Current	   prft 33 million    vs   loss 116    million
+ Net		prft 102 million    vs   loss 118    million
+ EPS	    prft 10.12 yen	  vs    loss 11.71 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Daiwa Heavy Industry Co Ltd is an independent cast manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 78.50		76.77
+ Current		1.80		 2.14
+ Net		  900    million	   1.36
+ EPS		    7.37 yen	  11.13 yen
+ Ord div		7.00 yen	   7.00 yen
+NOTE - Fujita Kanko Inc is a major operator of hotels and restaurants.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 20.22		vs	   18.96
+ Operating	  375    million    vs	  240    million
+ Current	    356    million    vs	  202    million
+ Net		  150    million    vs	   71    million
+ EPS		   47.89 yen	  vs	  233.57 yen
+ Shares		3 million	  vs	 313,000
+ Ord div	     15.00 yen	  vs	  100.00 yen
+NOTE - Nishikawa Keisoku Co Ltd is the full company name.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 38.85		vs	   37.63
+ Operating	    1.94		vs	    2.03
+ Current		1.17		vs	  794    million
+ Net		  460    million    vs	    1.20
+ EPS		    3.77 yen	  vs	    9.84 yen
+ Shares	    122 million	  vs	 122 million
+ Interim div	  3.50 yen	  vs	    3.50 yen
+NOTE - Fujita Kanko Inc is a major operator of hotels and restaurants.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		740.00	     637.51
+ Current	     22.00		15.46
+ Net		    9.00		 6.16
+ EPS		   71.92 yen	  51.95 yen
+ Ord div	     15.00 yen	  15.00 yen
+NOTE - Canon Sales Co Ltd is the sole distributor of Canon products in Japan.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 36.00		28.14
+ Current		3.00		 1.16
+ Net		    1.45	     550    million
+ EPS		   46.65 yen	  17.70 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Shibuya Kogyo Co Ltd operates domestic bottling plants.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 16.58		17.55
+ Current	    657    million	 974    million
+ Net		  305    million	 487    million
+ EPS		   34.61 yen	  62.38 yen
+ Ord div	     25.00 yen	  25.00 yen
+NOTE - Kozosushi So-Honbu Co Ltd is a nationwide franchiser of take-out sushi.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		365.97		vs	  307.98
+ Operating	   13.06		vs	    8.90
+ Current	     11.02		vs	    7.55
+ Net		    4.44		vs	    3.05
+ EPS		   35.85 yen	  vs	   25.69 yen
+ Shares	    125 million	  vs	 119 million
+ Interim div	  7.50 yen	  vs	    7.50 yen
+NOTE - Canon Sales Co Ltd is the sole distributor of Canon products in Japan.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 28.14		vs	   25.91
+ Operating	  740    million    vs	  129    million
+ Current		1.16		vs	  253    million
+ Net		  550    million    vs	  216    million
+ EPS		   17.70 yen	  vs	    6.97 yen
+ Shares	     31 million	  vs	  31 million
+ Ord div	     10.00 yen	  vs	    8.00 yen
+NOTE - Shibuya Kogyo Co Ltd operates domestic bottling plants.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.07		vs	    8.49
+ Operating	  251    million    vs	  374    million
+ Current	    303    million    vs	  452    million
+ Net		  144    million    vs	  224    million
+ EPS		   16.74 yen	  vs	   29.60 yen
+ Shares		9 million	  vs	   8 million
+ Interim div	 12.50 yen	  vs	   12.50 yen
+NOTE - Kozosushi So-Honbu Co Ltd is a nationwide franchiser of take-out sushi.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.20		 5.32
+ Current	    350    million	 259    million
+ Net		  176    million	  79    million
+ EPS		   23.28 yen	  10.54 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - Kyoritsu Air Tech Inc is a medium-scale air compression equipment maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.73		vs	    2.31
+ Operating	   77    million    vs	   72    million
+ Current	     71    million    vs	   58    million
+ Net		   32    million    vs	   20    million
+ EPS		    4.30 yen	  vs	    2.65 yen
+ Shares		8 million	  vs	   8 million
+ Interim div	   nil		vs	     nil
+NOTE - Kyoritsu Air Tech Inc is a medium-scale air compression equipment maker.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 46.50		26.16
+ Current	 loss 2.70	  loss 1.19
+ Net	     loss 2.50	  loss 2.26
+ EPS	   loss 240.38 yen  loss 217.75 yen
+ Ord div		 nil		  nil
+NOTE - Urban Life Co Ltd is a real estate company specialising in condominiums.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 20.00		20.03
+ Current	    900    million	 980    million
+ Net		  430    million	 689    million
+ EPS		   18.65 yen	  34.04 yen
+ Ord div		5.00 yen	   5.00 yen
+ -Special div	 1.00 yen	   1.00 yen
+NOTE - Taki Chemical Co Ltd is a fertiliser maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 14.66		vs	    3.36
+ Operating     loss 1.97		vs   loss 792    million
+ Current	 loss 2.41		vs     loss 2.16
+ Net	     loss 2.21		vs     loss 2.16
+ EPS	   loss 212.76 yen	  vs   loss 207.70 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Urban Life Co Ltd is a real estate company specialising in condominiums.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 10.74		vs	   10.48
+ Operating	  770    million    vs	  640    million
+ Current	    741    million    vs	  574    million
+ Net		  415    million    vs	  497    million
+ EPS		   19.14 yen	  vs	   24.55 yen
+ Shares	     23 million	  vs	  20 million
+NOTE - Taki Chemical Co Ltd is a fertiliser maker.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 16.50		15.44
+ Current	    640    million	 857    million
+ Net		  320    million	 130    million
+ EPS		   18.58 yen	   7.60 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - General Co Ltd is a major producer of thermal transfer ribbons.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 69.50		66.05
+ Current		6.00		 6.02
+ Net		    3.06		 3.43
+ EPS		   94.64 yen	 106.06 yen
+ Ord div	     17.00 yen	  17.00 yen
+NOTE - Sanyo Coca-Cola Bottling Co Ltd is a Coca-Cola bottler operating in western Japan.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.18		vs	    7.26
+ Operating	  384    million    vs	  471    million
+ Current	    392    million    vs	  344    million
+ Net		  132    million    vs	  118    million
+ EPS		    7.71 yen	  vs	    6.86 yen
+ Shares	     17 million	  vs	  17 million
+NOTE - General Co Ltd is a major producer of thermal transfer ribbons.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 32.01		vs	   29.97
+ Operating	     2.2		vs	    2.46
+ Current		2.27		vs	    2.58
+ Net		    1.17		vs	    1.33
+ EPS		   36.10 yen	  vs	   41.18 yen
+ Shares	     32 million	  vs	  32 million
+ Interim div	  8.50 yen	  vs	    8.50 yen
+NOTE - Sanyo Coca-Cola Bottling Co Ltd is a Coca-Cola bottler operating in western Japan.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 32.00		30.05
+ Current		2.70		 2.69
+ Net		    1.45		 1.45
+ EPS		   76.18 yen	  76.13 yen
+ Ord div	     15.00 yen	  15.00 yen
+ -Commem div	     -		 2.00 yen
+NOTE - Kaneshita Constructon Co Ltd is a medium-scale general contractor.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 18.10		18.18
+ Current     loss 240    million  loss 287    million
+ Net		   50    million	 207    million
+ EPS		    0.38 yen	   1.58 yen
+ Ord div		 nil		  nil
+NOTE - Kansai Kisen Kaisha is a leading operator of coastal carriers.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 19.14		vs	   17.28
+ Operating	    1.53		vs	    1.38
+ Current		1.62		vs	    1.42
+ Net		  881    million    vs	  752    million
+ EPS		   46.29 yen	  vs	   39.51 yen
+ Shares	     19 million	  vs	  19 million
+NOTE - Kaneshita Constructon Co Ltd is a medium-scale general contractor.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.40		vs	    9.12
+ Operating   loss 592    million    vs   loss 170    million
+ Current     loss 712    million    vs   loss 481    million
+ Net	   loss 403    million    vs	 prft 59 million
+ EPS	     loss 3.05 yen	  vs     prft 0.45 yen
+ Shares	    132 million	  vs	 132 million
+ Interim div	   nil		vs	     nil
+NOTE - Kansai Kisen Kaisha is a leading operator of coastal carriers.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 22.50		22.01
+ Current		3.60		 3.55
+ Net		    1.95		 1.90
+ EPS		   65.00 yen	  76.03 yen
+ Ord div	     18.00 yen	  18.00 yen
+NOTE - Danto Corp is a manufacturer of different types of tiles.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 10.43		vs	   10.75
+ Operating	    1.66		vs	    1.57
+ Current		1.79		vs	    1.50
+ Net		  968    million    vs	  803    million
+ EPS		   32.29 yen	  vs	   32.15 yen
+ Shares	     30 million	  vs	  25 million
+ Interim div	   nil		vs	     nil
+NOTE - Danto Corp is a manufacturer of different types of tiles.Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Otra		Wholesaler     31.50  ING Barings  
+COMMENT: Hold (from Sell) Otra's profit warning last week
+that net results in H1 1996 will be substantially (30-45 pct)
+below H1 1995, came as a surprise. Although estimates have been
+downgraded and a 38.5 pct decline of net profits to 24.5 mln
+guilders could be expected, it is worth raising the stock from
+sell to hold as the share price dropped 25 pct since the profit
+warning. Current share price incorporates all the bad news and
+downside risk is limited.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	 2.73		 n.a.     1.25
+    1996		    2.20   (2.67)    14.3     n.a. 
+    1997		    2.75   (3.15)    11.5     n.a.
+    1998		    3.15   (3.60)    n.a.
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)-- Cowen & Co analyst James Kedersha said he raised his 1996 and 1997 earnings per share view on Newbridge Networks Corp after the company reported solid first quarter results.
+He said he raised his 1997 EPS estimate by $0.10 to $2.25 and his 1998 EPS view by $0.15 to $2.85.
+"There has been a lot of controversy about Newbridge over the past quarter and a number of analysts have either downgraded the stock or cast serious doubts on its ability to make the quarter," Kedersha said.
+"It turns out that they didn't just make the quarter but they beat it," he said, adding that orders were strong and the company had a positive balance sheet. "Everything you could want was there."
+-- Shares of Newbridge were up 6-5/8 at 55 on the NYSE.The following bond increase was announced by lead manager Kredietbank.
+ BORROWER   KREDIETBANK INTERNATIONAL FINANCE
+ GUARANTOR  KREDIETBANK NV
+ AMT   *125 MLN	 COUPON   **5.0	 MATURITY    18.SEP.00
+ TYPE	 STEP-UP   ISS PRICE  101.95    PAY DATE    18.SEP.96
+ FULL FEES  1.625     REOFFER    100.55    SPREAD	+26 BP
+ NOTES     *INCREASED BY $50 MILLION, ORIGINALLY LAUNCHED FOR
+		$75 MILLION ON 30.JUL.96.
+	    **FOR FIRST TWO YEARS THEN STEPS-UP TO 8.0 PERCENT
+	     THEREAFTER.
+ MOODY	AA2	 LISTING    LUX	 PAY FREQ    ANNUAL
+ S&P	  AA-	 DENOMS (K) 1-5	 SALE LIMITS =
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    ENGLISH   MGT/UND    22.5 BP   SELL CONC  1.40
+ UNDERLYING GOVT BOND AUGUST-99 UST.
+ NOTES	SENIOR, UNSECURED. ISSUED OFF AN MTN PROGRAMME.
+-- London Newsroom +44 171 542 7658The following Pfandbrief, announced on Tuesday by lead manager Sal Oppenheim jr. & Cie, has been increased to 150 million marks.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT ***50 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+		***TOTAL NOW 150 MILLION MARKS
+-- London Newsroom +44 171 542 7658Analysts' estimates of UK company results expected in week ending August 23 include -
+COMPANY----------------PFT/DIV/EPS--CONSENSUS----RANGE-------PVS
+WEDNESDAY, Aug 21
+- No major companies reporting
+THURSDAY, Aug 22
+ Rentokil	   ** I    PFT	137.7	135.0-141.0   99.2
+ Group Plc		    DIV	  1.48	   n/a	 1.23
+FRIDAY, Aug 23
+- No major companies reporting
+NOTES -
+** The Rentokil forecasts are pre exceptional and include
+two months of profits from BET.
+All profit figures are pretax, exclude exceptional items
+unless otherwise stated and are in millions stg. Dividends
+are total net and quoted as pence per share.
+John Sutherland, London Newsroom +44 171 542 7945Includes all companies that have reported EPS and have at
+least one quarterly estimate in I/B/E/S.  Reported EPS are
+compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			     MEAN ESTIMATE
+DAYTON HUDSON		   $0.35
+LIMITED INC		    $0.12Analog Devices Supplemental Information
+				Third Quarter, Fiscal 1996
+				Sales/Earnings Summary
+				     Three Months Ended
+				   Aug 3, 1996    Jul 29, 1995
+    Net Sales			305,042	 246,301
+    Net Income		     $43,796	 $31,781
+    Shares used for EPS	  129,694	 119,777
+    Earnings per Share	     $0.35	   $0.27
+					  Nine Months Ended
+				     Aug 3, 1996   Jul 29, 1995
+    Net Sales			889,139	 684,352
+    Net Income		    $127,881	 $84,136
+    Shares used for EPS	  127,771	 118,596
+    Earnings per Share	     $1.03	   $0.71
+-- New York newsdesk, (212) 859-16101996			1995
+ Shr			   $0.81		    $0.72
+ Net			  68,100		   60,200
+ Revs		    2,702,800		2,436,800
+			9  MONTHS
+ Shr			   $2.24		    $1.99
+ Net			 189,200		  165,800
+ Revs		    7,687,500		6,725,800
+(All Data Above 000s Except Per Share Numbers)
+NOTE: First Call 1996 Q3 EPS estimate $0.82/shr.
+Periods ended July 31.13 Weeks Ended	    26 Weeks Ended
+		   Aug 3,     Jul 29,	 Aug 3,	 Jul 29,
+		     1996	 1995	    1996	    1995
+ Net sales   $28,870,964 $27,381,538  $52,091,437  $50,917,580
+ Gross profit 12,825,191  11,563,494   22,733,138   20,610,517
+Total operating
+   expenses   11,775,533  10,829,927   22,899,706    1,629,973
+Income from operations
+		   1,049,658     733,567    (166,568)  (1,019,456)
+ Other expense  (720,085)   (723,488)  (1,454,010) (1,309,715)
+Income before income
+    taxes	  329,573	10,079  (1,620,578)  (2,329,171)
+ Net income	199,937	10,079   ( 989,655)  (2,329,171)
+ EPS		    0.03	  0.00	( 0.13)	( 0.34)Summary of August 21 research.
+Company-------Sector--------------Price---------Broker--------
+    Pakhoed    transport/storage   45.90	   ING Barings
+COMMENT: Buy (unchanged)
+Pakhoed's H1 results from normal operations somewhat better than expected. Cost cutting programs, divestments and investments and a clear strategy could pave the way for better returns in coming two to three years. Company has taken major steps to focus on tank storage and distribution/shipping of chemicals. Based on positive developments and EPS upside of 7.00 guilders by 1999 we maintain our Buy recommendation.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	4.08		  11.2    1.80
+    1996		   4.13    (3.96)    11.1    1.80
+    1997		   5.00    (unch)     9.2    2.10
+    1998		   5.75    (unch)     8.0    2.30
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Vendex	    retail	   59.80  ING Barings
+COMMENT: Buy (from Hold). Following positive Dutch retail sales figures for the first six months of 1996, we expect a spectacular turnaround at Vendex Food and moderate increase in both sales and results at Vroom & Dreesmann department stores and the firm's speciality stores. Also sustained growth in temporary services. The share buy-back of 4 million common stock should give inspiration. 1996 and 1997 EPS estimates raised.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1996		   5.30     (4.85)   11.3     1.90
+    1997		   5.90     (5.50)   10.2     2.10
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)Lower than expected first half profits at Swiss banking group CS Holding underscore the urgency of huge restructuring plans announced by the conglomerate in July, analysts said.
+Analysts said net profit for the first six months, which increased 20 percent after minority interests, was below most expectations. Costs grew more strongly than widely forecast.
+But several analysts also said the quality of CS profits was increasing and added that the group had greater potential than rivals Union Bank of Switzerland (UBS) or Swiss Bank Corp (SBC) because it was restructuring later.  
+Market forecasts of net profit had ranged between 879 million and 1.104 billion Swiss francs, compared to the group's 830 million after minority interests.
+"The difference between CS Holding and the other two big banks underscores the need for restructuring," said banking analyst Thomas Bieri at Zurich Cantonal Bank.
+"I have the impression that costs are relatively high at CS Holding than at the others," he told Reuters.
+CS Holding's total operating expenses rose 17 percent, which it said was mainly due to incentive bonuses paid to staff.  
+John Leonard from Salomon Bros in London said he was puzzled that staff bonuses had risen so strongly.
+CS Holding said incentive pay comprised 400 million Swiss francs of an overall increase in staff costs of 498 million, or 21 percent, to 2.86 billion Swiss francs.
+"I know incentive payments increase generally as revenues grow. But it was a real source of suprise that the accruals for incentive compensation rose so strongly," he said.
+"Total costs were a couple of hundred million (Swiss francs) more than I expected," Leonard added.  
+Leonard said the cost ratio at CS Holding was 67.4 percent including depreciation, as against 69 percent a year earlier.
+By comparison, SBC had a cost ratio with depreciation of 68.4 percent in the first half of this year and UBS posted 61.5.
+Thomas Kalbermatten from UBS Global Research, who had forecast net profit growth higher at 28 percent, said it was positive that commission income now made up 38 percent of all earnings from 36 percent in the same period last year.
+"The quality of profits is improving in a way that has become general in the banking sector," he said.
+"Compared to other Swiss banks, CS Holding has the greatest potential because it is just starting on reorganisation," he said.
+Kalbermatten said potential costs savings and earnings growth had alrady been tapped at least in part by CS's rivals.
+UBS has spent several years streamlining its activities and SBC, which last year integrated investment banking arm SBC Warburg, in May announced a reorganisation along four core business lines.
+Kalbermattern said he would maintain his estimates for CS Holding 1996 full-year net profit of 1.6 billion or 8.50 Swiss francs earnings per share and for 1997 of 2.07 billion or 10.90 per share. He maintains CS and SBC as buy ratings.
+Salomon's Leonard said he would likely lower his EPS estimates from 8.96 Swiss francs this year and 10.40 in 1997. CS Holding would remain a hold alongside SBC and UBS, with SBC favoured.
+Bieri at Zurich Cantonal Bank also said he would lower his 1996 full-year forecast for CS Holding from net profit of 1.619 billion and an EPS of 8.40.
+Bieri said he would likley downgrade CS Holding from buy to hold. UBS is a hold and SBC a buy in his ratings.
+-- Marcus Kabel, Zurich Newsroom, +41-1-631 7340Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.38		 7.07
+ Current	    788    mln	 818    mln
+ Net		  355    mln	 338    mln
+ EPS		   48.33 yen	  46.01 yen
+ Ord div	     15.00 yen	  15.00 yen
+NOTE - Agro-Kanesho Co Ltd is a medium-scale producer of agrochemicals.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  4.39		vs	    4.31
+ Operating	  501    mln	  vs	  539    mln
+ Current	    534    mln	  vs	  605    mln
+ Net		  333    mln	  vs	  265    mln
+ EPS		   45.40 yen	  vs	   36.16 yen
+ Shares		7 million	  vs	   7 million
+ Interim div	   nil		vs	     nil
+NOTE - Agro-Kanesho Co Ltd is a medium-scale producer of agrochemicals.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.54		 6.33
+ Current	    650    mln	 650    mln
+ Net		  280    mln	 276    mln
+ EPS		   55.31 yen	  54.59 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Koken Ltd is the largest manufacturer of gas and dust masks.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.57		vs	    3.27
+ Operating	  506    mln	  vs	  469    mln
+ Current	    450    mln	  vs	  396    mln
+ Net		  228    mln	  vs	  161    mln
+ EPS		   45.00 yen	  vs	   31.89 yen
+ Shares		5 million	  vs	   5 million
+ Interim div	   nil		vs	     nil
+NOTE - Koken Ltd is the largest manufacturer of gas and dust masks.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.10		 6.91
+ Current	     61    mln	  58    mln
+ Net		   18    mln	  32    mln
+ EPS		    1.79 yen	   3.23 yen
+ Ord div		 nil		  nil
+NOTE - Japan Resistor Mfg Co makes resistors, hybrid ICs, pentiometers and some electronic equipment.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.21		vs	    3.47
+ Operating	   34    mln	  vs	   33    mln
+ Current	     34    mln	  vs	   17    mln
+ Net		    4    mln	  vs	    7    mln
+ EPS		    0.45 yen	  vs	    0.74 yen
+ Shares	     10 million	  vs	  10 million
+NOTE - Japan Resistor Mfg Co makes resistors, hybrid ICs, pentiometers and some electronic equipment.Year to May 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Group)		FORECAST	  YEAR-AGO
+ Sales		 29.90		28.83
+ Current	    525    mln	 540    mln
+ Net		  260    mln	 278    mln
+ EPS		   60.68 yen	  65.00 yen
+NOTE - Otake Corp is a specialist trader of valves, pipe coupling and other piping materials.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		220.00	     208.55
+ Current		8.70		 8.45
+ Net		    3.70		 3.41
+ EPS		   68.04 yen	  62.75 yen
+ Ord div	     10.50 yen	   8.00 yen
+NOTE - Kirin Beverage Corporation is the soft drink division of the Kirin Brewery Co Ltd group.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 96.71		vs	   94.17
+ Operating	    4.49		vs	    3.71
+ Current		3.52		vs	    2.74
+ Net		    1.58		vs	    1.21
+ EPS		   29.13 yen	  vs	   22.20 yen
+ Shares	     54 million	  vs	  54 million
+ Interim div	  5.25 yen	  vs	    4.00 yen
+NOTE - Kirin Beverage Corporation is the soft drink division of the Kirin Brewery Co Ltd group.Year to May 31, 1996
+ (Group)	(in billions of yen unless specified)
+ Sales		 28.83		vs	   27.27
+ Operating	  576    million    vs	  683    million
+ Current	    540    million    vs	  489    million
+ Net		  278    million    vs	  205    million
+ EPS		   65.00 yen	  vs	   58.83 yen
+NOTE - Otake Corp is a specialist trader of valves, pipe coupling and other piping materials.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  4.70		 4.34
+ Current	    110    mln	 181    mln
+ Net		  280    mln	  92    mln
+ EPS		   28.00 yen	   9.18 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Riken Corundum Co Ltd is a major producer of sandpaper.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 64.00		61.04
+ Operating	    1.00	     557    mln
+ Current	    800    mln	 567    mln
+ Net		  470    mln	 229    mln
+ EPS		   17.00 yen	   8.29 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Canon Electronics Inc is a producer of camera units and magnetic heads.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.26		vs	    2.13
+ Operating	   77    mln	  vs	  110    mln
+ Current	     74    mln	  vs	  115    mln
+ Net		  243    mln	  vs	   61    mln
+ EPS		   24.27 yen	  vs	    6.11 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	  2.50 yen	  vs	    2.50 yen
+NOTE - Riken Corundum Co Ltd is a major producer of sandpaper.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 30.81		vs	   29.82
+ Operating	  505    mln	  vs	   93    mln
+ Current	    469    mln	  vs	  107    mln
+ Net		  223    mln	  vs	   63    mln
+ EPS		    8.08 yen	  vs	    2.29 yen
+ Shares	     28 million	  vs	  28 million
+ Interim div	   nil		vs	     nil
+NOTE - Canon Electronics Inc is a producer of camera units and magnetic heads.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 12.30		10.83
+ Current	    460    mln	 243    mln
+ Net		  230    mln	 114    mln
+ EPS		   58.49 yen	  29.28 yen
+ Ord div	     10.00 yen	  25.00 yen
+NOTE - Luckland Co Ltd is a design, planning and construction firm.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  5.26		vs	    4.48
+ Operating	  109    mln	  vs	  105    mln
+ Current	    153    mln	  vs	   47    mln
+ Net		   69    mln	  vs	   23    mln
+ EPS		   17.78 yen	  vs	    6.04 yen
+ Shares		4 million	  vs	   4 million
+ Interim div	   nil		vs	     nil
+NOTE - Luckland Co Ltd is a design, planning and construction firm.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 40.00		42.90
+ Current	    400    mln	 652    mln
+ Net		  200    mln	 304    mln
+ EPS		    8.81 yen	  13.42 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Marantz Japan Inc is an audio equipment maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 18.78		vs	   22.07
+ Operating	    7    mln	  vs	  402    mln
+ Current	     36    mln	  vs	  355    mln
+ Net		   30    mln	  vs	  171    mln
+ EPS		    1.36 yen	  vs	    7.53 yen
+ Shares	     23 million	  vs	  23 million
+NOTE - Marantz Japan Inc is an audio equipment maker.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Group)		FORECAST	  YEAR-AGO
+ Sales		 28.20		27.40
+ Current	    970    mln	 943    mln
+ Net		  460    mln	 329    mln
+ EPS		   49.49 yen	  35.48 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to June 30, 1996
+ (Group)	(in billions of yen unless specified)
+ Sales		 27.40		vs	   27.78
+ Operating	    1.30		vs	    1.26
+ Current	    943    million    vs	  633    million
+ Net		  329    million    vs	  277    million
+ EPS		   35.48 yen	  vs	   29.82 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 31.85		34.95
+ Current	    179    mln	   1.91
+ Net		   42    mln	 442    mln
+ EPS		    0.67 yen	   7.11 yen
+ Ord div		7.00 yen	   7.00 yen
+NOTE - Avon Products Co Ltd produces and sells cosmetics in Japan.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 14.12		vs	   16.19
+ Operating   loss 161    mln	  vs	prft 702 mln
+ Current	loss 83    mln	  vs	prft 796 mln
+ Net	    loss 82    mln	  vs	loss 269 mln
+ EPS	     loss 1.32 yen	  vs     loss 4.33 yen
+ Shares	     62 million	  vs	  62 million
+ Interim div	   nil		vs	     nil
+NOTE - Avon Products Co Ltd produces and sells cosmetics in Japan.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 28.20		27.40
+ Current	    920    mln	 829    mln
+ Net		  440    mln	 283    mln
+ EPS		   47.34 yen	  30.52 yen
+ Ord div	     11.00 yen	  11.00 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 52.00		55.52
+ Current		1.20		 1.18
+ Net		  320    mln	 271    mln
+ EPS		   10.89 yen	   9.51 yen
+ Ord div		6.00 yen	   6.00 yen
+NOTE - Nippon Typewriter Co Ltd is a maker of Japanese-language typewriters.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 27.40		vs	   27.78
+ Operating	  990    million    vs	  969    million
+ Current	    829    million    vs	  607    million
+ Net		  283    million    vs	  276    million
+ EPS		   30.52 yen	  vs	   29.78 yen
+ Shares		 9 million	 vs	   9 million
+ Ord div	     11.00 yen	  vs	   11.00 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 27.65		vs	   28.34
+ Operating	  410    mln	  vs	  390    mln
+ Current	    663    mln	  vs	  590    mln
+ Net		  209    mln	  vs	  166    mln
+ EPS		    7.29 yen	  vs	    5.85 yen
+ Shares	     29 million	  vs	  29 million
+ Interim div	  3.00 yen	  vs	    3.00 yen
+NOTE - Nippon Typewriter Co Ltd is a maker of Japanese-language typewriters.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		175.00	     169.17
+ Current		3.00		 4.88
+ Net		  300    mln	 332    mln
+ EPS		    9.17 yen	  10.16 yen
+ Ord div		9.00 yen	   9.00 yen
+NOTE - Arai-Gumi Ltd is a general construction contractor.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.40		  6.9
+ Current		1.27	     962    mln
+ Net		  674    mln	 519    mln
+ EPS		   55.30 yen	  53.25 yen
+ Ord div	     12.00 yen	  12.00 yen
+NOTE - Nippon Ceramic Co Ltd is a top manufacturer of fine ceramics-based sensors.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 82.46		vs	   74.80
+ Operating	    2.18		vs	    3.14
+ Current	    864    mln	  vs	    1.51
+ Net		  139    mln	  vs	  191    mln
+ EPS		    4.28 yen	  vs	    5.86 yen
+ Shares	     33 million	  vs	  33 million
+ Interim div	   nil		vs	     nil
+NOTE - Arai-Gumi Ltd is a general construction contractor.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.39		vs	    3.23
+ Operating	  278    mln	  vs	  209    mln
+ Current	    846    mln	  vs	  359    mln
+ Net		  451    mln	  vs	  201    mln
+ EPS		   38.29 yen	  vs	   20.62 yen
+ Shares	     12 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Nippon Ceramic Co Ltd is a top manufacturer of fine ceramics-based sensors.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 50.00		47.38
+ Current		3.00		 2.32
+ Net		    1.30		 1.05
+ EPS		   36.99 yen	  29.74 yen
+ Ord div		8.00 yen	   7.00 yen
+NOTE - Mitsubishi Pencil Co Ltd is a maker of writing instruments.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 92.00		90.03
+ Current		2.60		 3.02
+ Net		    1.25		 1.56
+ EPS		   18.75 yen	  23.48 yen
+ Ord div		7.50 yen	   7.50 yen
+ -Special div	 1.00 yen	   1.00 yen
+NOTE - Okura Industrial Co Ltd is a chemical producer.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 26.14		vs	   24.28
+ Operating	    1.53		vs	    1.17
+ Current		1.63		vs	  951    million
+ Net		  686    million    vs	  429    million
+ EPS		   19.53 yen	  vs	   12.21 yen
+ Shares	     35 million	  vs	  35 million
+ Interim div	  3.50 yen	  vs	    3.25 yen
+ -Commem div	  1.00 yen	  vs		 -
+NOTE - Mitsubishi Pencil Co Ltd is a maker of writing instruments.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 44.44		vs	   44.36
+ Operating	    1.42		vs	    1.97
+ Current		1.25		vs	    1.64
+ Net		  593    million    vs	  877    million
+ EPS		    8.90 yen	  vs	   13.16 yen
+ Shares	     67 million	  vs	  67 million
+ Interim div	   nil		vs	     nil
+NOTE - Okura Industrial Co Ltd is a chemical producer.Discount Investment Corp Ltd, a subsidiary of IDB Holdings.
+			   (In thousands of shekels except EPS)
+			   Q2 96    Q2 95    6-MTH 96	6-MTH 95
+Revenue		  69,140   55,044   144,259	 103,327
+Pretax profit	  52,852   40,982   107,239	  75,274
+Net profit	     49,679   38,681   101,783	  71,059
+EPS			 5.3	4.1	10.9	     7.6
+The company declared an interim dividend for 1996 of 15 million shekels which will be paid in October.
+- Tel Aviv newsroom, 972-3-537-2211Norwegian energy group Hafslund ASA on Wednesday attributed a 28 percent decline in first half operating profits to low water levels for hydropower production.
+Hafslund's production fell 19 percent in the six month period to 985 gigawatt hours (GWh) compared with 1,211 GWh a year ago.
+Operating profit amounted to 103 million crowns against 143 million crowns in the first half of 1995. Pre-tax profits slipped 30 million crowns to 150 million crowns.
+"The decline in operating profit is caused by substantially lower water level in the Glomma River in the first six months of 1996 compared with last year," Hafslund said in a statement.
+Norwegian power production has fallen in the first half of the year due to a shortfall of rain and snowfall last winter, which has resulted in low water levels in the country's reservoirs for hydroelectric production.
+Hafslund said electricity prices in the spot market were stable and high due to the low precipitation. Avergae spot level for the period to June 30 was 0.238 crowns per kilowatt hour (kWh) compared with 0.128 kWh last year.
+The group posted earnings per share (EPS) for the first half of 1.12 crowns.
+--Oslo newsroom, +47 22 42 50 41Analysts' estimates of UK company results expected in week ending August 23 include -
+COMPANY---------PFT/DIV/EPS--CONSENSUS----RANGE-------PVS
+THURSDAY, Aug 22
+ Rentokil ** I    PFT	137.7	135.0-141.0   99.2
+ Group Plc	  DIV	  1.48	   n/a	 1.23
+FRIDAY, Aug 23 - No major companies reporting
+NOTES -
+** The Rentokil forecasts are pre exceptional and include
+two months of profits from BET.
+All profit figures are pretax, exclude exceptional items
+unless otherwise stated and are in millions stg. Dividends
+are total net and quoted as pence per share.
+John Sutherland, London Newsroom +44 171 542 7945Includes all companies that have reported EPS and have at least one quarterly estimate in I/B/E/S.  Reported EPS are compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			 MEAN ESTIMATE
+KMART CORP			$0.08
+H & R BLOCK		   -$0.20
+FLUOR CORP		     $0.82-- Cowen & Co said it cut its 1996 earnings per share estimate on SDL Inc by $0.13 to $0.68 and its 1997 EPS view by $0.04 to $1.00.
+-- The stock was down 13 at 15 in trading on Thursday morning.  
+-- The analyst was not immediately available for comment.The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+		     First Call Earnings Surprises
+Positive Surprises
+ ----------------	First Call
+				     Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Wet Seal	     Q2Jul96    0.13     0.25     92.3%
+Hechinger Co	 Q2Jul96    0.20     0.28     40.0%
+Engineered Support Q3Jul96    0.23     0.28     21.7%
+Mac Frugal's Barg  Q2Jul96    0.10     0.12     20.0%
+Craig (Jenny) Inc  Q4Jun96    0.32     0.36     12.5%
+Spartech Corp	Q3Jul96    0.18     0.20     11.1%
+Centennial Techn   Q4Jun96    0.20     0.22     10.0%
+GC Companies	 Q3Jul96    0.98     1.07	9.2%
+LSI Industries     Q4Jun96    0.24     0.26	8.3%
+Smithfield Foods   Q1Jul96   -0.12     0.02	 N+
+Unify Corp	   Q1Jul96   -0.02     0.03	 N+
+Petsmart  Inc	Q2Jul96    0.09     0.10	N/A
+		 Negative Surprises
+------------------     First Call
+				   Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Fay's Inc	    Q2Jul96    0.10     0.07    -30.0%
+TSX Corporation    Q1Jul96    0.24     0.22     -8.3%
+Analog Devices     Q3Jul96    0.37     0.35     -5.4%
+Central Tractor    Q3Jul96    0.38     0.36     -5.3%
+Compuserve Corp    Q1Jul96   -0.15    -0.19	 N-
+H & R Block	  Q1Jul96   -0.21    -0.27	 N-
+Texfi Industries   Q3Jul96   -0.04    -0.14	 N-
+		   Other Companies Reporting Today
+Positive Reports
+--------------			  First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Nordson Corp	 Q3Jul96    0.62     0.65	4.8%
+Ross Stores Inc    Q2Jul96		  .72	4.3%
+Zygo Corp	    Q4Jun96    0.46     0.48	4.3%
+ChildTime Learning Q1Jun96    0.25     0.26	4.0%
+Longs Drug Stores  Q2Jul96    0.67     0.69	3.0%
+Duty Free Intl     Q2Jul96    0.22     0.22	0.0%
+Methode Electron   Q1Jul96    0.23     0.23	0.0%
+MacNeal-Schwendler Q2Jul96    0.14     0.14	0.0%
+Parlex Corp	  Q4Jun96    0.18     0.18	0.0%
+Standex Intl	 Q4Jun96    0.49     0.49	0.0%
+Genesco Inc	  Q2Jul96    0.04     0.08	N/A
+CMC Industries     Q4Jul96    0.05     0.07	N/A
+Gerber Scientific  Q1Jul96    0.05     0.07	N/A
+Goody's Family Clo Q2Jul96    0.07     0.08	N/A
+Kmart Corp	   Q2Jul96    0.07     0.07	N/A
+Pet Food Warehouse Q2Jul96    0.03     0.03	N/A
+Pacific Gateway Ex Q2Jun96    0.05     0.05	N/A
+		 Negative Reports
+----------------			   First Call
+				  Consensus  Actual
+Company Name	Period     EPS	EPS     Diff.
+Roper Industries   Q3Jul96    0.46     0.45	N/A
+Fluor Corp	   Q3Jul96    0.82     0.81	N/A
+PCA International  Q2Jul96    0.04     0.03	N/A
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.CHARMING SHOPPES INC
+    SECOND QUARTER ENDED	    8/3/1996	    7/29/1995
+					    (13 weeks)	  (13 weeks)
+    Net EPS (Loss)		     $0.00	     ($0.03)
+    Net Sales			 $266,678	    $268,448
+    Other Income			 1,571		 1,920
+    Total Revenue		    268,249	     270,368
+Cost of Goods Sold,
+	Buying & Occupancy	   204,601    76.7   207,731
+Selling, General &
+     Administrative		   61,624    23.1    69,023
+    Interest Expense		   1,606     0.6	 481
+	Total Expenses		 267,831   100.4   277,235
+Income (Loss) Before
+     Income Taxes			  418     0.2    (6,867)
+Less Income
+     Taxes (Benefit)		     114     0.1    (3,734)
+    Net Income (Loss)		    304    0.1%    (3,133)
+    Wgtd Avg Shrs		107,018,245	  103,001,599
+	   (in thousands except shares and per share amounts)KINDERCARE LEARNING CENTERS INC
+ FOURTH QUARTER ENDED	 MAY 31, 1996   JUN 2, 1995
+ Operating revenues		$132,231    $122,542
+Operating expenses:
+ Salaries, wages and benefits    67,884	62,659
+   Rent expense			 6,086	 6,159
+   Depreciation			 8,546	 6,131
+   Other operating expenses	31,382	30,673
+(Gain) loss on litigation settlements net of
+    restructuring costs	     2,500	    --
+   Total operating expense	116,398     105,622
+   Operating income		  15,833	16,920
+(Dollars in thousands, except per share amounts)
+NOTE: 1996 Q4 operating income includes $2.5 million restructuring charge for organizational changes.
+1996 Q4 net income $7.7 million includes the $2.5 million charge. Net income for the fourth quarter last year was $7.9 million before a $1.0 million gain on the sale of certain stockholdings.
+The company did not release Q4 EPS figures.
+ FISCAL YEAR ENDED	    MAY 31 1996  JUN 2 1995 JUN 3 1994
+ Operating revenues	    $541,264	 $506,505 $488,726
+Operating expenses:
+  Salaries wages and benefits 284,115	  263,527  256,468
+  Rent and lease payments	26,515	   26,099   22,563
+  Depreciation		     33,972	   28,071   25,148
+Provision for allowance
+   for doubtful accounts	  3,908	    3,612    3,885
+  Other			     139,561	  135,298  133,496
+Litigation settlements, restructuring costs (income), net
+					  1,484	    (888)	 --
+  Total operating expenses    489,555	  455,719  441,560
+ Operating income		  51,709	   50,786   47,166
+ Net investment income		250	    2,635    3,176
+ Interest expense		  16,727	   17,318   17,675
+ Income before taxes and item  35,232	   36,103   32,667
+ Income tax expense		13,549	   14,037   12,837
+ Income before item		21,683	   22,066   19,830
+Extraordinary item - loss on debt
+  discharge, net of income taxes   --		 --  (2,397)
+ Net income			  21,683	   22,066   17,433
+ Primary EPS before item	   1.10	     1.07	.97
+  Extraordinary item		    --		 --    (.12)
+ Primary net EPS		     1.10	     1.07	.85
+  Wgtd avg shrs outstanding    19,752	   20,683   20,533
+ Fully-diluted EPS before item   1.05
+ Fully diluted net EPS	     1.05
+ Wgtd avg shrs		    20,683Swedish industrial gas concern AGA reports its results for six months to June 30, 1996, compared with the first half of 1995.
+					(million crowns unless stated)
+ Profit after fin items		    964 vs  1,117
+ Sales					 6,409 vs  6,775
+ Operating costs			   4,930 vs  5,113
+ Capital gains			     1,794 vs    601
+ Depreciation				  659 vs    656
+ Net profit				  2,277 vs  1,381
+ Paid tax					393 vs    230
+ Deferred tax				   85 vs    102
+ Minorities					3 vs	5
+ EPS (crowns)				 9.37 vs	5.70
+NOTE - Swedish gas company AGA was expected to post a profit after financial items of 1.09 billion crowns for the first half, according to a Reuters poll of 10 analyasts.
+-- Stockholm newsroom +46-8-700 1017The research arm of Deutsche Bank AG, Deutsche Morgan Grenfell, on Thursday said it had lowered its EPS forecasts for the German chemical company Merck KGaA for 1996, 1997 and 1998.  
+For 1996 Deutsche MG has downgraded Merck's EPS forecast to 2.27 marks from 2.47 marks, for 1997 to 2.57 marks from 2.87 marks and for 1998 to 3.09 marks from 3.50 marks.
+Deutsche MG analysts said the downgrade came in the wake of an analysts' conference call after Merck reported its first-half figures for 1996.
+The analysts said they believed Merck would not achieve its forecast profit increase of 30 to 40 percent for the full year and downgraded the share as a result.
+Rumours of a downgrade put Merck shares under pressure in early pre-bourse trade. At 0817 GMT Merck shares led the losers on the IBIS DAX index, down 1.10 marks or 1.92 percent at 56.20 marks, compared to the overall market, up 0.31 percent.
+--Frankfurt Newsroom, +49 69 756525QUANEX CORPORATION
+		 Consolidated statements of income (unaudited)
+		     (In thousands, except per share data)
+			     Three months ended  Nine months ended
+				    July 31,	     July 31,
+			     1996	 1995     1996	  1995
+Net sales		$225,463  $228,172  $632,576  $662,405
+Income before charge    9,145     9,603    21,324    24,078
+Debt extinguishment
+  charge			 --	  --   (2,522)   (2,021)
+Net income		  9,145     9,603    18,802    22,057
+EPS (primary)
+  Before charge	   $0.67    $  0.63    $1.57     $1.48
+Extraordinary charge	 --	   --    (0.19)    (0.15)
+EPS (primary)
+  After charge	    $0.67    $  0.63    $1.38     $1.33
+EPS (diluted)
+  Before charge	   $0.61    $  0.59    $1.47     $1.48
+Extraordinary charge	 --	   --    (0.15)    (0.15)
+EPS (diluted)
+  After charge	    $0.61    $  0.59    $1.32     $1.33
+Weighted avg shrs
+  (primary)		13,659    13,642    13,630    13,598
+  (diluted)		16,355    16,382    16,326    13,598
+--New York Newsdesk 212-859-1610.Deutsche Morgan Grenfell/C.L. Lawrence (corrects from J.C. Bradford) initiated coverage of six semiconductor related companies with accumulate and hold ratings.
+Analyst Kathryn Buergert said she started Brooks Automation Inc and Tencor Instruments with accumulate and Electroglas Inc with hold.
+She said the rating were based on the companies' earnings per share outlook. Brooks EPS are expected to climb to $1.15 in fiscal year 1997 from $1.07 in 1996. Tencor is expected to climb to $1.70 from $1.13 while Electroglas is expected to fall to $0.85 from $1.63.  
+Analyst Elliott Rogers said he initiated coverage of DuPont Photomasks Inc and Semitool Inc with accumulate and LTX Corp with hold.
+"The accumulate ratings reflect some uncertainty about the near-term outlook as far as capital spending is concerned," Rogers said.
+"The hold rating on LTX reflects these same concerns but exacerbated by a customer -- Korea's Daewoo Corp -- which claims an order worth $50 million was never placed."Analysts responded positively on Thursday to the announcement by Hungary's State Privatisation Agency APV that Danubius Hotels had won the tender to buy 85 percent of hotel chain Hungaria Szalloda.
+"We're certainly pleased that they've bought it," said Frances Cloud of Nomura Equity Research in London. "It can add quite a lot of value to their portfolio and the price was quite reasonable." @
+APV announced earlier on Thursday that Danubius would pay 8.125 billion forints for the stake, representing 173.8 percent of the face value of the shares.
+The remaining 15 percent stake will be offered to employees with Danubius obliged to buy any shares not subscribed at the same rate of 173.8 percent of face value.
+The agreement will take effect as soon as the government's Competition Agency has given its approval.
+Cloud believes the deal will have no trouble getting past the Competition Agency despite a clause in the tender limiting the winner to 30 percent of the domestic hotel market. @
+The combined market share of Danubius and Hungarhotels is around 27 percent in all categories of hotel but rises to above 30 percent if the Beta Hotel chain in which Danubius has shares is included.
+However sources within Danubius have said that as the company does not actually control or manage Beta it would be left out of the equation.
+"They will have thought about this in advance and I am sure they have worked out plans to get round this," Cloud said, adding that it was unlikely the deal would have been approved by the APV if there was a danger of rejection by the agency. @
+Anthony Vago of Bank Austria Giro Credit in Hungary also welcomed the deal but warned that the means by which Danubius pays for the acquisition could make a difference in terms of earnings per share (EPS).
+These would increase if funds are generated through an equity raise but could fall if the company uses debt.
+"EPS is going to go down if it's financed with debt but that's offset with the profits it gets from the group," he said. @
+"But I think it would be wise for them to finance it with a capital increase. That would be the logical way to go." he said, adding that neither scenario would affect long-term propects for the Danubius shares, which he rates as a long-term buy.
+Cloud believes there could be a combination of different modes of payment.
+"I don't think they quite know yet how they're going to do it," she said. "There could be a combination of debt and a capital increase or they may be allowed to pay in instalments," she said. @
+Hungaria Szalloda, which as HungarHotels was the subject of a failed bid by American General Hospitality Corp of Dallas, Texas, early last year, is made up of 14 mainly provincial hotels.
+In January, the APV hived off the HungarHotels' flagship hotel, the Budapest Forum, for a separate tender and in May announced a new tender for an 85 percent stake in the 14 remaining hotels under the Hungaria Szalloda name.
+The APV said it had not yet reached a decision on the Hotel Forum tender. @
+The Budapest Stock Exchange earlier suspended trading in Danubius shares on the strength of newspaper reports anticipating the announcement of the sale. Trading of the papers will resume on Friday.
+-- Duncan Shiels, Budapest newsroom +361 266 2410-- Morgan Stanley analyst David Togut said he reduced the earnings estimates for First Data Corp, citing the company becoming "modestly more conservative" on near-term and intermediate-term earnings growth potential.
+-- also cited lower-than-expected growth at its Western Union international business; further delays in Act III, its healthcare claims processing system; slower-than-expected sales at its First Image business; and tighter lending stadnards from credit-card issuers.
+-- Togut said managers remain confident of a 20 percent EPS growth target.
+-- reduced his earnings estimate to $2.72 per share from $2.75 for 1996, and to $3.25 from $3.35 for 1997.
+-- kept his rating at outperform.The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+			 First Call Earnings Surprises
+Positive Surprises
+------------------	First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS   Surprise
+S&K Famous Brands  Q2Jul96    0.13     0.17     30.8%
+Brown Group Inc    Q2Jul96    0.25     0.31     24.0%
+National Picture   Q1Jul96    0.11     0.13     18.2%
+Layne Inc	    Q2Jul96    0.25     0.28     12.0%
+Shiloh Industries  Q3Jul96    0.28     0.31     10.7%
+PHH Corp	     Q1Jul96    0.56     0.61	8.9%
+Harnischfeger Corp Q3Jul96    0.74     0.80	8.1%
+Toys R Us Inc	Q2Jul96    0.09     0.10	N/A
+Negative Surprises
+------------------				First Call
+				   Consensus Actual
+Company Name	 Period    EPS     EPS   Surprise
+BioWhittaker Inc    Q3Jul96   0.14    0.13     -7.1%
+Designs Inc	   Q2Jul96   0.08    0.04	N/A
+			Other Companies Reporting Today
+Positive Reports
+----------------			     First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Harcourt General    Q3Jul96    1.45     1.45     0.0%
+SCB Computer Techno Q1Jul96    0.18     0.18     0.0%
+Negative Reports
+----------------				First Call
+				    Consensus  Actual
+ Company Name	Period     EPS	EPS     Diff.
+None Reported.
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.Analysts estimates of major South African company results expected this week include the following (all figures cents per share):
+DAY--COMPANY--------------PERIOD--CONSENSUS----RANGE-------PVS
+WED  Liberty Life	   H1 EPS  252.7	240.0-268.0   175.9
+     Liberty Life	   H1 DIV  145.7	145.0-148.0   116.0
+-- Johannesburg newsroom +27 11 482 1003The following bond was announced by lead manager Sal Oppenheim jr. & Cie.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT    100 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+-- London Newsroom +44 171 542 7658Includes all companies that have reported EPS and have at
+least one quarterly estimate in I/B/E/S. Reported estimate are
+compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			   MEAN ESTIMATE
+HARNISCHFEGER IN		$0.74
+TOYS R US			 $0.08
+HARCOURT GENERAL		$1.45
+MEDTRONIC INC		   $0.54FRENCH FRAGRANCES INC
+			3 Mos ended 7/31	   6 Mos ended 7/31
+			1996	  1995	   1996	   1995
+Net Sales  $23,802,106 $14,913,452  $43,118,599  $30,645,569  Gross Profit 8,564,748   3,484,502   14,425,253    6,526,080
+ EBITDA	 3,508,654   1,118,111    5,461,314    2,250,672
+Income From Operations
+		  2,517,035     812,156    3,937,394    1,658,810
+ Net Income     676,638    (109,084)     968,983	 38,972
+ Shrs	  12,281,453   7,120,000(a)11,728,719  7,120,000(a)
+ Primary EPS	  .06     (.02)(a)	    .08	 .01(a)
+NOTE: (a) Shares for three and six months ended July 31, 1995 presented on a pro forma basis using conversion factor of 7.12 for each historical share outstanding.Rupert Murdoch's News Corp Ltd is expected to report on Thursday a stagnant net profit for the year to June 30, held back by soaring newsprint costs and losses from its burgeoning Star TV operations, analysts said.
+The median forecast in BZW's BARCEPS broker survey is for a A$1.343 billion net profit before abnormals for the year, a virtual replica of the A$1.342 billion profit posted in 1994/95.
+Analysts said News may even struggle to match last year's result, particularly given its lower than expected third quarter result.  
+"It's got to be a reasonably strong last quarter to match that (1994/95) figure," said ABN AMRO Hoare Govett media analyst John Bell.
+"I doubt there'll be many surprises on the upside," he said.
+News posted a A$281 million net profit before abnormals in the third quarter, below expectations of about A$300 million and taking profits for the first nine months of the year to A$944 million.
+The result is expected around 8.30 a.m. Australian time on Thursday (2230 GMT Wednesday).  
+Analysts said News' 1995/96 profits had been restrained generally by the higher paper costs, a U.K. cover price war and continued losses from its Star TV operation in Hong Kong.
+"People will look at newspapers because that will reflect higher newsprint prices and the impact of the newspaper price war," said one Melbourne media analyst.
+Margins on News' British newspapers were seen pressured in the final few months of the year by cover price discounts ahead of the Olympics.
+"There was a little bit of renewed competition on the Monday cover prices pre-Olympics," Bell said.  
+"Margins may have slipped a little bit in the last few months of the year," he said.
+Star TV was seen pumping out another US$90 million to US$100 million of losses for the year as it establishes itself in the potentially lucrative Asian satellite television markets.
+"I would expect a full year loss of US$90 million given what we've been told so far and I've seen nothing to change that," the Melbourne analyst said.
+"I would see it somewhere in excess of of US$100 million," Bell said.  
+Continued strong earnings from U.S. television and films are seen offsetting somewhat the newsprint and Star TV losses.
+Looking ahead however, analysts are confident News' profits can start growing again in 1996/97, boosted by potentially lower newsprint prices and an earnings surge from the hit U.S. special effects movie, "Independence Day".
+"'Independence Day' could add up to US$200 million to the bottom line," said Bell, who forecast net profit rising to A$1.5 billion in 1996/97.  
+"The 1996/97 result will show some clear profit growth as much as anything because of paper prices and 'Independence Day'," the Melbourne analyst said, who forecast a A$1.6 billion net profit.
+News' share price was down one cent at A$6.49 at 2.00 p.m. (0400 GMT).
+-- Sydney Newsroom 61-2 9373-1800Philippines' Asiatrust Bank has set a price of 39.88 pesos per share for its initial public offering due to open on September 3, the issue's international lead manager PrimeEast Capital (HongKong) Ltd said.
+The bank is offering 18.8 million shares, or a 27.1 percent public float and hopes to raise 750 million pesos. The offer closes September 16 and listing is set for October 7.
+PrimeEast said money from the IPO would be used to fund the bank's loan portfolio expansion, for information technology upgrade as well as for opening of new branches.
+"The issue is very attractive at a PER of 11 times prospective 1997 earnings on an expected EPS growth of 70 percent," PrimeEast's research head for the Philippines, Joy Quintos, said in a statement.
+"This is a big discount to the average sector PER of 16.5 times for 1997, with an estimated average EPS growth of 31 percent," Quintos said.
+Asiatrust's net earnings have grown by a compounded annual rate of 32 percent in the last five years and this is expected to grow by 70 percent and 31 percent in 1996 and 1997, the statement said. PrimeEast said a roadshow was planned in Hong Kong and Singapore later this month.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  3.70		 3.51
+ Current	   prft 40 million  loss 185    million
+ Net		 prft 15 million  loss 191    million
+ EPS	     prft 1.66 yen   loss 21.19 yen
+ Ord div		 nil		  nil
+NOTE - Norita Kogaku KK is a specialist maker of lenses.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.09		vs	    1.54
+ Operating	   48    million    vs	   24    million
+ Current	   prft 26 million    vs    loss 14    million
+ Net		  prft 3 million    vs    loss 15    million
+ EPS	     prft 0.38 yen	  vs     loss 1.75 yen
+ Shares		9 million	  vs	   9 million
+ Interim div	   nil		vs	     nil
+NOTE - Norita Kogaku KK is a specialist maker of lenses.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  4.25		 3.93
+ Current	    594    million	 635    million
+ Net		  307    million	 284    million
+ EPS		   50.79 yen	 534.63 yen
+ Ord div	     12.50 yen	  62.50 yen
+NOTE - IMI Co Ltd is the full company name.  
+IMI's forecast for 1996 earnings per share (EPS) is based on the firm's current 6.06 million shares outstanding against 571,000 shares as of December 31, 1995, it said.
+The dramatic increase in the number of IMI shares is mainly due to a share split the company carried out on May 1. IMI split each of its shares, which had a face value of 500 yen, into 10 shares with a 50-yen face value. It also issued an additional 350,000 shares on July 24, IMI said.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.28		vs	    1.95
+ Operating	  407    million    vs	  281    million
+ Current	    392    million    vs	  281    million
+ Net		  195    million    vs	  128    million
+ EPS		   34.18 yen	  vs	  262.14 yen
+ Shares		6 million	  vs	 571,000
+ Interim div	   nil		vs	     nil
+NOTE - IMI Co Ltd split its share with a 500-yen face value into 10 shares with a 50-yen face value on May 1.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.30		 5.72
+ Current		1.00	     844    million
+ Net		  500    million	 388    million
+ EPS		   56.91 yen	  44.42 yen
+ Ord div	     10.50 yen	  10.50 yen
+NOTE - Create Medic Co Ltd specialises in the manufacturing of disposable medical supplies.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 81.00		80.01
+ Current		2.10		 2.05
+ Net		    1.10		 1.01
+ EPS		   16.49 yen	  15.18 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - Hokkai Can Co Ltd manufactures cans for canned foods.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.96		vs	    2.68
+ Operating	  483    million    vs	  336    million
+ Current	    472    million    vs	  349    million
+ Net		  240    million    vs	  150    million
+ EPS		   27.43 yen	  vs	   17.18 yen
+ Shares		9 million	  vs	   9 million
+ Interim div	   nil		vs	     nil
+NOTE - Create Medic Co Ltd specialises in the manufacturing of disposable medical supplies.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.20		 5.31
+ Current	     75    million	  19    million
+ Net		   68    million	  48    million
+ EPS		   12.57 yen	   8.93 yen
+ Ord div		 nil		  nil
+NOTE - Tokki Corp is a maker of factory automation equipment.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 38.32		vs	   39.22
+ Operating	    1.10		vs	    1.15
+ Current	    831    million    vs	    1.02
+ Net		  427    million    vs	  634    million
+ EPS		    6.41 yen	  vs	    9.54 yen
+ Shares	     67 million	  vs	  67 million
+ Interim div	  3.75 yen	  vs	    3.75 yen
+NOTE - Hokkai Can Co Ltd manufactures cans for canned foods.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  5.31		vs	    4.70
+ Operating	 prft 22 million    vs   loss 202    million
+ Current	   prft 19 million    vs   loss 293    million
+ Net		 prft 48 million    vs   loss 587    million
+ EPS	     prft 8.93 yen	  vs   loss 108.48 yen
+ Diluted EPS	     -		vs		 -
+ Shares		5 million	  vs	   5 million
+ Ord div		 nil		vs	     nil
+NOTE - Tokki Corp is a maker of factory automation equipment.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 20.00		19.31
+ Current	    300    million	 405    million
+ Net		  200    million	 243    million
+ EPS		   11.18 yen	  13.59 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Fujicopian Co Ltd is a leading developer and manufacturer of wide variety of recording printing media.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  9.31		vs	    9.51
+ Operating	   16    million    vs	  219    million
+ Current	     47    million    vs	  180    million
+ Net		   34    million    vs	  102    million
+ EPS		    1.93 yen	  vs	    5.74 yen
+ Shares	     18 million	  vs	  18 million
+ Interim div	  5.00 yen	  vs	    5.00 yen
+NOTE - Fujicopian Co Ltd is a leading developer and manufacturer of wide variety of recording printing media.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 38.00		36.76
+ Current		1.60		 1.44
+ Net		  600    million	 510    million
+ EPS		   17.89 yen	  15.21 yen
+ Ord div		8.00 yen	   8.00 yen
+NOTE - S.T. Chemical Co Ltd is a maker of mothballs, aromatics and resin gloves.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 48.00		52.10
+ Current		2.80		    3
+ Net		    1.80		 1.49
+ EPS		  121.30 yen	 110.69 yen
+ Ord div	     18.00 yen	  18.00 yen
+NOTE - I-O Data Device Inc manufactures PC memory boards.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 36.76		vs	   36.74
+ Operating	    1.76		vs	    2.25
+ Current		1.44		vs	    2.04
+ Net		  510    million    vs	    1.00
+ EPS		   15.21 yen	  vs	   29.94 yen
+ Shares	     34 million	  vs	  34 million
+ Ord div		8.00 yen	  vs	    8.00 yen
+NOTE - S.T. Chemical Co Ltd is a maker of mothballs, aromatics and resin gloves.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.00		 6.26
+ Current		 nil	loss 227    million
+ Net		 prft 70 million  loss 237    million
+ EPS	     prft 6.94 yen   loss 23.53 yen
+ Ord div		 nil		  nil
+NOTE - Daiwa Heavy Industry Co Ltd is an independent cast manufacturer.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 23.20		20.22
+ Current	    470    million	 356    million
+ Net		  210    million	 150    million
+ EPS		   61.21 yen	  47.89 yen
+ Ord div	     15.00 yen	  12.00 yen
+ -Commem div	     -		 3.00 yen
+NOTE - Nishikawa Keisoku Co Ltd is the full company name.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 52.10		vs	   43.67
+ Operating	    2.57		vs	    3.80
+ Current		3		   vs	    3.78
+ Net		    1.49		vs	    1.98
+ EPS		  110.69 yen	  vs	  188.95 yen
+ Diluted EPS	     -		vs		 -
+ Shares	     13 million	  vs	  11 million
+ Ord div	     18.00 yen	  vs	   17.00 yen
+NOTE - I-O Data Device Inc manufactures PC memory boards.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.41		vs	    3.07
+ Operating	 prft 45 million    vs    loss 69    million
+ Current	   prft 33 million    vs   loss 116    million
+ Net		prft 102 million    vs   loss 118    million
+ EPS	    prft 10.12 yen	  vs    loss 11.71 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Daiwa Heavy Industry Co Ltd is an independent cast manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 78.50		76.77
+ Current		1.80		 2.14
+ Net		  900    million	   1.36
+ EPS		    7.37 yen	  11.13 yen
+ Ord div		7.00 yen	   7.00 yen
+NOTE - Fujita Kanko Inc is a major operator of hotels and restaurants.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 20.22		vs	   18.96
+ Operating	  375    million    vs	  240    million
+ Current	    356    million    vs	  202    million
+ Net		  150    million    vs	   71    million
+ EPS		   47.89 yen	  vs	  233.57 yen
+ Shares		3 million	  vs	 313,000
+ Ord div	     15.00 yen	  vs	  100.00 yen
+NOTE - Nishikawa Keisoku Co Ltd is the full company name.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 38.85		vs	   37.63
+ Operating	    1.94		vs	    2.03
+ Current		1.17		vs	  794    million
+ Net		  460    million    vs	    1.20
+ EPS		    3.77 yen	  vs	    9.84 yen
+ Shares	    122 million	  vs	 122 million
+ Interim div	  3.50 yen	  vs	    3.50 yen
+NOTE - Fujita Kanko Inc is a major operator of hotels and restaurants.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		740.00	     637.51
+ Current	     22.00		15.46
+ Net		    9.00		 6.16
+ EPS		   71.92 yen	  51.95 yen
+ Ord div	     15.00 yen	  15.00 yen
+NOTE - Canon Sales Co Ltd is the sole distributor of Canon products in Japan.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 36.00		28.14
+ Current		3.00		 1.16
+ Net		    1.45	     550    million
+ EPS		   46.65 yen	  17.70 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Shibuya Kogyo Co Ltd operates domestic bottling plants.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 16.58		17.55
+ Current	    657    million	 974    million
+ Net		  305    million	 487    million
+ EPS		   34.61 yen	  62.38 yen
+ Ord div	     25.00 yen	  25.00 yen
+NOTE - Kozosushi So-Honbu Co Ltd is a nationwide franchiser of take-out sushi.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		365.97		vs	  307.98
+ Operating	   13.06		vs	    8.90
+ Current	     11.02		vs	    7.55
+ Net		    4.44		vs	    3.05
+ EPS		   35.85 yen	  vs	   25.69 yen
+ Shares	    125 million	  vs	 119 million
+ Interim div	  7.50 yen	  vs	    7.50 yen
+NOTE - Canon Sales Co Ltd is the sole distributor of Canon products in Japan.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 28.14		vs	   25.91
+ Operating	  740    million    vs	  129    million
+ Current		1.16		vs	  253    million
+ Net		  550    million    vs	  216    million
+ EPS		   17.70 yen	  vs	    6.97 yen
+ Shares	     31 million	  vs	  31 million
+ Ord div	     10.00 yen	  vs	    8.00 yen
+NOTE - Shibuya Kogyo Co Ltd operates domestic bottling plants.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.07		vs	    8.49
+ Operating	  251    million    vs	  374    million
+ Current	    303    million    vs	  452    million
+ Net		  144    million    vs	  224    million
+ EPS		   16.74 yen	  vs	   29.60 yen
+ Shares		9 million	  vs	   8 million
+ Interim div	 12.50 yen	  vs	   12.50 yen
+NOTE - Kozosushi So-Honbu Co Ltd is a nationwide franchiser of take-out sushi.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.20		 5.32
+ Current	    350    million	 259    million
+ Net		  176    million	  79    million
+ EPS		   23.28 yen	  10.54 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - Kyoritsu Air Tech Inc is a medium-scale air compression equipment maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.73		vs	    2.31
+ Operating	   77    million    vs	   72    million
+ Current	     71    million    vs	   58    million
+ Net		   32    million    vs	   20    million
+ EPS		    4.30 yen	  vs	    2.65 yen
+ Shares		8 million	  vs	   8 million
+ Interim div	   nil		vs	     nil
+NOTE - Kyoritsu Air Tech Inc is a medium-scale air compression equipment maker.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 46.50		26.16
+ Current	 loss 2.70	  loss 1.19
+ Net	     loss 2.50	  loss 2.26
+ EPS	   loss 240.38 yen  loss 217.75 yen
+ Ord div		 nil		  nil
+NOTE - Urban Life Co Ltd is a real estate company specialising in condominiums.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 20.00		20.03
+ Current	    900    million	 980    million
+ Net		  430    million	 689    million
+ EPS		   18.65 yen	  34.04 yen
+ Ord div		5.00 yen	   5.00 yen
+ -Special div	 1.00 yen	   1.00 yen
+NOTE - Taki Chemical Co Ltd is a fertiliser maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 14.66		vs	    3.36
+ Operating     loss 1.97		vs   loss 792    million
+ Current	 loss 2.41		vs     loss 2.16
+ Net	     loss 2.21		vs     loss 2.16
+ EPS	   loss 212.76 yen	  vs   loss 207.70 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Urban Life Co Ltd is a real estate company specialising in condominiums.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 10.74		vs	   10.48
+ Operating	  770    million    vs	  640    million
+ Current	    741    million    vs	  574    million
+ Net		  415    million    vs	  497    million
+ EPS		   19.14 yen	  vs	   24.55 yen
+ Shares	     23 million	  vs	  20 million
+NOTE - Taki Chemical Co Ltd is a fertiliser maker.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 16.50		15.44
+ Current	    640    million	 857    million
+ Net		  320    million	 130    million
+ EPS		   18.58 yen	   7.60 yen
+ Ord div		7.50 yen	   7.50 yen
+NOTE - General Co Ltd is a major producer of thermal transfer ribbons.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 69.50		66.05
+ Current		6.00		 6.02
+ Net		    3.06		 3.43
+ EPS		   94.64 yen	 106.06 yen
+ Ord div	     17.00 yen	  17.00 yen
+NOTE - Sanyo Coca-Cola Bottling Co Ltd is a Coca-Cola bottler operating in western Japan.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.18		vs	    7.26
+ Operating	  384    million    vs	  471    million
+ Current	    392    million    vs	  344    million
+ Net		  132    million    vs	  118    million
+ EPS		    7.71 yen	  vs	    6.86 yen
+ Shares	     17 million	  vs	  17 million
+NOTE - General Co Ltd is a major producer of thermal transfer ribbons.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 32.01		vs	   29.97
+ Operating	     2.2		vs	    2.46
+ Current		2.27		vs	    2.58
+ Net		    1.17		vs	    1.33
+ EPS		   36.10 yen	  vs	   41.18 yen
+ Shares	     32 million	  vs	  32 million
+ Interim div	  8.50 yen	  vs	    8.50 yen
+NOTE - Sanyo Coca-Cola Bottling Co Ltd is a Coca-Cola bottler operating in western Japan.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 32.00		30.05
+ Current		2.70		 2.69
+ Net		    1.45		 1.45
+ EPS		   76.18 yen	  76.13 yen
+ Ord div	     15.00 yen	  15.00 yen
+ -Commem div	     -		 2.00 yen
+NOTE - Kaneshita Constructon Co Ltd is a medium-scale general contractor.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 18.10		18.18
+ Current     loss 240    million  loss 287    million
+ Net		   50    million	 207    million
+ EPS		    0.38 yen	   1.58 yen
+ Ord div		 nil		  nil
+NOTE - Kansai Kisen Kaisha is a leading operator of coastal carriers.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 19.14		vs	   17.28
+ Operating	    1.53		vs	    1.38
+ Current		1.62		vs	    1.42
+ Net		  881    million    vs	  752    million
+ EPS		   46.29 yen	  vs	   39.51 yen
+ Shares	     19 million	  vs	  19 million
+NOTE - Kaneshita Constructon Co Ltd is a medium-scale general contractor.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  8.40		vs	    9.12
+ Operating   loss 592    million    vs   loss 170    million
+ Current     loss 712    million    vs   loss 481    million
+ Net	   loss 403    million    vs	 prft 59 million
+ EPS	     loss 3.05 yen	  vs     prft 0.45 yen
+ Shares	    132 million	  vs	 132 million
+ Interim div	   nil		vs	     nil
+NOTE - Kansai Kisen Kaisha is a leading operator of coastal carriers.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 22.50		22.01
+ Current		3.60		 3.55
+ Net		    1.95		 1.90
+ EPS		   65.00 yen	  76.03 yen
+ Ord div	     18.00 yen	  18.00 yen
+NOTE - Danto Corp is a manufacturer of different types of tiles.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 10.43		vs	   10.75
+ Operating	    1.66		vs	    1.57
+ Current		1.79		vs	    1.50
+ Net		  968    million    vs	  803    million
+ EPS		   32.29 yen	  vs	   32.15 yen
+ Shares	     30 million	  vs	  25 million
+ Interim div	   nil		vs	     nil
+NOTE - Danto Corp is a manufacturer of different types of tiles.Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Otra		Wholesaler     31.50  ING Barings  
+COMMENT: Hold (from Sell) Otra's profit warning last week
+that net results in H1 1996 will be substantially (30-45 pct)
+below H1 1995, came as a surprise. Although estimates have been
+downgraded and a 38.5 pct decline of net profits to 24.5 mln
+guilders could be expected, it is worth raising the stock from
+sell to hold as the share price dropped 25 pct since the profit
+warning. Current share price incorporates all the bad news and
+downside risk is limited.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	 2.73		 n.a.     1.25
+    1996		    2.20   (2.67)    14.3     n.a. 
+    1997		    2.75   (3.15)    11.5     n.a.
+    1998		    3.15   (3.60)    n.a.
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)-- Cowen & Co analyst James Kedersha said he raised his 1996 and 1997 earnings per share view on Newbridge Networks Corp after the company reported solid first quarter results.
+He said he raised his 1997 EPS estimate by $0.10 to $2.25 and his 1998 EPS view by $0.15 to $2.85.
+"There has been a lot of controversy about Newbridge over the past quarter and a number of analysts have either downgraded the stock or cast serious doubts on its ability to make the quarter," Kedersha said.
+"It turns out that they didn't just make the quarter but they beat it," he said, adding that orders were strong and the company had a positive balance sheet. "Everything you could want was there."
+-- Shares of Newbridge were up 6-5/8 at 55 on the NYSE.The following bond increase was announced by lead manager Kredietbank.
+ BORROWER   KREDIETBANK INTERNATIONAL FINANCE
+ GUARANTOR  KREDIETBANK NV
+ AMT   *125 MLN	 COUPON   **5.0	 MATURITY    18.SEP.00
+ TYPE	 STEP-UP   ISS PRICE  101.95    PAY DATE    18.SEP.96
+ FULL FEES  1.625     REOFFER    100.55    SPREAD	+26 BP
+ NOTES     *INCREASED BY $50 MILLION, ORIGINALLY LAUNCHED FOR
+		$75 MILLION ON 30.JUL.96.
+	    **FOR FIRST TWO YEARS THEN STEPS-UP TO 8.0 PERCENT
+	     THEREAFTER.
+ MOODY	AA2	 LISTING    LUX	 PAY FREQ    ANNUAL
+ S&P	  AA-	 DENOMS (K) 1-5	 SALE LIMITS =
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    ENGLISH   MGT/UND    22.5 BP   SELL CONC  1.40
+ UNDERLYING GOVT BOND AUGUST-99 UST.
+ NOTES	SENIOR, UNSECURED. ISSUED OFF AN MTN PROGRAMME.
+-- London Newsroom +44 171 542 7658The following Pfandbrief, announced on Tuesday by lead manager Sal Oppenheim jr. & Cie, has been increased to 150 million marks.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT ***50 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+		***TOTAL NOW 150 MILLION MARKS
+-- London Newsroom +44 171 542 7658Analysts' estimates of UK company results expected in week ending August 23 include -
+COMPANY----------------PFT/DIV/EPS--CONSENSUS----RANGE-------PVS
+WEDNESDAY, Aug 21
+- No major companies reporting
+THURSDAY, Aug 22
+ Rentokil	   ** I    PFT	137.7	135.0-141.0   99.2
+ Group Plc		    DIV	  1.48	   n/a	 1.23
+FRIDAY, Aug 23
+- No major companies reporting
+NOTES -
+** The Rentokil forecasts are pre exceptional and include
+two months of profits from BET.
+All profit figures are pretax, exclude exceptional items
+unless otherwise stated and are in millions stg. Dividends
+are total net and quoted as pence per share.
+John Sutherland, London Newsroom +44 171 542 7945Includes all companies that have reported EPS and have at
+least one quarterly estimate in I/B/E/S.  Reported EPS are
+compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			     MEAN ESTIMATE
+DAYTON HUDSON		   $0.35
+LIMITED INC		    $0.12Analog Devices Supplemental Information
+				Third Quarter, Fiscal 1996
+				Sales/Earnings Summary
+				     Three Months Ended
+				   Aug 3, 1996    Jul 29, 1995
+    Net Sales			305,042	 246,301
+    Net Income		     $43,796	 $31,781
+    Shares used for EPS	  129,694	 119,777
+    Earnings per Share	     $0.35	   $0.27
+					  Nine Months Ended
+				     Aug 3, 1996   Jul 29, 1995
+    Net Sales			889,139	 684,352
+    Net Income		    $127,881	 $84,136
+    Shares used for EPS	  127,771	 118,596
+    Earnings per Share	     $1.03	   $0.71
+-- New York newsdesk, (212) 859-16101996			1995
+ Shr			   $0.81		    $0.72
+ Net			  68,100		   60,200
+ Revs		    2,702,800		2,436,800
+			9  MONTHS
+ Shr			   $2.24		    $1.99
+ Net			 189,200		  165,800
+ Revs		    7,687,500		6,725,800
+(All Data Above 000s Except Per Share Numbers)
+NOTE: First Call 1996 Q3 EPS estimate $0.82/shr.
+Periods ended July 31.13 Weeks Ended	    26 Weeks Ended
+		   Aug 3,     Jul 29,	 Aug 3,	 Jul 29,
+		     1996	 1995	    1996	    1995
+ Net sales   $28,870,964 $27,381,538  $52,091,437  $50,917,580
+ Gross profit 12,825,191  11,563,494   22,733,138   20,610,517
+Total operating
+   expenses   11,775,533  10,829,927   22,899,706    1,629,973
+Income from operations
+		   1,049,658     733,567    (166,568)  (1,019,456)
+ Other expense  (720,085)   (723,488)  (1,454,010) (1,309,715)
+Income before income
+    taxes	  329,573	10,079  (1,620,578)  (2,329,171)
+ Net income	199,937	10,079   ( 989,655)  (2,329,171)
+ EPS		    0.03	  0.00	( 0.13)	( 0.34)Summary of August 21 research.
+Company-------Sector--------------Price---------Broker--------
+    Pakhoed    transport/storage   45.90	   ING Barings
+COMMENT: Buy (unchanged)
+Pakhoed's H1 results from normal operations somewhat better than expected. Cost cutting programs, divestments and investments and a clear strategy could pave the way for better returns in coming two to three years. Company has taken major steps to focus on tank storage and distribution/shipping of chemicals. Based on positive developments and EPS upside of 7.00 guilders by 1999 we maintain our Buy recommendation.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	4.08		  11.2    1.80
+    1996		   4.13    (3.96)    11.1    1.80
+    1997		   5.00    (unch)     9.2    2.10
+    1998		   5.75    (unch)     8.0    2.30
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Vendex	    retail	   59.80  ING Barings
+COMMENT: Buy (from Hold). Following positive Dutch retail sales figures for the first six months of 1996, we expect a spectacular turnaround at Vendex Food and moderate increase in both sales and results at Vroom & Dreesmann department stores and the firm's speciality stores. Also sustained growth in temporary services. The share buy-back of 4 million common stock should give inspiration. 1996 and 1997 EPS estimates raised.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1996		   5.30     (4.85)   11.3     1.90
+    1997		   5.90     (5.50)   10.2     2.10
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)Lower than expected first half profits at Swiss banking group CS Holding underscore the urgency of huge restructuring plans announced by the conglomerate in July, analysts said.
+Analysts said net profit for the first six months, which increased 20 percent after minority interests, was below most expectations. Costs grew more strongly than widely forecast.
+But several analysts also said the quality of CS profits was increasing and added that the group had greater potential than rivals Union Bank of Switzerland (UBS) or Swiss Bank Corp (SBC) because it was restructuring later.  
+Market forecasts of net profit had ranged between 879 million and 1.104 billion Swiss francs, compared to the group's 830 million after minority interests.
+"The difference between CS Holding and the other two big banks underscores the need for restructuring," said banking analyst Thomas Bieri at Zurich Cantonal Bank.
+"I have the impression that costs are relatively high at CS Holding than at the others," he told Reuters.
+CS Holding's total operating expenses rose 17 percent, which it said was mainly due to incentive bonuses paid to staff.  
+John Leonard from Salomon Bros in London said he was puzzled that staff bonuses had risen so strongly.
+CS Holding said incentive pay comprised 400 million Swiss francs of an overall increase in staff costs of 498 million, or 21 percent, to 2.86 billion Swiss francs.
+"I know incentive payments increase generally as revenues grow. But it was a real source of suprise that the accruals for incentive compensation rose so strongly," he said.
+"Total costs were a couple of hundred million (Swiss francs) more than I expected," Leonard added.  
+Leonard said the cost ratio at CS Holding was 67.4 percent including depreciation, as against 69 percent a year earlier.
+By comparison, SBC had a cost ratio with depreciation of 68.4 percent in the first half of this year and UBS posted 61.5.
+Thomas Kalbermatten from UBS Global Research, who had forecast net profit growth higher at 28 percent, said it was positive that commission income now made up 38 percent of all earnings from 36 percent in the same period last year.
+"The quality of profits is improving in a way that has become general in the banking sector," he said.
+"Compared to other Swiss banks, CS Holding has the greatest potential because it is just starting on reorganisation," he said.
+Kalbermatten said potential costs savings and earnings growth had alrady been tapped at least in part by CS's rivals.
+UBS has spent several years streamlining its activities and SBC, which last year integrated investment banking arm SBC Warburg, in May announced a reorganisation along four core business lines.
+Kalbermattern said he would maintain his estimates for CS Holding 1996 full-year net profit of 1.6 billion or 8.50 Swiss francs earnings per share and for 1997 of 2.07 billion or 10.90 per share. He maintains CS and SBC as buy ratings.
+Salomon's Leonard said he would likely lower his EPS estimates from 8.96 Swiss francs this year and 10.40 in 1997. CS Holding would remain a hold alongside SBC and UBS, with SBC favoured.
+Bieri at Zurich Cantonal Bank also said he would lower his 1996 full-year forecast for CS Holding from net profit of 1.619 billion and an EPS of 8.40.
+Bieri said he would likley downgrade CS Holding from buy to hold. UBS is a hold and SBC a buy in his ratings.
+-- Marcus Kabel, Zurich Newsroom, +41-1-631 7340Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.38		 7.07
+ Current	    788    mln	 818    mln
+ Net		  355    mln	 338    mln
+ EPS		   48.33 yen	  46.01 yen
+ Ord div	     15.00 yen	  15.00 yen
+NOTE - Agro-Kanesho Co Ltd is a medium-scale producer of agrochemicals.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  4.39		vs	    4.31
+ Operating	  501    mln	  vs	  539    mln
+ Current	    534    mln	  vs	  605    mln
+ Net		  333    mln	  vs	  265    mln
+ EPS		   45.40 yen	  vs	   36.16 yen
+ Shares		7 million	  vs	   7 million
+ Interim div	   nil		vs	     nil
+NOTE - Agro-Kanesho Co Ltd is a medium-scale producer of agrochemicals.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  6.54		 6.33
+ Current	    650    mln	 650    mln
+ Net		  280    mln	 276    mln
+ EPS		   55.31 yen	  54.59 yen
+ Ord div	     10.00 yen	  10.00 yen
+NOTE - Koken Ltd is the largest manufacturer of gas and dust masks.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.57		vs	    3.27
+ Operating	  506    mln	  vs	  469    mln
+ Current	    450    mln	  vs	  396    mln
+ Net		  228    mln	  vs	  161    mln
+ EPS		   45.00 yen	  vs	   31.89 yen
+ Shares		5 million	  vs	   5 million
+ Interim div	   nil		vs	     nil
+NOTE - Koken Ltd is the largest manufacturer of gas and dust masks.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.10		 6.91
+ Current	     61    mln	  58    mln
+ Net		   18    mln	  32    mln
+ EPS		    1.79 yen	   3.23 yen
+ Ord div		 nil		  nil
+NOTE - Japan Resistor Mfg Co makes resistors, hybrid ICs, pentiometers and some electronic equipment.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.21		vs	    3.47
+ Operating	   34    mln	  vs	   33    mln
+ Current	     34    mln	  vs	   17    mln
+ Net		    4    mln	  vs	    7    mln
+ EPS		    0.45 yen	  vs	    0.74 yen
+ Shares	     10 million	  vs	  10 million
+NOTE - Japan Resistor Mfg Co makes resistors, hybrid ICs, pentiometers and some electronic equipment.Year to May 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Group)		FORECAST	  YEAR-AGO
+ Sales		 29.90		28.83
+ Current	    525    mln	 540    mln
+ Net		  260    mln	 278    mln
+ EPS		   60.68 yen	  65.00 yen
+NOTE - Otake Corp is a specialist trader of valves, pipe coupling and other piping materials.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		220.00	     208.55
+ Current		8.70		 8.45
+ Net		    3.70		 3.41
+ EPS		   68.04 yen	  62.75 yen
+ Ord div	     10.50 yen	   8.00 yen
+NOTE - Kirin Beverage Corporation is the soft drink division of the Kirin Brewery Co Ltd group.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 96.71		vs	   94.17
+ Operating	    4.49		vs	    3.71
+ Current		3.52		vs	    2.74
+ Net		    1.58		vs	    1.21
+ EPS		   29.13 yen	  vs	   22.20 yen
+ Shares	     54 million	  vs	  54 million
+ Interim div	  5.25 yen	  vs	    4.00 yen
+NOTE - Kirin Beverage Corporation is the soft drink division of the Kirin Brewery Co Ltd group.Year to May 31, 1996
+ (Group)	(in billions of yen unless specified)
+ Sales		 28.83		vs	   27.27
+ Operating	  576    million    vs	  683    million
+ Current	    540    million    vs	  489    million
+ Net		  278    million    vs	  205    million
+ EPS		   65.00 yen	  vs	   58.83 yen
+NOTE - Otake Corp is a specialist trader of valves, pipe coupling and other piping materials.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  4.70		 4.34
+ Current	    110    mln	 181    mln
+ Net		  280    mln	  92    mln
+ EPS		   28.00 yen	   9.18 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Riken Corundum Co Ltd is a major producer of sandpaper.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 64.00		61.04
+ Operating	    1.00	     557    mln
+ Current	    800    mln	 567    mln
+ Net		  470    mln	 229    mln
+ EPS		   17.00 yen	   8.29 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Canon Electronics Inc is a producer of camera units and magnetic heads.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  2.26		vs	    2.13
+ Operating	   77    mln	  vs	  110    mln
+ Current	     74    mln	  vs	  115    mln
+ Net		  243    mln	  vs	   61    mln
+ EPS		   24.27 yen	  vs	    6.11 yen
+ Shares	     10 million	  vs	  10 million
+ Interim div	  2.50 yen	  vs	    2.50 yen
+NOTE - Riken Corundum Co Ltd is a major producer of sandpaper.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 30.81		vs	   29.82
+ Operating	  505    mln	  vs	   93    mln
+ Current	    469    mln	  vs	  107    mln
+ Net		  223    mln	  vs	   63    mln
+ EPS		    8.08 yen	  vs	    2.29 yen
+ Shares	     28 million	  vs	  28 million
+ Interim div	   nil		vs	     nil
+NOTE - Canon Electronics Inc is a producer of camera units and magnetic heads.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 12.30		10.83
+ Current	    460    mln	 243    mln
+ Net		  230    mln	 114    mln
+ EPS		   58.49 yen	  29.28 yen
+ Ord div	     10.00 yen	  25.00 yen
+NOTE - Luckland Co Ltd is a design, planning and construction firm.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  5.26		vs	    4.48
+ Operating	  109    mln	  vs	  105    mln
+ Current	    153    mln	  vs	   47    mln
+ Net		   69    mln	  vs	   23    mln
+ EPS		   17.78 yen	  vs	    6.04 yen
+ Shares		4 million	  vs	   4 million
+ Interim div	   nil		vs	     nil
+NOTE - Luckland Co Ltd is a design, planning and construction firm.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 40.00		42.90
+ Current	    400    mln	 652    mln
+ Net		  200    mln	 304    mln
+ EPS		    8.81 yen	  13.42 yen
+ Ord div		5.00 yen	   5.00 yen
+NOTE - Marantz Japan Inc is an audio equipment maker.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 18.78		vs	   22.07
+ Operating	    7    mln	  vs	  402    mln
+ Current	     36    mln	  vs	  355    mln
+ Net		   30    mln	  vs	  171    mln
+ EPS		    1.36 yen	  vs	    7.53 yen
+ Shares	     23 million	  vs	  23 million
+NOTE - Marantz Japan Inc is an audio equipment maker.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Group)		FORECAST	  YEAR-AGO
+ Sales		 28.20		27.40
+ Current	    970    mln	 943    mln
+ Net		  460    mln	 329    mln
+ EPS		   49.49 yen	  35.48 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to June 30, 1996
+ (Group)	(in billions of yen unless specified)
+ Sales		 27.40		vs	   27.78
+ Operating	    1.30		vs	    1.26
+ Current	    943    million    vs	  633    million
+ Net		  329    million    vs	  277    million
+ EPS		   35.48 yen	  vs	   29.82 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 31.85		34.95
+ Current	    179    mln	   1.91
+ Net		   42    mln	 442    mln
+ EPS		    0.67 yen	   7.11 yen
+ Ord div		7.00 yen	   7.00 yen
+NOTE - Avon Products Co Ltd produces and sells cosmetics in Japan.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 14.12		vs	   16.19
+ Operating   loss 161    mln	  vs	prft 702 mln
+ Current	loss 83    mln	  vs	prft 796 mln
+ Net	    loss 82    mln	  vs	loss 269 mln
+ EPS	     loss 1.32 yen	  vs     loss 4.33 yen
+ Shares	     62 million	  vs	  62 million
+ Interim div	   nil		vs	     nil
+NOTE - Avon Products Co Ltd produces and sells cosmetics in Japan.Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 28.20		27.40
+ Current	    920    mln	 829    mln
+ Net		  440    mln	 283    mln
+ EPS		   47.34 yen	  30.52 yen
+ Ord div	     11.00 yen	  11.00 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 52.00		55.52
+ Current		1.20		 1.18
+ Net		  320    mln	 271    mln
+ EPS		   10.89 yen	   9.51 yen
+ Ord div		6.00 yen	   6.00 yen
+NOTE - Nippon Typewriter Co Ltd is a maker of Japanese-language typewriters.Year to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 27.40		vs	   27.78
+ Operating	  990    million    vs	  969    million
+ Current	    829    million    vs	  607    million
+ Net		  283    million    vs	  276    million
+ EPS		   30.52 yen	  vs	   29.78 yen
+ Shares		 9 million	 vs	   9 million
+ Ord div	     11.00 yen	  vs	   11.00 yen
+NOTE - Ichimasa Kamaboko Co Ltd is a major marine paste product manufacturer.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 27.65		vs	   28.34
+ Operating	  410    mln	  vs	  390    mln
+ Current	    663    mln	  vs	  590    mln
+ Net		  209    mln	  vs	  166    mln
+ EPS		    7.29 yen	  vs	    5.85 yen
+ Shares	     29 million	  vs	  29 million
+ Interim div	  3.00 yen	  vs	    3.00 yen
+NOTE - Nippon Typewriter Co Ltd is a maker of Japanese-language typewriters.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		175.00	     169.17
+ Current		3.00		 4.88
+ Net		  300    mln	 332    mln
+ EPS		    9.17 yen	  10.16 yen
+ Ord div		9.00 yen	   9.00 yen
+NOTE - Arai-Gumi Ltd is a general construction contractor.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.40		  6.9
+ Current		1.27	     962    mln
+ Net		  674    mln	 519    mln
+ EPS		   55.30 yen	  53.25 yen
+ Ord div	     12.00 yen	  12.00 yen
+NOTE - Nippon Ceramic Co Ltd is a top manufacturer of fine ceramics-based sensors.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 82.46		vs	   74.80
+ Operating	    2.18		vs	    3.14
+ Current	    864    mln	  vs	    1.51
+ Net		  139    mln	  vs	  191    mln
+ EPS		    4.28 yen	  vs	    5.86 yen
+ Shares	     33 million	  vs	  33 million
+ Interim div	   nil		vs	     nil
+NOTE - Arai-Gumi Ltd is a general construction contractor.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		  3.39		vs	    3.23
+ Operating	  278    mln	  vs	  209    mln
+ Current	    846    mln	  vs	  359    mln
+ Net		  451    mln	  vs	  201    mln
+ EPS		   38.29 yen	  vs	   20.62 yen
+ Shares	     12 million	  vs	  10 million
+ Interim div	   nil		vs	     nil
+NOTE - Nippon Ceramic Co Ltd is a top manufacturer of fine ceramics-based sensors.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 50.00		47.38
+ Current		3.00		 2.32
+ Net		    1.30		 1.05
+ EPS		   36.99 yen	  29.74 yen
+ Ord div		8.00 yen	   7.00 yen
+NOTE - Mitsubishi Pencil Co Ltd is a maker of writing instruments.Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 92.00		90.03
+ Current		2.60		 3.02
+ Net		    1.25		 1.56
+ EPS		   18.75 yen	  23.48 yen
+ Ord div		7.50 yen	   7.50 yen
+ -Special div	 1.00 yen	   1.00 yen
+NOTE - Okura Industrial Co Ltd is a chemical producer.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 26.14		vs	   24.28
+ Operating	    1.53		vs	    1.17
+ Current		1.63		vs	  951    million
+ Net		  686    million    vs	  429    million
+ EPS		   19.53 yen	  vs	   12.21 yen
+ Shares	     35 million	  vs	  35 million
+ Interim div	  3.50 yen	  vs	    3.25 yen
+ -Commem div	  1.00 yen	  vs		 -
+NOTE - Mitsubishi Pencil Co Ltd is a maker of writing instruments.Six months to June 30, 1996
+ (Parent)	(in billions of yen unless specified)
+ Sales		 44.44		vs	   44.36
+ Operating	    1.42		vs	    1.97
+ Current		1.25		vs	    1.64
+ Net		  593    million    vs	  877    million
+ EPS		    8.90 yen	  vs	   13.16 yen
+ Shares	     67 million	  vs	  67 million
+ Interim div	   nil		vs	     nil
+NOTE - Okura Industrial Co Ltd is a chemical producer.Discount Investment Corp Ltd, a subsidiary of IDB Holdings.
+			   (In thousands of shekels except EPS)
+			   Q2 96    Q2 95    6-MTH 96	6-MTH 95
+Revenue		  69,140   55,044   144,259	 103,327
+Pretax profit	  52,852   40,982   107,239	  75,274
+Net profit	     49,679   38,681   101,783	  71,059
+EPS			 5.3	4.1	10.9	     7.6
+The company declared an interim dividend for 1996 of 15 million shekels which will be paid in October.
+- Tel Aviv newsroom, 972-3-537-2211Norwegian energy group Hafslund ASA on Wednesday attributed a 28 percent decline in first half operating profits to low water levels for hydropower production.
+Hafslund's production fell 19 percent in the six month period to 985 gigawatt hours (GWh) compared with 1,211 GWh a year ago.
+Operating profit amounted to 103 million crowns against 143 million crowns in the first half of 1995. Pre-tax profits slipped 30 million crowns to 150 million crowns.
+"The decline in operating profit is caused by substantially lower water level in the Glomma River in the first six months of 1996 compared with last year," Hafslund said in a statement.
+Norwegian power production has fallen in the first half of the year due to a shortfall of rain and snowfall last winter, which has resulted in low water levels in the country's reservoirs for hydroelectric production.
+Hafslund said electricity prices in the spot market were stable and high due to the low precipitation. Avergae spot level for the period to June 30 was 0.238 crowns per kilowatt hour (kWh) compared with 0.128 kWh last year.
+The group posted earnings per share (EPS) for the first half of 1.12 crowns.
+--Oslo newsroom, +47 22 42 50 41Analysts' estimates of UK company results expected in week ending August 23 include -
+COMPANY---------PFT/DIV/EPS--CONSENSUS----RANGE-------PVS
+THURSDAY, Aug 22
+ Rentokil ** I    PFT	137.7	135.0-141.0   99.2
+ Group Plc	  DIV	  1.48	   n/a	 1.23
+FRIDAY, Aug 23 - No major companies reporting
+NOTES -
+** The Rentokil forecasts are pre exceptional and include
+two months of profits from BET.
+All profit figures are pretax, exclude exceptional items
+unless otherwise stated and are in millions stg. Dividends
+are total net and quoted as pence per share.
+John Sutherland, London Newsroom +44 171 542 7945Includes all companies that have reported EPS and have at least one quarterly estimate in I/B/E/S.  Reported EPS are compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			 MEAN ESTIMATE
+KMART CORP			$0.08
+H & R BLOCK		   -$0.20
+FLUOR CORP		     $0.82-- Cowen & Co said it cut its 1996 earnings per share estimate on SDL Inc by $0.13 to $0.68 and its 1997 EPS view by $0.04 to $1.00.
+-- The stock was down 13 at 15 in trading on Thursday morning.  
+-- The analyst was not immediately available for comment.The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+		     First Call Earnings Surprises
+Positive Surprises
+ ----------------	First Call
+				     Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Wet Seal	     Q2Jul96    0.13     0.25     92.3%
+Hechinger Co	 Q2Jul96    0.20     0.28     40.0%
+Engineered Support Q3Jul96    0.23     0.28     21.7%
+Mac Frugal's Barg  Q2Jul96    0.10     0.12     20.0%
+Craig (Jenny) Inc  Q4Jun96    0.32     0.36     12.5%
+Spartech Corp	Q3Jul96    0.18     0.20     11.1%
+Centennial Techn   Q4Jun96    0.20     0.22     10.0%
+GC Companies	 Q3Jul96    0.98     1.07	9.2%
+LSI Industries     Q4Jun96    0.24     0.26	8.3%
+Smithfield Foods   Q1Jul96   -0.12     0.02	 N+
+Unify Corp	   Q1Jul96   -0.02     0.03	 N+
+Petsmart  Inc	Q2Jul96    0.09     0.10	N/A
+		 Negative Surprises
+------------------     First Call
+				   Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Fay's Inc	    Q2Jul96    0.10     0.07    -30.0%
+TSX Corporation    Q1Jul96    0.24     0.22     -8.3%
+Analog Devices     Q3Jul96    0.37     0.35     -5.4%
+Central Tractor    Q3Jul96    0.38     0.36     -5.3%
+Compuserve Corp    Q1Jul96   -0.15    -0.19	 N-
+H & R Block	  Q1Jul96   -0.21    -0.27	 N-
+Texfi Industries   Q3Jul96   -0.04    -0.14	 N-
+		   Other Companies Reporting Today
+Positive Reports
+--------------			  First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Nordson Corp	 Q3Jul96    0.62     0.65	4.8%
+Ross Stores Inc    Q2Jul96		  .72	4.3%
+Zygo Corp	    Q4Jun96    0.46     0.48	4.3%
+ChildTime Learning Q1Jun96    0.25     0.26	4.0%
+Longs Drug Stores  Q2Jul96    0.67     0.69	3.0%
+Duty Free Intl     Q2Jul96    0.22     0.22	0.0%
+Methode Electron   Q1Jul96    0.23     0.23	0.0%
+MacNeal-Schwendler Q2Jul96    0.14     0.14	0.0%
+Parlex Corp	  Q4Jun96    0.18     0.18	0.0%
+Standex Intl	 Q4Jun96    0.49     0.49	0.0%
+Genesco Inc	  Q2Jul96    0.04     0.08	N/A
+CMC Industries     Q4Jul96    0.05     0.07	N/A
+Gerber Scientific  Q1Jul96    0.05     0.07	N/A
+Goody's Family Clo Q2Jul96    0.07     0.08	N/A
+Kmart Corp	   Q2Jul96    0.07     0.07	N/A
+Pet Food Warehouse Q2Jul96    0.03     0.03	N/A
+Pacific Gateway Ex Q2Jun96    0.05     0.05	N/A
+		 Negative Reports
+----------------			   First Call
+				  Consensus  Actual
+Company Name	Period     EPS	EPS     Diff.
+Roper Industries   Q3Jul96    0.46     0.45	N/A
+Fluor Corp	   Q3Jul96    0.82     0.81	N/A
+PCA International  Q2Jul96    0.04     0.03	N/A
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.CHARMING SHOPPES INC
+    SECOND QUARTER ENDED	    8/3/1996	    7/29/1995
+					    (13 weeks)	  (13 weeks)
+    Net EPS (Loss)		     $0.00	     ($0.03)
+    Net Sales			 $266,678	    $268,448
+    Other Income			 1,571		 1,920
+    Total Revenue		    268,249	     270,368
+Cost of Goods Sold,
+	Buying & Occupancy	   204,601    76.7   207,731
+Selling, General &
+     Administrative		   61,624    23.1    69,023
+    Interest Expense		   1,606     0.6	 481
+	Total Expenses		 267,831   100.4   277,235
+Income (Loss) Before
+     Income Taxes			  418     0.2    (6,867)
+Less Income
+     Taxes (Benefit)		     114     0.1    (3,734)
+    Net Income (Loss)		    304    0.1%    (3,133)
+    Wgtd Avg Shrs		107,018,245	  103,001,599
+	   (in thousands except shares and per share amounts)KINDERCARE LEARNING CENTERS INC
+ FOURTH QUARTER ENDED	 MAY 31, 1996   JUN 2, 1995
+ Operating revenues		$132,231    $122,542
+Operating expenses:
+ Salaries, wages and benefits    67,884	62,659
+   Rent expense			 6,086	 6,159
+   Depreciation			 8,546	 6,131
+   Other operating expenses	31,382	30,673
+(Gain) loss on litigation settlements net of
+    restructuring costs	     2,500	    --
+   Total operating expense	116,398     105,622
+   Operating income		  15,833	16,920
+(Dollars in thousands, except per share amounts)
+NOTE: 1996 Q4 operating income includes $2.5 million restructuring charge for organizational changes.
+1996 Q4 net income $7.7 million includes the $2.5 million charge. Net income for the fourth quarter last year was $7.9 million before a $1.0 million gain on the sale of certain stockholdings.
+The company did not release Q4 EPS figures.
+ FISCAL YEAR ENDED	    MAY 31 1996  JUN 2 1995 JUN 3 1994
+ Operating revenues	    $541,264	 $506,505 $488,726
+Operating expenses:
+  Salaries wages and benefits 284,115	  263,527  256,468
+  Rent and lease payments	26,515	   26,099   22,563
+  Depreciation		     33,972	   28,071   25,148
+Provision for allowance
+   for doubtful accounts	  3,908	    3,612    3,885
+  Other			     139,561	  135,298  133,496
+Litigation settlements, restructuring costs (income), net
+					  1,484	    (888)	 --
+  Total operating expenses    489,555	  455,719  441,560
+ Operating income		  51,709	   50,786   47,166
+ Net investment income		250	    2,635    3,176
+ Interest expense		  16,727	   17,318   17,675
+ Income before taxes and item  35,232	   36,103   32,667
+ Income tax expense		13,549	   14,037   12,837
+ Income before item		21,683	   22,066   19,830
+Extraordinary item - loss on debt
+  discharge, net of income taxes   --		 --  (2,397)
+ Net income			  21,683	   22,066   17,433
+ Primary EPS before item	   1.10	     1.07	.97
+  Extraordinary item		    --		 --    (.12)
+ Primary net EPS		     1.10	     1.07	.85
+  Wgtd avg shrs outstanding    19,752	   20,683   20,533
+ Fully-diluted EPS before item   1.05
+ Fully diluted net EPS	     1.05
+ Wgtd avg shrs		    20,683Swedish industrial gas concern AGA reports its results for six months to June 30, 1996, compared with the first half of 1995.
+					(million crowns unless stated)
+ Profit after fin items		    964 vs  1,117
+ Sales					 6,409 vs  6,775
+ Operating costs			   4,930 vs  5,113
+ Capital gains			     1,794 vs    601
+ Depreciation				  659 vs    656
+ Net profit				  2,277 vs  1,381
+ Paid tax					393 vs    230
+ Deferred tax				   85 vs    102
+ Minorities					3 vs	5
+ EPS (crowns)				 9.37 vs	5.70
+NOTE - Swedish gas company AGA was expected to post a profit after financial items of 1.09 billion crowns for the first half, according to a Reuters poll of 10 analyasts.
+-- Stockholm newsroom +46-8-700 1017The research arm of Deutsche Bank AG, Deutsche Morgan Grenfell, on Thursday said it had lowered its EPS forecasts for the German chemical company Merck KGaA for 1996, 1997 and 1998.  
+For 1996 Deutsche MG has downgraded Merck's EPS forecast to 2.27 marks from 2.47 marks, for 1997 to 2.57 marks from 2.87 marks and for 1998 to 3.09 marks from 3.50 marks.
+Deutsche MG analysts said the downgrade came in the wake of an analysts' conference call after Merck reported its first-half figures for 1996.
+The analysts said they believed Merck would not achieve its forecast profit increase of 30 to 40 percent for the full year and downgraded the share as a result.
+Rumours of a downgrade put Merck shares under pressure in early pre-bourse trade. At 0817 GMT Merck shares led the losers on the IBIS DAX index, down 1.10 marks or 1.92 percent at 56.20 marks, compared to the overall market, up 0.31 percent.
+--Frankfurt Newsroom, +49 69 756525QUANEX CORPORATION
+		 Consolidated statements of income (unaudited)
+		     (In thousands, except per share data)
+			     Three months ended  Nine months ended
+				    July 31,	     July 31,
+			     1996	 1995     1996	  1995
+Net sales		$225,463  $228,172  $632,576  $662,405
+Income before charge    9,145     9,603    21,324    24,078
+Debt extinguishment
+  charge			 --	  --   (2,522)   (2,021)
+Net income		  9,145     9,603    18,802    22,057
+EPS (primary)
+  Before charge	   $0.67    $  0.63    $1.57     $1.48
+Extraordinary charge	 --	   --    (0.19)    (0.15)
+EPS (primary)
+  After charge	    $0.67    $  0.63    $1.38     $1.33
+EPS (diluted)
+  Before charge	   $0.61    $  0.59    $1.47     $1.48
+Extraordinary charge	 --	   --    (0.15)    (0.15)
+EPS (diluted)
+  After charge	    $0.61    $  0.59    $1.32     $1.33
+Weighted avg shrs
+  (primary)		13,659    13,642    13,630    13,598
+  (diluted)		16,355    16,382    16,326    13,598
+--New York Newsdesk 212-859-1610.Deutsche Morgan Grenfell/C.L. Lawrence (corrects from J.C. Bradford) initiated coverage of six semiconductor related companies with accumulate and hold ratings.
+Analyst Kathryn Buergert said she started Brooks Automation Inc and Tencor Instruments with accumulate and Electroglas Inc with hold.
+She said the rating were based on the companies' earnings per share outlook. Brooks EPS are expected to climb to $1.15 in fiscal year 1997 from $1.07 in 1996. Tencor is expected to climb to $1.70 from $1.13 while Electroglas is expected to fall to $0.85 from $1.63.  
+Analyst Elliott Rogers said he initiated coverage of DuPont Photomasks Inc and Semitool Inc with accumulate and LTX Corp with hold.
+"The accumulate ratings reflect some uncertainty about the near-term outlook as far as capital spending is concerned," Rogers said.
+"The hold rating on LTX reflects these same concerns but exacerbated by a customer -- Korea's Daewoo Corp -- which claims an order worth $50 million was never placed."Analysts responded positively on Thursday to the announcement by Hungary's State Privatisation Agency APV that Danubius Hotels had won the tender to buy 85 percent of hotel chain Hungaria Szalloda.
+"We're certainly pleased that they've bought it," said Frances Cloud of Nomura Equity Research in London. "It can add quite a lot of value to their portfolio and the price was quite reasonable." @
+APV announced earlier on Thursday that Danubius would pay 8.125 billion forints for the stake, representing 173.8 percent of the face value of the shares.
+The remaining 15 percent stake will be offered to employees with Danubius obliged to buy any shares not subscribed at the same rate of 173.8 percent of face value.
+The agreement will take effect as soon as the government's Competition Agency has given its approval.
+Cloud believes the deal will have no trouble getting past the Competition Agency despite a clause in the tender limiting the winner to 30 percent of the domestic hotel market. @
+The combined market share of Danubius and Hungarhotels is around 27 percent in all categories of hotel but rises to above 30 percent if the Beta Hotel chain in which Danubius has shares is included.
+However sources within Danubius have said that as the company does not actually control or manage Beta it would be left out of the equation.
+"They will have thought about this in advance and I am sure they have worked out plans to get round this," Cloud said, adding that it was unlikely the deal would have been approved by the APV if there was a danger of rejection by the agency. @
+Anthony Vago of Bank Austria Giro Credit in Hungary also welcomed the deal but warned that the means by which Danubius pays for the acquisition could make a difference in terms of earnings per share (EPS).
+These would increase if funds are generated through an equity raise but could fall if the company uses debt.
+"EPS is going to go down if it's financed with debt but that's offset with the profits it gets from the group," he said. @
+"But I think it would be wise for them to finance it with a capital increase. That would be the logical way to go." he said, adding that neither scenario would affect long-term propects for the Danubius shares, which he rates as a long-term buy.
+Cloud believes there could be a combination of different modes of payment.
+"I don't think they quite know yet how they're going to do it," she said. "There could be a combination of debt and a capital increase or they may be allowed to pay in instalments," she said. @
+Hungaria Szalloda, which as HungarHotels was the subject of a failed bid by American General Hospitality Corp of Dallas, Texas, early last year, is made up of 14 mainly provincial hotels.
+In January, the APV hived off the HungarHotels' flagship hotel, the Budapest Forum, for a separate tender and in May announced a new tender for an 85 percent stake in the 14 remaining hotels under the Hungaria Szalloda name.
+The APV said it had not yet reached a decision on the Hotel Forum tender. @
+The Budapest Stock Exchange earlier suspended trading in Danubius shares on the strength of newspaper reports anticipating the announcement of the sale. Trading of the papers will resume on Friday.
+-- Duncan Shiels, Budapest newsroom +361 266 2410

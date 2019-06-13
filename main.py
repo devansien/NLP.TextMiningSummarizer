@@ -107,13 +107,18 @@ temp_documents.append(ps.apply_ner(detokenizer.detokenize(word_bag)))
 # https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
 
 # spacy ner
-doc = nlp(detokenizer.detokenize(word_bag))
-print('Total number of entities: ' + str(len(doc)))
+doc = []
+for x in range(3):
+    doc.append(nlp(detokenizer.detokenize(word_bag[int(len(word_bag) / 3 * x):int((len(word_bag) / 3 * (x + 1)))])))
+
+for x in range(3):
+    print('Total number of entities for batch ' + str(x + 1) + ': ' + str(len(doc[x])))
 
 # label summary
-labels = [x.label_ for x in doc.ents]
-print('\nEntity summary:')
-pprint(Counter(labels))
+for i in range(3):
+    labels = [x.label_ for x in doc[i].ents]
+    print('\nEntity summary for batch ' + str(i + 1) + ':')
+    pprint(Counter(labels))
 
 # most common items
 # items = [x.text for x in doc.ents]
@@ -121,20 +126,25 @@ pprint(Counter(labels))
 
 # most common organizations
 target_orgs = []
-organizations = [x.text for x in doc.ents if x.label_ == 'ORG']
-target_orgs = Counter(organizations).most_common(5)
-print('\nTop 5 most commonly appeared organizations:')
-pprint(target_orgs)
+for i in range(3):
+    organizations = [x.text for x in doc[i].ents if x.label_ == 'ORG']
+    target_orgs.append(Counter(organizations).most_common(5))
+
+for i in range(3):
+    print('\nTop 5 most commonly appeared organizations for batch ' + str(i + 1) + ':')
+    pprint(target_orgs[i])
 
 # get articles which contain the target words
-target_orgs = [org for (org, count) in target_orgs]
+for i in range(3):
+    target_orgs[i] = [org for (org, count) in target_orgs[i]]
 
-for didx, d in enumerate(documents):
-    for oidx, o in enumerate(target_orgs):
-        if o in d:
-            file = open('./output/' + str(o) + '.txt', 'a+')
-            file.writelines(d)
-            file.close()
+for i in range(3):
+    for didx, d in enumerate(documents):
+        for oidx, o in enumerate(target_orgs[i]):
+            if o in d:
+                file = open('./output/' + str(o) + '.txt', 'a+')
+                file.writelines(d)
+                file.close()
 
 # process ends
 end_time = datetime.datetime.now()

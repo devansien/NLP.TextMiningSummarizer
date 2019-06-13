@@ -1,0 +1,1370 @@
+The following bond was announced
+by lead manager Kredietbank.
+ BORROWER   DE NATIONALE INVESTERINGSBANK			     
+ AMT    55 MLN ECU    COUPON     **	  MATURITY    27.SEP.04
+ TYPE	 STRAIGHT  ISS PRICE  101.85    PAY DATE    27.SEP.96
+ FULL FEES  2.00	REOFFER    =	   SPREAD	=	  
+ NOTES   ** 5.625 YEARS 1-4, 8.0 PCT THEREAFTER		     
+ MOODY	AA3	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AA+	 DENOMS (K) 1-5	 SALE LIMITS =
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES	
+ GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   =	  
+ MGT/UND    0.625     SELL CONC  1.375     PRAECIP     =	  
+ NOTES	ISSUED OFF EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658COMPUSERVE CORPORATION
+			 CONSOLIDATED STATEMENTS OF OPERATIONS
+(AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+						   3 Months Ended July 31
+							 1996	   1995
+REVENUES
+   Online Services revenues		 $141,414     $134,192
+   Network Services revenues		  59,278	 45,064
+   Other revenues				  7,950	  7,293
+     TOTAL REVENUES			    208,642	186,549
+COSTS AND EXPENSES
+   Costs of revenues			   139,696	 82,230
+   Marketing					59,031	 27,577
+   General and administrative		  9,494	  9,633
+   Depreciation and amortization	    26,853	 14,522
+   Product development			   7,056	  6,982
+   Nonrecurring items			   17,713	     --
+     TOTAL COSTS AND EXPENSES		259,843	140,944
+ OPERATING EARNINGS/(LOSS)		  (51,201)	 45,605
+ INTEREST INCOME				   3,131	     --
+ EARNINGS/(LOSS) BEFORE TAXES	     (48,070)	 45,605
+ TAXES ON EARNINGS/(LOSS)		   (18,455)	 18,770
+ NET EARNINGS/(LOSS)			 ( 29,615)	 26,835
+ EARNINGS/(LOSS) PER SHARE		   ( 0.32)	   0.36
+WEIGHTED AVERAGE COMMON SHARES
+   OUTSTANDING				92,600,000   74,200,000
+NOTE - First quarter net income included a one-time pre-tax charge of $17.7 million, or $0.13 per share. After tax, the charge was $12.5 million.SALES/EARNINGS FOR THE THREE AND SIX MONTHS
+		  ENDED AUG. 3, 1996 AND JULY 29, 1995
+				  (unaudited)
+		     (In thousands, except per share amounts)
+			     Three months ended    Six months ended
+			    Aug. 3,     Jul 29,    Aug. 3,  Jul 29,
+				  1996	 1995	 1996     1995
+ Net sales		$ 96,216   $ 82,300   $190,979 $170,753
+ Cost of sales	    70,170     59,957    138,436  122,850
+ Gross profit	     26,046     22,343     52,543   47,903
+Selling, general and
+administrative
+  expense		   20,340     18,123     40,345   38,503
+ Other (income), net     (873)	(736)    (1,963)  (1,512)
+ Interest expense	    678	  787	1,354    1,581
+Income before income
+  taxes			5,901	4,169     12,807    9,331
+Provision for income
+  taxes			2,006	1,459	4,354    3,266
+ Net income		  3,895	2,710	8,453    6,065
+Net income per common
+share and common share
+  equivalents		 0.43	 0.30	 0.93     0.67
+Cash dividends per
+  common share		0.06	 0.06	 0.12     0.12
+Weighted average number
+of common shares and
+common share
+  equivalents		9,158	9,099	9,117    9,066UNIVERSAL AMERICAN FINANCIAL CORP. AND SUBSIDIARIES
+			     CONSOLIDATED STATEMENT OF EARNINGS
+			    (In thousands except per share data)
+		    For the Three Months   For the Six Months
+			   Ended June 30,	Ended June 30,
+				1996    1995	 1996	1995
+Revenues:
+Premium and
+  policyholder fees   $8,736  $8,991    $17,360   $17,985
+Net investment
+  income		     742     816	1,603     1,653
+Realized investment
+  gains			 14     383	   95	 402
+ Fee income		  612     906	1,632     1,870
+Amortization of
+  deferred revenue	  70	41	  140	  83
+ Total revenues	 10,174  11,137     20,830    21,993
+Benefits, claims and
+expenses
+Decrease in future
+  policy benefits	   81   (931)	   42   (2,029)
+Claims and other
+  benefits		 5,416   6,384     10,898    12,052
+Increase in deferred
+  acquisition costs    (584)   (932)    (1,326)   (1,613)
+Amortization of present
+  value of future profits  0	51	    0	 102
+Other costs and
+  expenses		 5,074   5,507     10,701    11,830
+ Total expenses	  9,987  10,079     20,315    20,342
+Operating income
+  before taxes	     187   1,058	  515     1,651
+ Federal income taxes     64     360	  110	 561
+ Net income		  123     698	  405     1,090
+Net income applicable
+  to common shareholders  123    698	  405     1,090
+Net income per
+  common share	     .01     .07	  .04	 .10
+				SELECTED FINANCIAL DATA
+			(In thousands except per share data)
+Selected Balance Sheet Data  Jun 30, 1996  Dec. 31, 1995
+ Total Investments		  $138,705	  $135,603
+ Total Assets			  193,119	   182,994
+ Total Liablilities		  172,837	   158,880
+ Total Stockholders' Equity	 20,282	    24,114
+ Total Common Shares Outstanding   6,976	     6,958
+ Book Value per Common Share	  2.33		2.89
+-- New York Newsdesk 212 859-1610Allied Irish Banks Plc
+said today it had launched three bonds off its EMTN Programme.
+One worth $41.0 million, the second worth 71.0 million
+guilders and the third for 27.5 million Irish pounds.
+* * * * *
+ AMT    $41 MLN	 SPREAD    *0.375 PCT MATURITY    07.SEP.06
+ TYPE	 FRN	 BASE	 3M LIBOR
+ NOTES	*TO 07.SEP.01, THEREAFTER 0.875 PCT
+CALL OPTION COMMENCES ON 07.SEP.01
+* * * * *
+ AMT    71 MLN DFL    COUPON     6.70 PCT* MATURITY	.AUG.09
+ TYPE	 STRAIGHT
+ NOTES	*TO AUGUST 2004, THEN RESET AT 1.15 PCT OVER THE
+PREVAILING FIVE-YEAR DUTCH GOVERNMENT LOAN STOCK.
+CALL OPTION COMMENCES IN AUGUST 2004.
+* * * * *
+ AMT    27.5 MLN IEP  SPREAD     0.35 PCT* MATURITY	.FEB.07
+ TYPE	 FRN	 BASE	 3M DIBOR
+ NOTES	*UNTIL FEB 2002, 0.75 PCT THEREAFTER.
+CALL OPTION COMMENCES ON FEB 2002.
+* * * * *
+NOTES: SUBORDINATED DEBT ISSUES
+-- London Newsroom +44 171 542 7718Merrill Lynch said today it had lead-managed a four-tranche asset-backed dollar FRN for Household Consumer Loan Trust 1996-2. The FRN is still to be priced. 
+* * * * *
+CLASS A1
+ AMT    $794 MLN	IND SPREAD +17/18*   LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY AAA	 ISS PRICE  ***	 FULL FEES   0.18
+ LAST S&P   AAA	 REOFFER    ***	 EXP MAT     15.JAN.03
+ MGT/UND    0.06	SELL CONC  0.12	AVE LIFE    2.39 YRS
+ NOTES	*13.0 PCT CAP
+* * * * *
+CLASS A2
+ AMT    $52.24 MLN    IND SPREAD +32 AREA* LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY AA3	 ISS PRICE  ***	 FULL FEES   0.45
+ LAST S&P   AA	  REOFFER    ***	 EXP MAT     15.JAN.03
+ MGT/UND    0.15	SELL CONC  0.30	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+CLASS A3
+ AMT    $67.90 MLN    IND SPREAD +42 AREA* LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY A2	  ISS PRICE  ***	 FULL FEES   0.50
+ LAST S&P   A	   REOFFER    ***	 EXP MAT     15.JAN.03
+ MGT/UND    0.20	SELL CONC  0.30	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+CLASS B
+ AMT    $49.37 MLN    IND SPREAD +60-65 BP*LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY BAA2	ISS PRICE  ***	 FULL FEES   0.55
+ LAST S&P   BBB	 REOFFER    ***	 EXP MAT     15.JAN.03
+ MGT/UND    0.20	SELL CONC  0.35	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+COMMON TERMS
+ LISTING    LUX	 DENOMS (K) 1-100     SALE LIMITS NONE
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   NO
+ GOV LAW    NEW YORK  PAY FREQ   MONTHLY   TAX PROVS   STD
+ NOTES	*** TO BE PRICED
+-- London Newsroom +44 171 542 8863Citibank Espana has issued a total of 25,000 warrants, on 3-month MIBOR, lead manager Citibank NA said.
+ STRIKE PRICE    7.50 PCT		  PREMIUM	0.77 PCT
+ ISSUE PRICE     7714 ESP		  GEARING	=
+ MATURITY DATE   15.FEB.98		 PAYDATE	19.AUG.96
+ LISTING	   MADRID		    MIN EXER LOT =
+-- Reuter London Newsroom +44 171 542 7658Brazilian privatized power utility Light has asked an economist to look into the upcoming sell-off of Rio de Janeiro's state-owned electricity company Cerj, a local news agency said.
+Light has asked economist Luiz David Travesso to make the necessary financial arrangements to prepare the company to bid for Cerj when it is auctioned on the Rio stock exchange at the end of November, according to Invest News.
+Travesso said he did not know yet whether Light would bid for Cerj on its own or as part of a consortium, Invest News said.
+Light would have a monopoly in electricity distribution in Rio de Janeiro state should the acquisition take place. Light supplies the city of Rio de Janeiro with electricity, while Cerj operates in the interior of the state.
+Travesso, who used to be a vice-president of ING Bank, assisted a consortium led by French power firm EDF to buy a 34 percent controlling stake in Light when it was privatized in May. He is now a member of Light's administration council.
+-- Simona de Logu, Rio de Janeiro newsroom, 5521 507 4151------------------INDIA COUNTRY FUNDS------------------
+NAME			    SIZE  ISSUE  NAV    NAV   INDICATIVE
+(ISSUER/LAUNCH)  LISTING ($million) PRICE  DATE   ($)   MKTPRICE($)
+					   ($)
+INDIA FUND A	    O  GBP75  P1.05  05/08 P3.02   P2.98/3.08
+(UTI/Jul'86)
+INDIA FUND B	    O  GBP41  P1.06  05/08 P1.12   P1.05/1.10
+(UTI/Oct'86)
+INDIA GROWTH FUND     C     65  12.00  14/08 12.19  11.88/12.38
+(UTI/Aug'88)
+INDIA MAGNUM FD A     C    205  20.00  02/08 47.17  44.00/48.00
+(SBI/Oct'89)
+INDIA MAGNUM FD B     C    205  20.00  02/08 47.17  44.00/48.00
+HIMALAYAN FUND	  C    105  11.00  14/08 13.58  12.00/13.00
+JF INDIA TRUST FUND   O    310  N.A    19/08  N/A   21.17/22.41
+(J.Fleming/May'93)
+BOMBAY FUND	     O     30  11.39  13/08  9.51   9.00/10.00
+(BZW/Aug'93)
+INDIA OPPORTUNITIES   O    100  10.35  07/08  9.82   9.80/10.30
+(Martin Currie/Jul'93)
+INDIA INVESTMENT CO   O    160  10.00  16/08  6.44	 201.58
+(F & Colonial/Oct'93)
+INDIA FUND, INC.	C    510  15.00  --/--  -.--    -.--/-.--
+Oppenheimer/Feb'94)
+MORGAN STANLEY FUND   C    500  15.00  19/08  N/A	    9.25
+(Morgan/Feb'94)
+MADRAS(I) EQUITY FD A O 13.410  20.00  19/08  20.98 20.98/22.08
+(G.Flight/Nov'95)
+MADRAS(I) EQUITY FD B O  2.280  20.00  19/08  21.07 21.07/22.18
+(G.Flight/Nov'95)
+JARDINE FLEMING FD    C    150  15.00  15/08   8.22  7.50/8.00
+(J.Fleming/Feb'94)
+FLEMING INDIA TRUST   C  GBP84  100p   19/08  N/A	  50.00
+(Fleming/Apr'94)
+TAJ PERFORMANCE FD    O     30  15.00  15/08   8.36  6.00/6.90
+(Raymond James/Apr'94)
+C - Close-ended, O - Open-ended, N.A - not available
+GBP or P- Pound sterling, p-pence
+Note: India country fund prices are compiled from the rates quoted by Jardine Fleming Securities, Merrill Lynch, Robert Fleming, Barclays De Zoete Wedd, Barings, Bear Stearns, Credit Lyonnais and WI Carr in London. They are indicative and for reference only. For further information please telephone Shyam Kumar in Bombay on 022-265 9000.The following Corex issue was increased by lead manager Commerzbank AG.
+ BORROWER   COMMERZBANK AG
+ AMT   *900 MLN DEM   COUPON   **4.55	MATURITY    25.APR.01
+ TYPE    REX-LINKED   ISS PRICE  99.70     PAY DATE    26.AUG.96
+ LAST MOODY AA2	 LAST S&P   AA-	 FULL FEES   =
+ LISTING    FRFT	DENOMS (K) ONE	 SALE LIMITS =
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  GERMANY   TAX PROVS   =
+ NOTES    *INCREASED BY 100 MILLION MARKS, ORIGINALLY LAUNCHED
+	   ON 29.MAR.96 AND INCREASED SIX TIMES SINCE.
+	   **PAYS AN ANNUAL FLOATING COUPON LINKED TO THE REX 10
+	   YEAR INDEX TIMES 70 PCT ON A 30/360 DAY BASIS.
+- London Newsroom +44 171 542 8863The following bond was announced by lead manager Sal Oppenheim jr. & Cie.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT    100 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+-- London Newsroom +44 171 542 7658The following bond was announced by joint lead managers Rabobank and SBC Warburg.
+ BORROWER   NEDERLANDSE GASUNIE
+ AMT    200 MLN DEM   COUPON     5.25	MATURITY    02.OCT.01
+ TYPE	 STRAIGHT  ISS PRICE  101.655   PAY DATE    02.OCT.96
+ FULL FEES  2.00	REOFFER    99.905    SPREAD	+17 BP
+ MOODY	AAA	 LISTING    LONDON    PAY FREQ    =
+ S&P	  AAA	 DENOMS (K) 1-10-100  SALE LIMITS =
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   IPMA 2
+ GOV LAW    DUTCH     HOME CTRY  NETHER    TAX PROVS   =
+ MGT/UND    0.25	SELL CONC  1.75	PRAECIP     =
+UNDERLYING GOVT BOND BOBL 118
+ NOTES	ISSUED OFF EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658The following bond was announced
+by lead manager Paribas Luxembourg.
+ BORROWER   NORDIC INVESTMENT BANK
+ AMT    400 MLN DKR   COUPON     6.50	MATURITY    16.DEC.02
+ TYPE	 STRAIGHT  ISS PRICE  101.75    PAY DATE   15.OCT.96L
+ FULL FEES  1.875     REOFFER    =	   SPREAD	=
+ NOTES	L LONG FIRST COUPON
+ MOODY	AAA	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AAA	 DENOMS (K) 10-50     SALE LIMITS =
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    LUX	 HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    0.625     SELL CONC  1.25	PRAECIP     =
+-- London Newsroom +44 171 542 7658The following bond was announced by lead manager Deutsche Bank.
+ BORROWER   FRANKFURTER HYPOTHEKENBANK CENTRALBODEN AG
+ AMT    100 MLN DEM   COUPON    *5.0 PCT   MATURITY    30.AUG.04
+ TYPE     FIXED/FRN   ISS PRICE  102.325   PAY DATE    30.AUG.96
+ FULL FEES  2.375     LISTING    FFT
+ S&P	  AAA	 DENOMS (K) ONE	 SALE LIMITS =
+ MGT/UND    0.875     SELL CONC  1.50	PRAECIP     =
+ NOTES	*YEARS ONE TO THREE, 6ML +0.10 YEARS FOUR TO EIGHT,
+		CAP AT 8.25 PCT, PFANDBRIEF
+-- London Newsroom +44 171 542 7658INLAND CASINO CORP.
+OPERATING RESULTS FOR THE THREE MONTHS AND FISCAL YEAR
+		  ENDED JUNE 30, 1995 AND 1996
+		     Three months ended	 Fiscal year ended
+			    June 30,		    June 30,
+			  1995	  1996	  1995	  1996
+ Revenues     $ 3,814,679 $ 3,816,250 $14,152,565 $11,482,040
+ Net Income	 967,319     977,214   4,017,779   1,455,693
+ Earnings per share  0.08	  0.09	  0.33	  0.12
+Shares used in the
+calculation of
+income per common
+and common
+equivalent shares
+		   12,245,422  10,855,882  12,039,019  12,159,428THE CATO CORPORATION
+	  CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED)
+	 FOR THE PERIODS ENDED AUGUST 3, 1996 AND JULY 29, 1995
+			   (In thousands, except per share data)
+						  Three Months Ended
+					Aug 3,	%    Jul 29,     %
+					 1996    Sales	1995  Sales
+REVENUES
+   Retail sales		 $112,747   100.0  $114,739  100.0
+Other income (principally
+finance and layaway
+   charges)			  3,208     2.8     3,111    2.7
+     Total revenues	    115,955   102.8   117,850  102.7
+COSTS AND EXPENSES
+Cost of goods sold, including
+occupancy, distribution and
+     buying			 80,549    71.4    82,256   71.7
+Selling, general and
+    administrative		29,591    26.2    29,123   25.4
+    Depreciation			2,123     1.9     1,939
+1.6
+ Interest				 66     0.1	  78    0.1
+     Total expenses	    112,329    99.6   113,396   98.8
+INCOME BEFORE
+ INCOME TAXES			3,626     3.2     4,454    3.9
+ Income taxes			1,287     1.1     1,491    1.3
+ NET INCOME			  2,339     2.1     2,963    2.6
+ EARNINGS PER SHARE		 0.08		  0.10
+ AVERAGE SHARES	     28,622,744	  28,730,129
+				    Six Months Ended
+					  Aug 3,     %   Jul 29,     %
+					   1996   Sales     1995  Sales
+REVENUES
+   Retail sales		   $232,775  100.0 $229,200  100.0
+Other income (principally
+finance and layaway charges)
+					   6,719    2.9    6,405    2.8
+   Total revenues		  239,494  102.9  235,605  102.8
+COSTS AND EXPENSES
+Cost of goods sold, including
+occupancy, distribution and buying
+					 160,323   68.9  157,532   68.7
+Selling, general and administrative
+					  59,246   25.4   58,311   25.4
+   Depreciation			4,197    1.8    3,878    1.7
+   Interest				131    0.1	156    0.1
+     Total expenses		223,897   96.2  219,877   95.9
+ INCOME BEFORE INCOME TAXES     15,597    6.7   15,728    6.9
+ Income taxes			  5,537    2.4    5,267    2.3
+ NET INCOME			   10,060    4.3   10,461    4.6
+ EARNINGS PER SHARE		   0.35		0.37
+ AVERAGE SHARES		 28,770,393	28,632,728
+-- New York Newsdesk 212 859-1610VIKING OFFICE PRODUCTS INC.
+				     FINANCIAL HIGHLIGHTS
+(Amounts in thousands of dollars, except per share data)
+	  Twelve Months Ended	     Three Months Ended
+	     June				 June	    Percent
+		  1996     1995  Change     1996     1995  Change
+Revenues
+	   $1,055,754 $811,899  30.0%  $268,479 $208,238  28.9%
+ Net Income  60,471   46,106  31.2%    16,217   11,864  36.7%
+Net Income
+ Per Share     0.70     0.54  29.6%	0.19     0.14  35.7%
+Weighted Average
+Shares
+Outstanding
+		 86,560   85,100   1.7%    87,200   85,400   2.1%
+NOTE - Net income for the quarter included a 2-cent per share charge for start-up and early operating expenses in Germany. Net income for the year included an 11-cent per share charge for start-up and early operating expenses in Viking's new German division.
+-- New York Newsdesk 212 859-1610Dutch analysts are agreed dredger Boskalis will post a fall in first-half net profits on Friday, but vary widely in their estimates of how big the earnings slide will be.
+Profit estimates range from 18.3 million guilders to 37.3 million, with the consensus at 30.1 million guilders. Last year the world's biggest dredging company posted first-half profits of 41.4 million guilders.
+"First-half results will clearly come in lower than last year, but the question is how much lower," ING Barings' Paul Verbraeken said.
+"Boskalis described capacity utilisation in the first half as 'moderate' and it depends how you interpret that," he added.
+Verbraeken is forecasting first-half net of 36 million guilders or 1.39 guilders per share, a fall of 14 percent year-on-year.
+Earnings would be supported by the acquisition of dredging firm De Holland and Boskalis' doubling of its stake in Finnish Terramare OY to 80 percent earlier this year, Verbraeken said.
+"They're small, but every bit helps," he said. Verbraeken conceded he was "less negative than the market" on Boskalis, whose order books were well-filled.
+By contrast Bank Labouchere's Sven Smit was extremely bearish on the dredger's first-half outlook, predicting net profit of 18.3 million guilders or 72 cents per share.
+"There will undoubtedly be a major profit fall," he said. The protracted winter in Europe and a lack of major orders to compensate for the completion of lucrative projects in Hong Kong would drag down earnings, he said.
+Longer term, however, the dredging market was seen picking up slightly although margins were at structurally lower levels, he said.
+"The outlook for 1997 and 1998 is better," Smit said.
+Deutsche Bank's Konrad Zomer is forecasting net of 32 million guilders, based on expectations of "reasonable" capacity utilisation generated in part by maintenance work.
+"The firm will almost certainly post lower profits year-on-year, but it is difficult to gauge whether some orders were undertaken just in profit or at a marginal loss," he said.
+The first half would have been difficult, but Boskalis' order portfolio -- pegged at just over one billion guilders in March -- was developing well, he added.
+For the full year Zomer is forecasting net earnings of 2.60 guilders per share versus 2.79 in 1995.
+But he added that in 1997 Boskalis' share of an 800 million guilder order to expand Singapore's Chiangi airport would work through into profits.
+"The market is heading for an upturn in 1997," Zomer said, adding the increase in demand would likely be enough to absorb a 15 percent rise in capacity as three new jumbo suction hopper dredgers are taken into service late this year and early next.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Shipping and tank storage firm
+Koninklijke van Ommeren NV gave the following
+breakdown of its first-half 1996 operating profits (in millions
+of guilders):
+TANK STORAGE
+   - Europe				 21.6  vs   25.6
+   - America				 9.0  vs    8.7
+   - Asia/Australia		     10.5  vs    6.1
+   - Total				  41.1  vs   40.4
+TANKER SHIPPING
+   - Ocean tanker shipping	     8.4  vs   12.9
+   - Inland tanker shipping	   11.6  vs    6.6
+   - Total				  20.0  vs   19.5
+TRANSPORT SERVICES
+   - Dry-cargo shipping		 13.1  vs   14.8
+   - Other transport services	  4.0  vs    3.0
+   - Total				  17.1  vs   17.8
+  UNATTRIBUTED COSTS		     0.4  vs    2.3
+  TOTAL GROUP OPERATING PROFIT	77.8  vs   75.4
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Dutch tank storage and shipping group Pakhoed NV gave the following breakdown of its first-half 1996 operating profits (in millions of guilders):
+TANK STORAGE
+   - Europe				 26.5  vs   47.5
+   - Rest of world			18.5  vs   18.5
+   - Total				  45.0  vs   66.0
+DISTRIBUTION
+   - Europe				 17.2  vs   21.5
+   - Rest of world			 0.9  vs    3.7
+   - Total				  18.1  vs   25.2
+LOGISTICS
+   - Shipping			     17.4  vs   14.7
+   - Specialised services		7.6  vs    8.4
+   - Total				  25.0  vs   23.1
+  CORE ACTIVITIES			 88.1  vs  114.3
+PORT & TRANSPORT
+   - Furness				 8.5  vs    2.6
+   - ECT				     6.7  vs    6.6
+   - Total				  15.2  vs    9.2
+  GROUP COSTS			     12.0  vs   13.2
+  TOTAL GROUP OPERATING PROFIT	91.3  vs  110.3
+NOTE - Core activities shows the total operating profit of the tank storage, distribution and logistics businesses.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040The following bond was announced by lead manager Banque Nationale de Paris.
+ BORROWER   CAISSE NATIONALE DES AUTOROUTES
+ AMT    1.9 BLN FFR   COUPON     6.70 PCT  MATURITY    09.SEP.11
+ TYPE	 STRAIGHT  ISS PRICE  100.45    PAY DATE    09.SEP.96
+ FULL FEES  1.3 PCT   REOFFER    99.55     SPREAD	+9 BP
+ MOODY	=	   LISTING    PARIS     PAY FREQ    =
+ S&P	  =	   DENOMS (K) FIVE	SALE LIMITS =
+ NOTES	DOMESTIC BOND
+-- London Newsroom +44 171 542 7658The following floating-rate issue was announced by lead manager HSBC Markets.
+ BORROWER   COVENTRY BUILDING SOCIETY
+ AMT    100 MLN STG   SPREAD     1/16 PCT  MATURITY    20.SEP.01
+ TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE    20.SEP.96
+ LAST MOODY =	   ISS PRICE  99.91     FULL FEES   15 BP
+ LISTING    LONDON    DENOMS (K) 10-100    SALE LIMITS US/UK
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    ENGLISH   HOME CTRY  UK	  TAX PROVS   STANDARD
+ MGT/UND    5 BP	SELL CONC  10 BP     PRAECIP     =
+ NOTES	WILL REPLACE A CALLED 100 MLN STG BOND DUE IN 1997
+		AND LAUNCHED IN 1994
+-- London Newsroom +44 171 542 8863Swiss Bank Corporation has issued a total of 10 million American-style call warrants, on British Telecom plc, lead manager SBC Warburg said.
+One warrant controls one share.
+ STRIKE PRICE    4.00 STG		  PREMIUM	14.97 PCT
+ ISSUE PRICE     0.56 SFR		  GEARING	12.47 X
+ MATURITY DATE   10.NOV.97		 PAYDATE	03.SEP.96
+ LISTING	   =			   MIN EXER LOT 100
+SPOT REFERENCE  3.74 STG
+ --Reuter London Newsroom +44 171 542 7658Union Bank of Switzerland says it has issued a total of 10 million American-style call warrants, on Novartis.
+50 warrants control one share.
+ STRIKE PRICE    1550 SFR		  PREMIUM	18.09 PCT
+ ISSUE PRICE     3.20 SFR		  GEARING	9.05 X
+ MATURITY DATE   21.AUG.98		 PAYDATE	29.AUG.96
+ LISTING	   =			   MIN EXER LOT 100
+ SPOT REFERENCE  1448 SFR
+ NOTES
+-- London Newsroom +44 171 542 7658The following bond was announced by lead manager Kredietbank.
+ BORROWER   DE NATIONALE INVESTERINGSBANK
+ AMT    55 MLN ECU    COUPON     **	  MATURITY    27.SEP.04
+ TYPE	 STRAIGHT  ISS PRICE  101.85    PAY DATE    27.SEP.96
+ FULL FEES  2.00	REOFFER    =	   SPREAD	=
+ NOTES   ** 5.625 YEARS 1-4, 8.0 PCT THEREAFTER
+ MOODY	AA3	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AA+	 DENOMS (K) 1-5	 SALE LIMITS =
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    0.625     SELL CONC  1.375     PRAECIP     =
+ NOTES	ISSUED OFF EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658The following floating-rate issue was announced by lead manager Bayerische Landesbank.
+ BORROWER   AKB PRIVAT UND HANDELSBANK
+ AMT    250 MLN DEM   SPREAD     15 BP     MATURITY    03.SEP.01
+ TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE    03.SEP.96
+ LAST MOODY =	   ISS PRICE  100.0     FULL FEES   20 BP
+ LISTING    DDF	 DENOMS (K) 100	 SALE LIMITS US/UK/DE
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    10 BP     SELL CONC  10 BP     PRAECIP     4 BP
+-- London Newsroom +44 171 542 8863The following bond was announced by joint lead managers Commerzbank and Hambros Bank.
+ BORROWER   COMMERZBANK AG
+ AMT    NZ$100 MLN    COUPON     8.00	MATURITY    18.SEP.98
+ TYPE	 STRAIGHT  ISS PRICE  100.52    PAY DATE   17.SEP.96L
+ FULL FEES  1.25	REOFFER    =	   SPREAD	=
+ NOTES	L LONG FIRST COUPON
+ MOODY	AA2	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AA-	 DENOMS (K) 1-10-100  SALE LIMITS US/UK/NZ
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  GERMANY   TAX PROVS   STANDARD
+ MGT/UND    0.375     SELL CONC  0.875     PRAECIP     0.125
+ NOTES	ISSUED OFF EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658Dutch financial services group Internationale Nederlanden Groep NV is expected to announce a leap of up to 32 percent in net profit on Thursday, August 22, with banking outstripping insurance in earnings growth.
+Analysts polled by Reuters estimate net profits in the first half of calendar 1996 at between 1.46 billion and 1.56 billion guilders, compared with 1.18 billion a year earlier.
+They said the growth rate was largely the result of the 42 percent surge in first quarter profits, when banking activities in emerging markets such as Latin America bounced back from losses in the same period of 1995.
+"In the second quarter they faced a far more difficult comparison base, particularly on the banking side," said Heinie Hakker at BZW Nederland.
+Analysts see profits before tax from banking as high as 1.09 billion guilders, a gain of 46 percent from the first half of 1995, with most of this increase coming in the first quarter.
+Interim pre-tax insurance profits are forecast to have risen by between 11 and 17 percent to between 1.10 billion and 1.16 billion.
+Analysts were divided however over whether Barings, the British merchant bank bought for 1.7 billion guilders in March 1995, would be profitable after interest charges.
+Kempen and Co analyst Hans Pluijgers said ING's banking activities benefitted from many of the same factors as rival ABN AMRO's, such as buoyant financial markets.
+But he added: "The insurance activities are having a dampening effect on the result."
+Pluijgers said he would be interested in whether ING made more provisions for future costs, including losses on aircraft leasing, after making no such allowances in the first quarter.
+Bart van der Feen de Lille of IRIS Research said ING's trading and commission income would have grown strongly but not as fast as at ABN AMRO, which has a greater relative exposure to equities markets and less to bond markets than ING.
+ABN AMRO last week posted a 36 percent jump in interim net profit at 1.7 billion guilders, helped by booming share markets which boosted trading income and fees from share offerings.
+CS First Boston analyst Kishore Banger said ING's first quarter profits were exceptional because of banking but he saw insurance providing a solid increase in the second quarter.
+He also expected double digit growth in insurance profits in the first six months of 1996.
+"Where's there's scope for a surprise (in the half year), it's on the banking side," Banger added.
+-- Garry West, Amsterdam newsroom +31 20 504 5000Analysts' estimates of Dutch company earnings to be reported in the week beginning August 19:
+DATE--COMPANY---------PERIOD----CONSENSUS--RANGE-------PVS
+20/08 Van Ommeren	H1	   43.3   38.8-48	 38.7
+20/08 Pakhoed	    H1	   58.8     55-63	 62.0
+21/08 Nedlloyd	   Q2	  -10.8    -20- 0	 19.0
+22/08 Aegon		H1	  690.1    679-699     614.7
+22/08 ING		  H1	 1517.0   1460-1560   1184
+22/08 Nutricia	   H1	   86.5   78.6-102	64.2
+22/08 Intern. Muller   H1	   44.3     41-46.5     40.3
+23/08 KPN		  H1	 1223.0   1210-1236   1114
+23/08 Boskalis	   H1	   30.1     20-37.3     41.4
+Earnings figures refer to net profit before extraordinary items in millions of guilders unless otherwise stated.
+Estimates contributed by: Amstgeld, Bangert Pontier, BZW, Delta Lloyd, Generale Bank, ING Barings, Kempen & Co, MeesPierson, Van Lanschot, Rabo/IRIS, and Strating.
+Banks and brokers interested in contributing to this regular Reuters survey can contact the Amsterdam newsroom on +31-20-504-5000 or fax their forecasts to +31-20-504 5040.
+For the week of August 26-30 we need forecasts for IHC Caland, HBG, VNU, Heidemij, BolsWessanen, KBB, Hagemeyer, Fortis, Stork and Frans Maas. -- Amsterdam newsroom, +31 20 504 5000 (FAX 31-20-504-5040)First half profits from Dutch post and telecoms group Koninklijke PTT Nederland NV (Dutch PTT) are seen rising 10 percent when it reports on Friday, boosted by cost controls and growing mobile phone business, analysts said.
+Analysts' forecasts range from 1.210 billion guilders ($725.2 million) to 1.236 billion net profit in the first half of 1996, up from 1.114 billion in the corresponding 1995 period. The interim dividend is seen climbing to 1.00 a share from 0.90 guilders.
+"Strong growth at mobile telephony is really paying off," said Joost van Beek at Van Meer James Capel. "We've also seen cuts in workforce at PTT post and that's driving growth there."
+Analysts said demand for digital GSM (Global System for Mobile Communications) mobile phones was being combined with aggressive marketing of low cost analogue offerings to produce strong results for 45-percent state-owned Dutch PTT.
+"Mobile telephony has had a lot of investment put into it and earnings growth will be quite significant," said Van Beek.
+Douglas Wight of Salomon Brothers in London is also looking for a strong performance from mobile, adding business telephony looked solid. "We've seen some pretty strong business revenues in the European telecoms sector in the past year or so and I think the business sector should be buoyant for KPN," he said.
+"On the revenue side mobile will definitely be a big push for them and also business telephony, while on the cost side there are various policies in place to keep costs well under control," said Wight. Dutch PTT has consistently aimed to push down workforce numbers, particularly on the postal side.
+Analysts expect growth from mobile and fixed line telephony to be partly offset by the continuing drain from the Unisource European telecoms joint venture Dutch PTT owns with Sweden's Telia, Swiss Telecom PTT and Spain's Telefonica.
+Unisource earlier this year announced a net loss of 320 million guilders in 1995 - its third year of operations.
+"There are still substantial losses at Unisource where the company is investing heavily," said Van Beek.
+Steven Vrolijk, telecoms analyst at ING Barings, anticipates 1.220 billion guilders first half net profit from Dutch PTT and a 1.00 guilder per share interim dividend.
+He is looking for volume growth in telephony as well as growth in the courier side of the firm's postal businesses although he sees overall postal growth as unspectacular. -- Keiron Henderson, Amsterdam Newsroom +31 20 504 5000 ($ = 1.668 Dutch Guilders)Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Otra		Wholesaler     31.50  ING Barings  
+COMMENT: Hold (from Sell) Otra's profit warning last week
+that net results in H1 1996 will be substantially (30-45 pct)
+below H1 1995, came as a surprise. Although estimates have been
+downgraded and a 38.5 pct decline of net profits to 24.5 mln
+guilders could be expected, it is worth raising the stock from
+sell to hold as the share price dropped 25 pct since the profit
+warning. Current share price incorporates all the bad news and
+downside risk is limited.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	 2.73		 n.a.     1.25
+    1996		    2.20   (2.67)    14.3     n.a. 
+    1997		    2.75   (3.15)    11.5     n.a.
+    1998		    3.15   (3.60)    n.a.
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)PCA INTERNATIONAL, INC    (Unaudited)
+			 Three Months Ended     Six Months Ended
+		     Jul 28,     Jul 30,	Jul 28,     Jul 30,
+			 1996	  1995	   1996	  1995
+ SALES	 $31,116,836 $28,629,613  $67,204,822 $61,238,244
+ TOTAL COSTS  30,716,789  28,076,460   64,793,586  59,166,946
+INCOME FROM OPERATIONS
+		     400,047     553,153    2,411,236   2,071,298
+ Interest expense 16,760     211,584	 35,307     265,545
+INCOME BEFORE INCOME TAXES
+		     383,287     341,569    2,375,929   1,805,753
+ TAX PROVISION   150,990     143,067    1,004,854     756,250
+ NET INCOME	232,297     198,502    1,371,075   1,049,503
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES:
+   Primary     8,058,625   7,942,103    7,963,550   8,211,481
+Fully Diluted
+		   8,069,996   8,063,348    8,127,361   8,384,172
+PRIMARY AND FULLY DILUTED EARNINGS PER
+COMMON SHARE:
+   Net Income	 0.03	  0.02	   0.17	  0.13
+-- New York Newsdesk 212 859-1610------------------INDIA COUNTRY FUNDS------------------
+NAME			    SIZE  ISSUE  NAV    NAV   INDICATIVE
+(ISSUER/LAUNCH)  LISTING ($million) PRICE  DATE   ($)   MKTPRICE($)
+					   ($)
+INDIA FUND A	    O  GBP75  P1.05  05/08 P3.02   P2.98/3.08
+(UTI/Jul'86)
+INDIA FUND B	    O  GBP41  P1.06  05/08 P1.12   P1.05/1.10
+(UTI/Oct'86)
+INDIA GROWTH FUND     C     65  12.00  14/08 12.19  11.88/12.38
+(UTI/Aug'88)
+INDIA MAGNUM FD A     C    205  20.00  02/08 47.17  44.00/48.00
+(SBI/Oct'89)
+INDIA MAGNUM FD B     C    205  20.00  02/08 47.17  44.00/48.00
+HIMALAYAN FUND	  C    105  11.00  14/08 13.58  12.00/13.00
+JF INDIA TRUST FUND   O    310  N.A    20/08  N/A   21.29/22.53
+(J.Fleming/May'93)
+BOMBAY FUND	     O     30  11.39  13/08  9.51   9.00/10.00
+(BZW/Aug'93)
+INDIA OPPORTUNITIES   O    100  10.35  14/08  9.36   9.35/9.85
+(Martin Currie/Jul'93)
+INDIA INVESTMENT CO   O    160  10.00  20/08  6.21	 194.89
+(F & Colonial/Oct'93)
+INDIA FUND, INC.	C    510  15.00  --/--  -.--    -.--/-.--
+Oppenheimer/Feb'94)
+MORGAN STANLEY FUND   C    500  15.00  20/08  N/A	    9.11
+(Morgan/Feb'94)
+MADRAS(I) EQUITY FD A O 13.440  20.00  20/08  21.03 21.03/22.14
+(G.Flight/Nov'95)
+MADRAS(I) EQUITY FD B O  2.290  20.00  20/08  21.11 21.11/22.22
+(G.Flight/Nov'95)
+JARDINE FLEMING FD    C    150  15.00  15/08   8.22  7.63/8.13
+(J.Fleming/Feb'94)
+FLEMING INDIA TRUST   C  GBP84  100p   20/08  N/A	  51.50
+(Fleming/Apr'94)
+TAJ PERFORMANCE FD    O     30  15.00  15/08   8.35  6.00/7.50
+(Raymond James/Apr'94)
+C - Close-ended, O - Open-ended, N.A - not available
+GBP or P- Pound sterling, p-pence
+Note: India country fund prices are compiled from the rates quoted by Jardine Fleming Securities, Merrill Lynch, Robert Fleming, Barclays De Zoete Wedd, Barings, Bear Stearns, Credit Lyonnais and WI Carr in London. They are indicative and for reference only. For further information please telephone Shyam Kumar in Bombay on 022-265 9000.Banco Bradesco has issued a $100 million 13-month bond, lead manager ING Barings said.
+(Corrects to clarify issue for 13-months, not one year)
+The deal, referred to as rural notes, pays one-year Libor plus 140 basis points. This is equivalent to 7.275 percent.
+Issue and reoffer price is par.
+ AMT    $100 MLN	SPREAD     140 BP    MATURITY    03.OCT.97
+ TYPE	 FRN	 BASE	12M LIBOR  PAY DATE    03.SEP.96
+ LAST MOODY =	   ISS PRICE  PAR	 FULL FEES   25 BP
+ LAST S&P   =	   REOFFER    PAR
+ LISTING    NONE	DENOMS (K) 10-100    SALE LIMITS US/UK/BR
+ GOV LAW    ENGLISH   HOME CTRY  BRAZIL    TAX PROVS   =
+ MGT/UND    15 BP     SELL CONC  10 BP     PRAECIP     =
+-- London Newsroom +44 171 542 8863The following bond was announced
+by lead manager Westdeutsche Landesbank GZ.
+ BORROWER   OESTERREICHISCHE INVESTITIONSKREDIT AG
+ AMT    200 MLN DEM   COUPON     5.50 PCT  MATURITY    08.OCT.01
+ TYPE	 STRAIGHT  ISS PRICE  101.969   PAY DATE    08.OCT.96
+ FULL FEES  =	   BREAK-EVEN  99.469   SPREAD	+38 BP
+ MOODY	AA3	 LISTING    FFT	 PAY FREQ    =
+ S&P	  =	   DENOMS (K) 1-10-100  SALE LIMITS US/UK/DE
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  AUSTRIA   TAX PROVS   STD
+ MGT/UND    0.75	SELL CONC  1.25	LISTING     0.50
+UNDERLYING GOVT BOND 119 BOBL -- London Newsroom +44 171 542 7658Credit Suisse says it has issued two million American-style call and put warrants, in two equal tranches, on the 4.25 pct Eidgenossenschaft due January 8, 2008.
+ EXERCISE PERIOD 05.SEP.96-05.MAR.97   PAYDATE	04.SEP.96
+ LISTING	   SWISS		     MIN EXER LOT 100
+ WARRANTS	STRIKE	 ISS PRICE     PREMIUM	GEARING
+ CALL	    99.50 PCT    1.16 SFR	2.9 PCT	85 TIMES
+ PUT	     96.50 PCT    1.22 SFR	2.5 PCT	79 TIMES
+-- Reuter London Newsroom +44 171 542 7658The following bond was announced by joint lead managers Credit Lyonnais and CIC.
+ BORROWER   REGIE AUTONOME DES TRANSPORTS PARISIENS
+ AMT    1.0 BLN FFR   COUPON     6.40 PCT  MATURITY    09.SEP.07
+ TYPE	 STRAIGHT  ISS PRICE  100.12    PAY DATE    09.SEP.96
+ FULL FEES  1.3 PCT   REOFFER    99.17     SPREAD	+7 BP
+ MOODY	AAA	 LISTING    PARIS     PAY FREQ    =
+ S&P	  AAA	 DENOMS (K) FIVE	SALE LIMITS =
+ GOV LAW    FRENCH    HOME CTRY  =	   TAX PROVS   =
+ MGT	  10 BP     UND	  4.5 BP    SELL CONC   0.75
+UNDERLYING GOVT BOND INTERPOLATED 6.50 PCT 2006 AND 8.50 PCT
+			    2008 OATS
+-- London Newsroom +44 171 542 7658The following bond was announced by joint lead managers Merrill Lynch International and UBS (Deutschland).
+ BORROWER   DSL FINANCE NV
+GUARANTOR  DSL BANK DEUTSCHE SIEDLUNGS-UND LANDESRENTENBANK
+ AMT    300 MLN DEM   COUPON     5.375     MATURITY    17.SEP.01
+ TYPE	 STRAIGHT  ISS PRICE  101.49    PAY DATE    17.SEP.96
+ FULL FEES  2.00	REOFFER    99.74     SPREAD	+22 BP
+ MOODY	AAA	 LISTING    FFT	 PAY FREQ    =
+ S&P	  =	   DENOMS (K) 1-100   SALE LIMITS US/UK/NL/DE
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    0.25	SELL CONC  1.75	PRAECIP     =
+UNDERLYING GOVT BOND OBL 119 -- London Newsroom +44 171 542 7658Morgan Stanley (Jersey) Ltd has issued 50,000 American-style call warrants, on the JSE Top 40 All Share Index, joint lead managers Morgan Stanley Bank AG and Morgan Stanley & Co International Limited said.
+ STRIKE PRICE    105 PCT		   PREMIUM	20.0 PCT
+ ISSUE PRICE     150.00 DEM		GEARING	6.67 X
+ MATURITY DATE   20.AUG.98		 PAYDATE	20.AUG.96
+ LISTING	   LUX			 MIN EXER LOT 100
+-- Reuter London Newsroom +44 171 542 7658The following bond increase was announced by lead manager Kredietbank.
+ BORROWER   KREDIETBANK INTERNATIONAL FINANCE
+ GUARANTOR  KREDIETBANK NV
+ AMT   *125 MLN	 COUPON   **5.0	 MATURITY    18.SEP.00
+ TYPE	 STEP-UP   ISS PRICE  101.95    PAY DATE    18.SEP.96
+ FULL FEES  1.625     REOFFER    100.55    SPREAD	+26 BP
+ NOTES     *INCREASED BY $50 MILLION, ORIGINALLY LAUNCHED FOR
+		$75 MILLION ON 30.JUL.96.
+	    **FOR FIRST TWO YEARS THEN STEPS-UP TO 8.0 PERCENT
+	     THEREAFTER.
+ MOODY	AA2	 LISTING    LUX	 PAY FREQ    ANNUAL
+ S&P	  AA-	 DENOMS (K) 1-5	 SALE LIMITS =
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    ENGLISH   MGT/UND    22.5 BP   SELL CONC  1.40
+ UNDERLYING GOVT BOND AUGUST-99 UST.
+ NOTES	SENIOR, UNSECURED. ISSUED OFF AN MTN PROGRAMME.
+-- London Newsroom +44 171 542 7658The following bond was announced by lead manager Credit Suisse.
+ BORROWER   TOKYO ELECTRIC POWER CO INC
+ AMT    300 MLN SFR   COUPON     4.50	MATURITY    27.SEP.06
+ TYPE	 STRAIGHT  ISS PRICE  102.50    PAY DATE    27.SEP.96
+ MOODY	AAA	 LISTING    EBS	 PAY FREQ    =
+ S&P	  AA+	 DENOMS (K) =	   SALE LIMITS =
+ NEG PLG    YES	 CRS DEFLT  YES	 PARI PASSU  YES
+-- London Newsroom +44 171 542 7658The following Pfandbrief, announced on Tuesday by lead manager Sal Oppenheim jr. & Cie, has been increased to 150 million marks.
+ BORROWER   BFG HYPOTHEKENBANK AG
+ AMT ***50 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00
+ TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96
+ FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON
+ LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =
+ NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.
+		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON
+		 28.JAN.97 AT PAR. PFANDBRIEF
+		***TOTAL NOW 150 MILLION MARKS
+-- London Newsroom +44 171 542 7658The following bond was announced by joint lead managers CIBC Wood Gundy and Paribas.
+ BORROWER   WORLD BANK
+ AMT    C$100 MLN     COUPON     6.50 PCT  MATURITY    20.SEP.02
+ TYPE	 STRAIGHT  ISS PRICE  101.45    PAY DATE    20.SEP.96
+ FULL FEES  1.875     REOFFER    99.85     SPREAD	FLAT
+ MOODY	AAA	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AAA	 DENOMS (K) 1-10-100  SALE LIMITS US/UK/CA
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    ENGLISH   HOME CTRY  SUPRA     TAX PROVS   STD
+UNDERLYING GOVT BOND 7.0 PCT SEPTEMBER 2001 BOND
+-- London Newsroom +44 171 542 7658The following bond was announced by lead manager Commonwealth Bank of Australia.
+ BORROWER   COMMONWEALTH BANK OF AUSTRALIA
+ AMT    NZ$100 MLN    COUPON     8.125 PCT MATURITY    25.SEP.98
+ TYPE	 STRAIGHT  ISS PRICE  100.82    PAY DATE    25.SEP.96
+ FULL FEES  1.25 PCT  REOFFER    =	   SPREAD	+
+ MGT/UND    0.375     SELL CONC  0.875     PRAECIP     0.08
+ MOODY	AA3	 LISTING    LONDON    PAY FREQ    =
+ S&P	  AA-	 DENOMS (K) 1-10	SALE LIMITS US/UK/NZ
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   IPMA (2)
+ GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   STD
+ NOTES	ISSUED OFF THE EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658Merrill Lynch has priced a four-tranche asset-backed dollar FRN it launched for Household Consumer Loan Trust 1996-2 on Tuesday.
+* * * * *
+CLASS A1
+ AMT    $794 MLN	IND SPREAD +17*	LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY AAA	 ISS PRICE  PAR	 FULL FEES   0.18
+ LAST S&P   AAA	 REOFFER    PAR	 EXP MAT     15.JAN.03
+ MGT/UND    0.06	SELL CONC  0.12	AVE LIFE    2.39 YRS
+ NOTES	*13.0 PCT CAP
+* * * * *
+CLASS A2
+ AMT    $52.24 MLN    IND SPREAD +32*	LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY AA3	 ISS PRICE  PAR	 FULL FEES   0.45
+ LAST S&P   AA	  REOFFER    PAR	 EXP MAT     15.JAN.03
+ MGT/UND    0.15	SELL CONC  0.30	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+CLASS A3
+ AMT    $67.90 MLN    IND SPREAD +42*	LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY A2	  ISS PRICE  PAR	 FULL FEES   0.50
+ LAST S&P   A	   REOFFER    PAR	 EXP MAT     15.JAN.03
+ MGT/UND    0.20	SELL CONC  0.30	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+CLASS B
+ AMT    $49.37 MLN    IND SPREAD +65*	LEG MAT     15.AUG.06
+ TYPE	 FRN	 BASE	 1M LIBOR  PAY DATE    27.AUG.96
+ LAST MOODY BAA2	ISS PRICE  PAR	 FULL FEES   0.55
+ LAST S&P   BBB	 REOFFER    PAR	 EXP MAT     15.JAN.03
+ MGT/UND    0.20	SELL CONC  0.35	AVE LIFE    5.07 YRS
+ NOTES	*15.0 PCT CAP
+* * * * *
+COMMON TERMS
+ LISTING    LUX	 DENOMS (K) 1-100     SALE LIMITS NONE
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   NO
+ GOV LAW    NEW YORK  PAY FREQ   MONTHLY   TAX PROVS   STD
+-- London Newsroom +44 171 542 7718HECHINGER COMPANY
+			  (in thousands except per share data)
+				    13 WEEKS ENDED  26 WEEKS ENDED
+	 Aug. 3, 1996  Jul 29, 1995  Aug. 3, 1996  Jul 29, 1995
+ Total Revenues	666,747    649,597  1,228,580  1,203,770
+Total Costs
+  and Expenses	 654,532    635,090  1,222,355  1,187,410
+ Net Earnings	   12,215	9,139	6,225     10,306
+ Net per share	     .28	  .22	  .15	  .24
+ Avg shrs O/S	   46,723     42,165     42,264     42,237GOODY'S FAMILY CLOTHING INC.
+			 Unaudited Statements of Operations
+		    (In thousands, except earnings per share)
+			     Thirteen Weeks Ended
+			     8/03/96	 7/29/95
+Sales		     $183,411	$155,130
+Net earnings	     $ 1,362	 $   917
+Earnings per share     $  0.08	 $  0.06
+Weighted average shares
+ outstanding		16,126	  16,124
+NOTE - Net earnings for 1996 second quarter reflects a pre-tax charge of $691,000 in the closing of a Franklin, Tenn., store by August 31.Second Quarter Ended(a)  Six Months Ended(a)
+			     Aug. 3,    Jul 29,  Aug. 3,    Jul 29,
+				   1996	1995     1996	 1995
+ NET SALES		  $15,699   $13,531  $31,903    $26,767
+ COST OF SALES	     11,619    10,546   23,630     20,971
+ GROSS PROFIT		 4,080     2,985    8,273	5,796
+ Store operating costs    2,976     2,739    5,896	5,511
+ Preopening expenses	   --	 246	241	  401
+ General/admin expenses     841     1,143    1,641	1,923
+ Operating income (loss)    263   (1,143)	495    (2,039)
+ INTEREST INCOME, net	  45	 109	111	  239
+Income (loss) before
+  income taxes		  308   (1,034)	606    (1,800)
+ INCOME TAXES		    --	  --	 --	   --
+ Net income (loss)	    308   (1,034)	606    (1,800)
+NET INCOME (LOSS)
+  PER SHARE		    0.03    (0.11)     0.06     (0.19)
+ AVERAGE SHRS OUTSTANDING 9,436     9,328    9,422	9,328
+(Unaudited; in thousands, except per share data)
+-- Chicago Newsdesk 312 408 8787(Amounts in thousands, except for earnings per share)
+			    Three Months Ended   Six Months Ended
+				   July 31,		July 31,
+				 1996	 1995	1996	1995
+ TOTAL REVENUE	    32,759    32,045    64,951    62,535
+ OPERATING INCOME	  4,101     5,781     7,944    11,291
+ NET INCOME		  1,850     3,545     3,527     6,537
+PRIMARY EARNINGS
+  PER SHARE		   0.14	0.26	0.26	0.49
+WEIGHTED AVERAGE
+  SHARES OUTSTANDING    13,477    13,402    13,522    13,400
+Note: Company's full name is MacNeal-Schwendler Corp.
+-- New York Newsroom (212) 859-1610Amounts in thousands except per share amounts
+	   For the three months ended  For the six months ended
+		    Jul 28,	 Jul 30,     Jul 28,     Jul 30,
+			 1996	    1995	  1996	  1995
+ NET SALES     $157,952	$146,754    $317,084    $301,004
+OPERATING INCOME
+			6,443	   8,825	13,829	16,535
+ NET EARNINGS     3,013	   3,290	 6,525	 6,605
+EARNINGS PER
+   COMMON SHARE    0.12	    0.13	  0.25	  0.26
+AVERAGE SHARES
+   OUTSTANDING   25,721	  25,833	25,707	25,778
+Note: Company's full name is Mac Frugal's Bargains Closeouts inc.
+-- New York Newsroom (212) 859-1610Summary of August 21 research.
+Company-------Sector--------------Price---------Broker--------
+    Pakhoed    transport/storage   45.90	   ING Barings
+COMMENT: Buy (unchanged)
+Pakhoed's H1 results from normal operations somewhat better than expected. Cost cutting programs, divestments and investments and a clear strategy could pave the way for better returns in coming two to three years. Company has taken major steps to focus on tank storage and distribution/shipping of chemicals. Based on positive developments and EPS upside of 7.00 guilders by 1999 we maintain our Buy recommendation.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1995 (actual)	4.08		  11.2    1.80
+    1996		   4.13    (3.96)    11.1    1.80
+    1997		   5.00    (unch)     9.2    2.10
+    1998		   5.75    (unch)     8.0    2.30
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)Summary of Aug 21 research.
+Company---------Sector--------Price---Broker----------------
+    Vendex	    retail	   59.80  ING Barings
+COMMENT: Buy (from Hold). Following positive Dutch retail sales figures for the first six months of 1996, we expect a spectacular turnaround at Vendex Food and moderate increase in both sales and results at Vroom & Dreesmann department stores and the firm's speciality stores. Also sustained growth in temporary services. The share buy-back of 4 million common stock should give inspiration. 1996 and 1997 EPS estimates raised.
+    Estimates (Dfl):   EPS	pvs	P/E     Dividend
+    1996		   5.30     (4.85)   11.3     1.90
+    1997		   5.90     (5.50)   10.2     2.10
+-- Amsterdam newsroom, +31 20 504 5000 (Fax +31 20 504 5040)The following issue was announced by arranger Bankers Trust.
+BORROWER  METROPOLITAN BANK AND TRUST CO
+ AMOUNT    US$50 MLN   COUPON     3ML+85 BP  MATURITY  5 YRS
+ TYPE	FRCD	  ISS PRICE  PAR	  LAUNCH    21.AUG.96
+ PUTS	NONE	  CALLS	NONE	 REPLIES
+03.SEPT.96
+ LISTING   --	    REPAYMENT  BULLET     DENOMS    UNDECIDED
+ RATINGS   NONE	  SALE LMTS
+US/UK/PHILIPPINES/HK/PRC/S'PORE
+ HOME CTRY PHILIPPINES GOV LAW    ENGLISH    PAY DATE  MID SEPT
+MGT LEVELS AND FEES
+	  CO-ARGER & LEAD MANAGERS  US$10 MLN  50BP   ALL-IN 95 BP
+	  SENIOR MANAGERS	     US$5-9 MLN 50BP   ALL-IN 95 BP
+	  MANAGERS			US$2-4 MLN 50BP   ALL-IN 95 BP
+ARRANGER  BANKERS TRUST
+-- HK Newsroom (852) 2847 4039The following issue was announced by arranger Schroders Asia.
+ BORROWER  HONG KONG CHINESE BANK
+ AMOUNT    US$50 MLN   COUPON     3ML+60 BP  MATURITY  5 YRS
+ TYPE	FRCD	  ISS PRICE  PAR	  LAUNCHED  WK.19.AUG
+ PUTS	YR 3 & 4    CALLS	YR 3 & 4   REPLIES   04.SEP.96
+ LISTING   --	    REPAYMENT  BULLET     DENOMS    US$500K
+ RATINGS   NONE	  SALE LMTS  STANDARD
+ NEG PLG   NONE	  CRS DEF    NONE	 FORCE MAJ  YES
+ HOME CTRY HONG KONG   GOV LAW    ENGLISH    PAY DATE   --
+MGT LEVELS AND FEES
+	     CO-ARRANGER	  US$8   MLN   45  BP  ALL-IN 75
+	     LEAD MANAGERS	US$5-7 MLN   37.5BP  ALL-IN 72.5
+	     MANAGERS	     US$3-4 MLN   30  BP  ALL-IN 70
+ARRANGERS SCHRODERS ASIA, BANK AUSTRIA HONG KONG, BAYERISCHE
+	     LANDESBANK HONG KONG, JARDINE FLEMING BANK,
+	     KWANTUNG PROVINCIAL BANK AND KEB ASIA FINANCE
+ NOTES     LIPPO LTD IS A MAJOR SHAREHOLDER OF
+	     HONG KONG CHINESE BANK
+--HK Newsroom (852) 2847 4039Analysts' estimates of Dutch company earnings to be reported in the week beginning August 19:
+DATE--COMPANY---------PERIOD----CONSENSUS--RANGE-------PVS
+21/08 Nedlloyd	   Q2	  -10.8    -20- 0	 19.0
+22/08 Aegon		H1	  690.1    679-699     614.7
+22/08 ING		  H1	 1517.0   1460-1560   1184
+22/08 Nutricia	   H1	   86.5   78.6-102	64.2
+22/08 Intern. Muller   H1	   44.3     41-46.5     40.3
+23/08 KPN		  H1	 1223.0   1210-1236   1114
+23/08 Boskalis	   H1	   30.1     20-37.3     41.4
+Earnings figures refer to net profit before extraordinary items in millions of guilders unless otherwise stated.
+Estimates contributed by: Amstgeld, Bangert Pontier, BZW, Delta Lloyd, Generale Bank, ING Barings, Kempen & Co, MeesPierson, Van Lanschot, Rabo/IRIS, and Strating.
+Banks and brokers interested in contributing to this regular Reuters survey can contact the Amsterdam newsroom on +31-20-504-5000 or fax their forecasts to +31-20-504 5040.
+For the week of August 26-30 we need forecasts for IHC Caland, HBG, VNU, Heidemij, BolsWessanen, KBB, Hagemeyer, Fortis, Stork and Frans Maas.Dutch financial services giant International Nederlanden Groep NV (ING) posted a 28 percent increase in half-year net profit on Thursday as more buoyant financial markets enhanced results from banking.
+ING also warned that earnings growth would slow in the second half of 1996 to about 17 percent but bowed to market pressure by offering more details on the performance of Barings, the crisis-torn British merchant bank it bought last year.
+ING said net profit in the six months to June 30 was 1.51 billion guilders ($907 million), up from 1.18 million a year earlier and in line with expectations.
+"We are very satisfied with the result," executive board chairman Aad Jacobs told a news conference.
+The group's shares dipped as investors realised profits from the strong rise in the price since mid-July before staging a late recovery.
+The interim dividend rose to 0.83 guilders per share from 0.75 a year earlier.
+Pre-tax insurance profits climbed 16.8 percent to 1.16 billion guilders in the first half while first-half pre-tax banking profit jumped 39.2 percent to 1.02 billion.
+ING said life premium income showed moderate growth as a fall in premium income in North America offset the distinct increase in the Netherlands, Japan and Australia.
+It said the acquisition of Wellington Insurance Company in Canada and growth in Australia were the main contributors to the considerable growth in non-life income.
+Banking earnings were boosted by sharply higher commission and securities trading income as a result of favourable market conditions and a recovery from emerging markets losses in 1995 caused by the Mexican currency crisis.
+But the group warned that profits would not grow as fast in the second half because of a tougher comparison base.
+"It is not to be expected that the percentage increase in group profit for the first half of 1996 will be equalled in the second half of 1996," it said.
+Jacobs said profit growth in the third and fourth quarters would slow to a more normal level of 17 percent, the increase shown in the second quarter.
+Despite an increase in the number of shares on issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995.
+The profit results did not contain separate details of the performance of Barings, which ING bought for 1.7 billion guilders last year after it collapsed under the weight of losses incurred by rogue futures trader Nick Leeson.
+This decision was questioned by analysts eager to find out how much Barings contributed to the result, but at a news conference later in the day Jacobs provided more information.
+He said Barings was earning an annnual net profit of about 100 million guilders and was aiming to double this to meet the group's targetted return on capital of 11 percent per year.
+"That means that this group would have to earn 200 million guilders a year, roughly speaking, before we are satisfied," he said.
+The result was in the middle of the range of analysts' forecasts of 1.46 to 1.56 billion guilders, but on the Amsterdam bourse ING shares slipped 2.00 guilders to a low of 52.20 before recovering to close at 53.90.
+ING's Dutch banking rival, ABN AMRO, last week announced a 36 percent lift in half-year net profit to 1.70 billion guilders, also helped by surging financial markets. ($ = Dfl1.66)Dutch financial services giant International Nederlanden Groep NV (ING) posted a 28 percent increase in half-year net profit on Thursday as more buoyant financial markets enhanced results from banking.
+But ING warned that earnings growth would slow in the second half of the year and it frustrated analysts by providing scant details on Barings, the British merchant bank ING bought last year after it collapsed under the weight of losses incurred by rogue futures trader Nick Leeson.
+ING said net profit in the six months to June 30 was 1.51 billion guilders ($907 million), up from 1.18 million a year earlier.
+Although the result was in line with expectations, the group's shares dipped as investors realised profits from the strong rise in the price since mid-July.
+The interim dividend rose to 0.83 guilders per share from 0.75 a year earlier.
+Pre-tax insurance profits climbed 16.8 percent to 1.16 billion guilders in the first half while first-half pre-tax banking profit jumped 39.2 percent to 1.02 billion.
+ING said life premium income showed moderate growth as a fall in premium income in North America offset the distinct increase in the Netherlands, Japan and Australia.
+It said the acquisition of Wellington Insurance Company in Canada and growth in Australia were the main contributors to the considerable growth in non-life income.
+Banking earnings were boosted by sharply higher commission and securities trading income as a result of favourable market conditions and a recovery from emerging markets losses in 1995 caused by the Mexican currency crisis.
+But the group warned that profits would not grow as fast in the second half.
+"It is not to be expected that the percentage increase in group profit for the first half of 1996 will be equalled in the second half of 1996," it said.
+Despite an increase in the number of shares on issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995.
+ING also said the Barings acquisition lifted first half commission and trading income and operating costs but did not separately report the British merchant bank's results because it was now integrated into ING's investing banking unit.
+This decision was questioned by analysts who were eagerly waiting more details on the performance of Barings, which ING bought for 1.7 billion guilders in March 1995 after it collapsed under huge fraudulent trading losses.
+"I'm keen to hear from ING about what happened to Barings," said Ton Gietman of Van Meer James Capel, adding the British unit had been expected to make a profit.
+Kempen and Co analyst Hans Pluijgers said he was disappointed ING had not given more indication of whether Barings was making a positive contribution to group profits.
+"I think that's a bit odd," he said, adding it may be an indication that Barings was not performing as well as expected.
+The result was in the middle of the range of analysts' forecasts of 1.46 to 1.56 billion guilders, but on the Amsterdam bourse ING shares slipped 2.00 guilders to a low of 52.20 before recovering to 53.20 at 1230 GMT.
+ING's Dutch banking rival, ABN AMRO, last week announced a 36 percent lift in half-year net profit to 1.70 billion guilders, also helped by surging financial markets.Integration may be the buzz word when it comes to buying an investment bank, but it is still too early to tell how successful the recent wave of purchases has really been, analysts said on Thursday.
+While Swiss Bank Corp and Dutch financial services giant Internationale Nederlanden Groep (ING) have performed well since buying SG Warburg and Barings Bank respectively, the true value will only be known in the long run.
+The crunch will come when the banks which have bought their way into the market meet a downturn, analysts say. It won't be until then they feel the pinch of any excessive spending.
+ING on Thursday followed SBC's example in not breaking out the results of its investment banking arm, formed when it bought British merchant bank Barings in March 1995, after it collapsed from losses run up by rogue trader Nick Leeson.
+It announced an increase rease in half-year net profit, but in choosing initially not to reveal the ING Barings results, raised questions among some analysts about its performance.
+ING said it was not possible to separate out the Barings factor as it had been integrated into the new business unit. It later said ING Barings was currently earning an annual net profit of about 100 million guilders and was aiming for annual profits of 200 million.
+"They have fulfilled all of the expectations we have set," Aad Jacobs, executive board chairman, told Reuters in Amsterdam.
+Some said there were valid reasons for not breaking out the figures. "It would be an accounting nightmare," said one.
+ING's net profit in the six months to June 30 was 1.51 billion guilders, up from 1.1 million a year earlier. Pre-tax banking profit jumped 39.2 percent to 1.02 billion guilders.
+First-half profits were boosted by strong growth in income from its securities trading operations but it warned profits would not grow as fast in the second half.
+Some suggested that ING Barings was a relatively small piece in the overall ING jigsaw, which encompasses huge insurance and retail banking concerns.
+But there has been intense interest in the performance of the group since it rescued Barings when the blue-blooded bank collapsed in February 1995 after Singapore trader Nick Leeson had run up trading losses totalling $1.4 billion.
+As with the formation of SBC Warburg, the problems of integrating the two have been the subject of much speculation.
+The defection of a large number of Latin American equities staff to Deutsche Morgan Grenfell added fuel to rumours of internal dissatisfaction.
+But the situation over Latin America had stabilised, with some recent new hirings, and an expected loss of staff in South East Asia had not occurred, analysts said.
+Matthew Czepliewicz, European banking analyst at Salomon Brothers in London, said a major cost for banks which had bought an investment banking arm was that of retaining the staff.
+He said it was difficult to say how much of ING's rise in profits was due to healthy market conditions and how much to Barings, but warned favourable markets would not last forever.
+"It would be foolish to extrapolate the gains we have seen over the next six to 18 months...people are riding a wave of euphoria at the moment, but that won't last forever," he said.
+And on the whole, acquisitions such as that of Barings by ING, Kleinwort Benson by Dresdner Bank and Morgan Grenfell by Deutsche Bank had made sense, Czepliewicz added.Chrysler Financial Corp has issued a four-tranche asset-backed bond for a total of $1.25 billion, lead manager Merrill Lynch said.
+The deal will be priced later.
+Tranche A notes total $600 million and have an average life of 0.95 years. They will be priced to yield around 0.75 basis points over one-month Libor with a 12 percent cap.
+Tranche B fixed-rate notes total $353 million and have an average life of 2.05 years. Pricing is expected at 29-30 b.p. over two-year U.S. Treasury notes.  
+Tranche C notes total $240.742 million. Maturing in October 2001, they will be priced to yield 33 b.p. over U.S. Treasuries.
+Tranche D is for $56.249 million. Maturity is August 2002, and pricing is likely around 50 b.p. over Treasuries.
+* * * *
+TRANCHE A (CLASS A2)
+ AMT    $600 MLN	SPREAD     *0.75     LEGAL MAT   06.SEP.99
+ TYPE	 FRN	 BASE	 1M LIBOR  AV LIFE     0.95 YRS
+ FULL FEES  0.1625    ISS PRICE  ** REOFFER     **
++ + + +
+TRANCHE B (CLASS A3)
+ AMT    $353 MLN	COUPON     **	  LEGAL MAT   06.NOV.00
+ TYPE	 STRAIGHT  ISS PRICE  **	  AV LIFE     2.05 YRS
+ FULL FEES  0.20	REOFFER    **	  SPREAD	+29/30 BP
++ + + +
+TRANCHE C (CLASS A4)
+ AMT    $240.742 MLN  COUPON     **	  MATURITY    06.OCT.01
+ TYPE	 STRAIGHT  ISS PRICE  **
+ FULL FEES  0.25	REOFFER    **	  SPREAD	+33 BP
++ + + +
+TRANCHE D (CERTIFICATES)  AMT    $56.249 MLN   COUPON     **	  MATURITY    06.AUG.02
+ TYPE	 STRAIGHT  ISS PRICE  **
+ FULL FEES  0.325     REOFFER    **	  SPREAD	+50 BP
++ + + +
+COMMON TERMS
+ LISTING    LUX	 PAY FREQ   MONTHLY   DENOMS (K) ONE
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   NO
+ GOV LAW    NEW YORK  HOME CTRY  =	   TAX PROVS   STANDARD
+ NOTES	*12.0 PCT CAP
+	     **TO BE PRICED
+-- London Newsroom +44 171 542 7658Dutch food group Nutricia NV posted a staggering 51 percent rise in first half net profit on Thursday to 107.1 million guilders and said the impressive growth was set to continue.
+The firm attributed the healthy profit, which was comfortably above analysts' expectations of 78.6 to 102 million guilders, to the successful takeover of baby food group Milupa.
+Nutricia posted first half net profit of 70.93 million guilders in 1995.
+But analysts cautioned that a change in accounting procedures meant that the result was slightly overstated.
+"There are some changes in accounting...which would have positively affected profit...so when we eliminate that of course the picture is somewhat less bright...but it's still enormously strong and an exceptional result," said ING analyst Gerard Rijk.
+Nutricia said it had recalculated its first half 1995 results because it had switched to four week accounting instead of one month accounting in 1996.
+The group was optimistic about profit growth in the remainder of the year.
+"We expect the percentage growth of group results as realised in the first half of 1996 to be broadly continued on an annual basis," the company said in a statement.
+It said further integration of Milupa would lead to the healthy growth.
+Analysts agreed that Milupa, consolidated into the group's accounts last October, was the major source of growth.
+"Milupa is being integrated much faster than expected and expectations were already for rapid integration," said Rijk.
+Nutricia said Milupa had realised an operating profit of 45.5 million guilders, 10.1 percent of the turnover of 449.2 million guilders.
+"This result is due to the radical changes in organisation, optimalisation of production and improvements in efficiency, which dramatically lowered costs," the statement said.
+It said 22.3 million guilders had been taken from restructuring provisions for redundancy costs at Milupa.
+The group announced an interim dividend of 1.00 guilder per share, up from 0.60 guilders in the same year-ago period.
+-- Jennifer Scott, Amsterdam newsroom +31 20 504 5000Dutch financial services giant International Nederlanden Groep NV (ING) Thursday posted a 28 percent increase in half-year net profit as more buoyant financial markets enhanced results from banking.
+But ING warned that earnings growth would slow in the second half of the year and it frustrated analysts by providing scant details on Barings, the British merchant bank ING bought last year after it collapsed under the weight of losses incurred by rogue futures trader Nick Leeson.
+ING said net profit in the six months to June 30 was 1.51 billion guilders ($907 million), up from 1.18 billion ($709.1 million) a year earlier.
+Although the result was in line with expectations, the group's shares dipped as investors realised profits from the strong rise in the price since mid-July.
+The interim dividend rose to 0.83 guilders (50 cents) per share from 0.75 (45 cents) a year earlier.
+Pre-tax insurance profits climbed 16.8 percent to 1.16 billion guilders ($697.1 million) in the first half, while first-half pre-tax banking profit jumped 39.2 percent to 1.02 billion ($613 million).
+ING said life premium income showed moderate growth as a fall in premium income in North America offset the distinct increase in the Netherlands, Japan and Australia.
+It said the acquisition of Wellington Insurance Company in Canada and growth in Australia were the main contributors to the considerable growth in non-life income.
+Banking earnings were boosted by sharply higher commission and securities trading income as a result of favourable market conditions and a recovery from emerging markets losses in 1995 caused by the Mexican currency crisis.
+But the group warned that profits would not grow as fast in the second half.
+"It is not to be expected that the percentage increase in group profit for the first half of 1996 will be equalled in the second half of 1996," it said.
+Despite an increase in the number of shares on issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995.
+ING also said the Barings acquisition lifted first half commission and trading income and operating costs but did not separately report the British merchant bank's results because it was now integrated into ING's investing banking unit.
+This decision was questioned by analysts who were eagerly waiting more details on the performance of Barings, which ING bought for 1.7 billion guilders ($1.0 billion) in March 1995 after it collapsed under huge fraudulent trading losses.
+"I think that's a bit odd," said Kempen & Co. analyst Hans Pluijgers, adding it may be an indication that Barings performing as well as expected.
+ING's Dutch banking rival, ABN AMRO, last week announced a 36 percent lift in half-year net profit to 1.70 billion guilders ($1.0 billion), also helped brging financial markets.Dutch financial services group ING said on Thursday that a surge in earnings from its banking business drove a 28 percent rise in first-half 1996 net profit.
+ING, which took over British merchant bank Barings in 1995, said first half net profit rose to 1.51 billion guilders ($907 million) from 1.18 billion.
+The result was in the middle of the range of analysts' forecasts of 1.46 to 1.56 billion guilders, but on the Amsterdam bourse ING shares slipped 1.30 guilders to 52.90.
+First-half pre-tax insurance profit rose 16.8 percent to 1.16 billion guilders while first-half pre-tax banking profit jumped 39.2 percent to 1.02 billion guilders.
+ING said first-half banking profits were boosted by strong growth in income from its securities trading operations and warned that profits would not grow as fast in the second half.
+"It is not to be expected that the percentage increase in group profit for the first half of 1996 will be equalled in the second half of 1996," it said.
+Despite an increase in the number of shares in issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995. ($ = 1.664 Dutch Guilders)Dutch insurer Aegon NV showed an impressive first-half net profit rise of 15.7 percent to 711.1 million guilders on Thursday and also upgraded its forecast for the full year.
+Analysts had forecast a net profit of between 679 and 699 million guilders compared to 614.7 million guilders in the first six months of 1995.
+Aegon, which focuses on life insurance saw pre-tax profits in this segment increase by 16.6 percent to 738 million guilders.
+"It's a positive result," said analyst Nico van Geest of Suez Nederland Securities, highlighting the lower tax burden.
+Analysts also see the firm's move to increase dependence on life insurance as providing a less cyclical source of earnings.
+"The life sector counts for 80 percent of the firm's pre-tax profit now versus 78 percent earlier," Van Geest said, adding this figure could rise to near 85 percent by the end of 1996.
+Aegon said earlier the increase in earnings and earnings per share for 1996 were expected to be in line with the reported 15.7 percent increase in profits and 15 percent rise in earnings per share. Aegon upgraded the forecast from an expected rise of between seven and 12 percent it had given in May.
+Earnings per share rose to 2.69 guilders in the first half of 1996 from 2.34 in the same period of 1995.
+Growth in premium income was a strong 21 percent.
+"In addition to the solid growth in the Netherlands and the United States, Scottish Equitable and AB-Aegon in Hungary showed even stronger growth," Aegon said.
+Aegon holds an 80 percent stake in Scottish Equitable, which will gradually increased to 100 percent by the end of 1998.
+Aegon said currency exchange rates had a positive effect on the results in the first six months of about 1.5 percent.
+Aegon shares, already firm before the figures were released, were quoted 3.00 guilders higher at 83.30 by mid-afternoon.
+But analysts were divided over the outlook for the share.
+"Aegon shares will not outperform the market after today," said analyst Daan Worm of ING Barings.
+"I stick to my sell advice for the stock," he said, adding the share was relatively expensive.
+Suez said the stock could rise as high as 90 guilders. "I foresee a new high for Aegon shares," said Van Geest, adding this would certainly happen if official rates moved down.
+-- Wendy Braanker, Amsterdam newsroom +31 20 504 5000The following bond was announced by lead manager Banque Generale du Luxembourg.
+ BORROWER   GENFINANCE LUXEMBOURG
+GUARANTOR  GENERALE BANK BRUSSELS (AA3)
+ AMT    3.0 BLN LUF   COUPON     *5.125    MATURITY   *08.DEC.04
+ TYPE	 STEP-UP   ISS PRICE  102.40    PAY DATE  L-08.OCT.96
+ FULL FEES  2.0	 REOFFER    =	   YIELD	 6.04 PCT
+ NOTES	*FOR FIRST FOUR YEARS AND TWO MONTHS THEN 8.125 PCT
+		 THEREAFTER
+(Corrects to show bond is not callable.)
+	     L-LONG FIRST COUPON
+ MOODY	=	   LISTING    LUX	 PAY FREQ    =
+ S&P	  =	   DENOMS (K) 50-250    SALE LIMITS =
+ GOV LAW    LUX	 HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    =	   SELL CONC  =	   PRAECIP     0.25
+-- London Newsroom +44 171 542 7658The following step-up callable
+private placement issue was announced by joint lead managers Sal
+Oppenheim and SGZ Bank.
+ BORROWER   WESTFALISCHE HYPOTHEKENBANK AG
+ AMT    200 MLN DEM   COUPON    *4.00	MATURITY    02.MAY.00
+ TYPE	 STEP-UP   ISS PRICE  UNDISC    PAY DATE    29.AUG.96
+ NOTES	*FOR FIRST EIGHT MONTHS AND 5.5 PERCENT THEREAFTER.
+		 THERE IS A SHORT FIRST COUPON TO 02.MAY.97
+		 THE DEAL IS CALLABLE AT PAR ON 02.MAY.97 ONLY.
+ MOODY	=	   LISTING    =	   PAY FREQ    =
+ S&P	  =	   DENOMS (K) =	   SALE LIMITS =
+ NEG PLG    =	   CRS DEFLT  =	   FORCE MAJ   =
+ GOV LAW    =	   HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    =	   SELL CONC  =	   PRAECIP     =
+UNDERLYING GOVT BOND =
+ NOTES	=
+ FULL FEES  UNDISC    LISTING    DUSS	DENOMS (K)  10
+ NOTES	OFFENTLICHE PFANDBRIEFE EMISSION SERIES 3910
+-- London Newsroom +44 171 542 7658Merrill Lynch Capital Markets AG says it has issued a total of three million American-style call warrants, on Alusuisse-Lonza Holding Ltd.
+20 warrants control one share.
+ STRIKE PRICE    950.00 SFR		PREMIUM	7.65 PCT
+ ISSUE PRICE     3.65 SFR		  GEARING	13.05 X
+ EXERCISE PERIOD 10.SEP.96-21.MAR.97   PAYDATE	05.SEP.96
+ LISTING	   SWISS EXCHANGE	  MIN EXER LOT 100
+SPOT REFERENCE  950.00 SFR
+ NOTES	     PRICES QUOTED ON REUTER PAGE  MLZE
+-- Reuter London Newsroom +44 171 542 7658The following bond was announced by lead manager Toronto Dominion.
+ BORROWER   BAYERISCHE VEREINSBANK
+ AMT    C$100 MLN     COUPON     6.625     MATURITY    24.SEP.02
+ TYPE	 STRAIGHT  ISS PRICE  100.92    PAY DATE    24.SEP.96
+ FULL FEES  1.875     REOFFER    99.32     SPREAD	+20 BP
+ MOODY	AA1	 LISTING    LUX	 PAY FREQ    =
+ S&P	  =	   DENOMS (K) 1-10-100  SALE LIMITS US/UK/CA
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   =
+ GOV LAW    GERMAN    HOME CTRY  =	   TAX PROVS   STANDARD
+ MGT/UND    0.275     SELL CONC  1.60	PRAECIP     =
+UNDERLYING GOVT BOND 7.0 PCT SEPT 2001
+NOTES  BAYERISCHE VEREINSBANK IS JOINT LEAD MANAGER
+-- London Newsroom +44 171 542 7658The following bond was announced by joint lead managers Banque Generale du Luxembourg, Commerzbank and Generale Bank.
+ BORROWER   COMMERZBANK LUXEMBOURG
+ AMT    2.0 BLN LUF   COUPON     6.25 PCT  MATURITY    23.DEC.03
+ TYPE	 STRAIGHT  ISS PRICE  102.45    PAY DATE  L-23.OCT.96
+ FULL FEES  1.875     REOFFER    =	   YIELD	 5.82 PCT
+ NOTES	L-LONG FIRST COUPON
+ MOODY	AA3	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AA-	 DENOMS (K) 50-250    SALE LIMITS US/UK
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    LUX	 HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    =	   SELL CONC  =	   PRAECIP     0.25
+-- London Newsroom +44 171 542 7658The following bond was announced by lead manager Toronto Dominion.
+ BORROWER   FARM CREDIT CORP
+ AMT    NZ$100 MLN    COUPON     8.0 PCT   MATURITY    01.SEP.99
+ TYPE	 STRAIGHT  ISS PRICE  100.81    PAY DATE   S13.SEP.96
+ FULL FEES  1.50 PCT  REOFFER    =	   S SHORT FIRST COUPON
+ MOODY	AA2	 LISTING    LONDON    PAY FREQ    =
+ S&P	  AA+	 DENOMS (K) 1-10-100  SALE LIMITS US/UK/NZ
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW   *CANADA    HOME CTRY  CANADA    TAX PROVS   STD
+ MGT/UND    0.5 PCT   SELL CONC  1.0 PCT   PRAECIP     NONE
+ NOTES	*OR PROVINCE OF SASKATCHEWAN
+		OBLIGATIONS OF THE ISSUER CONSTITUTE A DIRECT DRAW
+		ON CONSOLIDATED REVENUE FUND OF CANADA.
+-- London Newsroom +44 171 542 7718The following floating-rate issue was announced by lead manager Lehman Brothers International.
+ BORROWER   VENANTIUS AB (SWEDISH NATIONAL MORTGAGE AGENCY)
+ AMT    $300 MLN	SPREAD     -12.5 BP  MATURITY    21.JAN.99
+ TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE   S23.SEP.96
+ LAST MOODY AA3	 ISS PRICE  99.956    FULL FEES   10 BP
+ LAST S&P   AA+	 REOFFER    =
+ NOTES	S SHORT FIRST COUPON
+ LISTING    LONDON  DENOMS (K) 1-10-100 SALE LIMITS US/UK/JP/FR
+ NEG PLG    YES	 CRS DEFLT  NO	  FORCE MAJ   IPMA 2
+ GOV LAW    ENGLISH   HOME CTRY  SWEDEN    TAX PROVS   STANDARD
+ MGT/UND    5 BP	SELL CONC  5 BP	PRAECIP     =
+ NOTES	ISSUED OFF EMTN PROGRAMME
+-- London Newsroom +44 171 542 8863The following bond was announced by lead manager New Japan Securities Europe Ltd.
+ BORROWER   SWEDISH EXPORT CREDIT CORP
+ AMT    A$120 MLN     COUPON     7.09 PCT  MATURITY    12.SEP.00
+ TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE    12.SEP.96
+ FULL FEES  1.20 PCT  REOFFER    PAR	 SPREAD	=
+ MOODY	=	   LISTING    NONE	PAY FREQ    SEMI-ANN
+ S&P	  =	   DENOMS (K) 10	SALE LIMITS US/UK/JP/AU
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ MGT/UND    0.20 PCT  SELL CONC  1.0 PCT   PRAECIP     =
+ NOTES	ISSUED OFF THE EMTN PROGRAMME
+-- London Newsroom +44 171 542 7658The following bond has been increased, lead manager Paribas said.
+ BORROWER   GENERAL ELECTRIC CAPITAL CORP
+ AMT    *200 MLN SFR  COUPON     3.50 PCT  MATURITY    29.MAY.00
+ TYPE	 STRAIGHT  ISS PRICE  102.0     PAY DATE  **02.OCT.96
+ FULL FEES  STANDARD  REOFFER    =	   SPREAD	 =
+ NOTES	*ORIGINAL 125 MLN SFR LAUNCHED 16.APR.96
+	     **PLUS 123 DAYS ACCRUED INTEREST
+ MOODY	AAA	 LISTING    UNLISTED  PAY FREQ    =
+ S&P	  AAA	 DENOMS (K) 10	  GOV LAW    SWISS
+-- London Newsroom +44 171 542 7658CHARMING SHOPPES INC
+    SECOND QUARTER ENDED	    8/3/1996	    7/29/1995
+					    (13 weeks)	  (13 weeks)
+    Net EPS (Loss)		     $0.00	     ($0.03)
+    Net Sales			 $266,678	    $268,448
+    Other Income			 1,571		 1,920
+    Total Revenue		    268,249	     270,368
+Cost of Goods Sold,
+	Buying & Occupancy	   204,601    76.7   207,731
+Selling, General &
+     Administrative		   61,624    23.1    69,023
+    Interest Expense		   1,606     0.6	 481
+	Total Expenses		 267,831   100.4   277,235
+Income (Loss) Before
+     Income Taxes			  418     0.2    (6,867)
+Less Income
+     Taxes (Benefit)		     114     0.1    (3,734)
+    Net Income (Loss)		    304    0.1%    (3,133)
+    Wgtd Avg Shrs		107,018,245	  103,001,599
+	   (in thousands except shares and per share amounts)KINDERCARE LEARNING CENTERS INC
+ FOURTH QUARTER ENDED	 MAY 31, 1996   JUN 2, 1995
+ Operating revenues		$132,231    $122,542
+Operating expenses:
+ Salaries, wages and benefits    67,884	62,659
+   Rent expense			 6,086	 6,159
+   Depreciation			 8,546	 6,131
+   Other operating expenses	31,382	30,673
+(Gain) loss on litigation settlements net of
+    restructuring costs	     2,500	    --
+   Total operating expense	116,398     105,622
+   Operating income		  15,833	16,920
+(Dollars in thousands, except per share amounts)
+NOTE: 1996 Q4 operating income includes $2.5 million restructuring charge for organizational changes.
+1996 Q4 net income $7.7 million includes the $2.5 million charge. Net income for the fourth quarter last year was $7.9 million before a $1.0 million gain on the sale of certain stockholdings.
+The company did not release Q4 EPS figures.
+ FISCAL YEAR ENDED	    MAY 31 1996  JUN 2 1995 JUN 3 1994
+ Operating revenues	    $541,264	 $506,505 $488,726
+Operating expenses:
+  Salaries wages and benefits 284,115	  263,527  256,468
+  Rent and lease payments	26,515	   26,099   22,563
+  Depreciation		     33,972	   28,071   25,148
+Provision for allowance
+   for doubtful accounts	  3,908	    3,612    3,885
+  Other			     139,561	  135,298  133,496
+Litigation settlements, restructuring costs (income), net
+					  1,484	    (888)	 --
+  Total operating expenses    489,555	  455,719  441,560
+ Operating income		  51,709	   50,786   47,166
+ Net investment income		250	    2,635    3,176
+ Interest expense		  16,727	   17,318   17,675
+ Income before taxes and item  35,232	   36,103   32,667
+ Income tax expense		13,549	   14,037   12,837
+ Income before item		21,683	   22,066   19,830
+Extraordinary item - loss on debt
+  discharge, net of income taxes   --		 --  (2,397)
+ Net income			  21,683	   22,066   17,433
+ Primary EPS before item	   1.10	     1.07	.97
+  Extraordinary item		    --		 --    (.12)
+ Primary net EPS		     1.10	     1.07	.85
+  Wgtd avg shrs outstanding    19,752	   20,683   20,533
+ Fully-diluted EPS before item   1.05
+ Fully diluted net EPS	     1.05
+ Wgtd avg shrs		    20,683Dutch insurer Aegon NV scored a 15.7 percent rise in first-half net profit to 711.1 million guilders ($425.3 million) on Thursday and upgraded its forecast for the full year.
+Analysts had forecast a net profit of between 679 and 699 million guilders compared to 614.7 million guilders in the first six months of 1995.
+Aegon, which focuses on life insurance saw pre-tax profits in this segment increase by 16.6 percent to 738 million guilders.
+"It's a positive result," said analyst Nico van Geest of Suez Nederland Securities, highlighting the lower tax burden.
+Analysts also saw the firm's move to increase dependence on life insurance as providing a less cyclical source of earnings.
+"The life sector counts for 80 percent of the firm's pre-tax profit now versus 78 percent earlier," Van Geest said, adding this figure could rise to near 85 percent by the end of 1996.
+Aegon said earlier the increase in earnings and earnings per share for 1996 were expected to be in line with the reported 15.7 percent increase in profits and 15 percent rise in earnings per share. Aegon upgraded the forecast from an expected rise of between seven and 12 percent it had given in May.
+Earnings per share rose to 2.69 guilders in the first half of 1996 from 2.34 in the same period of 1995. Growth in premium income was a strong 21 percent.
+"In addition to the solid growth in the Netherlands and the United States, Scottish Equitable and AB-Aegon in Hungary showed even stronger growth," Aegon said.
+Aegon holds an 80 percent stake in Scottish Equitable, which will be gradually increased to 100 percent by the end of 1998.
+Aegon said currency exchange rates had a positive effect on the results in the first six months of about 1.5 percent.
+Aegon shares, already firm before the figures were released, were quoted 3.00 guilders higher at 83.30 by mid-afternoon.
+But analysts were divided over the outlook for the share.
+"Aegon shares will not outperform the market after today," said analyst Daan Worm of ING Barings. "I stick to my sell advice for the stock," he said, adding the share was relatively expensive.
+Suez said the stock could rise as high as 90 guilders. "I foresee a new high for Aegon shares," said Van Geest, adding this would certainly happen if official rates moved down. -- Wendy Braanker, Amsterdam newsroom +31 20 504 5000 ($1=1.672 Guilder)Financial services group Internationale Nederlanden Groep NV (ING) said on Thursday it expected the profit growth rate posted in the second quarter of this year to continue in the second half of 1996.
+"We think the growth we have shown in the second quarter can be extended to the third quarter and the fourth quarter," chairman of the executive board Aad Jacobs told a news conference.  
+Earlier on Thursday ING said its 1996 first-half net profit had risen by 28 percent to 1.51 billion guilders. This was the balance of a 42 percent surge in the first quarter and a 17.2 percent rise in the second quarter profit.
+Jacobs said that the second quarter growth rate was more normal than the 28 percent shown for the full first-half of the current year.
+ING earlier said it expected profit growth in the rest of this year to slow from the first half rate. Jacobs said this was because the results of last year's first quarter were quite depressed as a result of the Mexican peso crisis.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Financial services group Internationale Nederlanden Groep NV's (ING) interim results received a mixed response from analysts with some questioning the decision not to provide separate figures on Barings.
+ING earlier reported a 28 percent increase in half-year net profit to 1.51 billion guilders, midway through the range of forecasts between 1.46 billion and 1.56 billion.
+ING said it was no longer possible to report directly the effect on its results of Barings, the British merchant bank bought last year, as all of Barings' activities had now been integrated into the ING Barings business unit.  
+"I'm keen to hear from ING about what happened to Barings. We would have expected Barings to have finally come through," said Ton Gietman of Van Meer James Capel.
+He said ING would have included a full six months' contribution from the British merchant bank, which collapsed after losses on fraudulent derivatives trading, compared with only three months in the first half of 1995.
+He also said ING's 11 percent growth in banking profits in the second quarter was disappointing when compared with the performance of other European banks, including its Dutch rival ABN AMRO.  
+Kempen and Co analyst Hans Pluijgers said he was disappointed ING had not given more indication of whether Barings was making a positive contribution to group profits.
+"I think that's a bit odd," adding that it may be an indication that Barings was not performing as well as expected.
+He also wanted to know how much the acquisition contributed to the 157 percent surge in interim trading income, although he believed much of it came from ING's other operations.
+Pluijgers attributed the fall in ING's share price after the result to profit-taking as the shares had run up to about 55 guilders earlier this week from 45 guilders in mid-July.  
+Heinie Hakker of BZW Nederland found the share sell-off difficult to explain and believed the second quarter growth in profits to be very respectable.
+"There's good progress on the life (insurance) side and banking is doing very well against a difficult comparison base," he said.
+Hakker also said ING's statement that it could not provide separate Barings figures was understable.
+But he added: "Everybody is focussing on what Barings is doing. I think there's too much focus."
+-- Garry West, Amsterdam newsroom +31 20 504 5000Dutch financial giant Internationale Nederlanden Groep NV said on Thursday income from financial transactions more than doubled to 534 million guilders in the 1996 first half compared with 208 million a year-ago.
+Securities trading was the main reason for this income explosion, rising to 419 million guilders from 79 million, the result of favourable market conditions.
+ING said the comparable period in 1995 was especially weak due to the aftermath of the Mexican peso crisis.
+Results from the foreign exchange trading portfolio rose to 83 million guilders from 34 million.
+Other results from financial transactions fell to 32 million guilders, but the 95 million in the 1995 first half was boosted by the sale of participations, ING said.
+In the field of commission income, results rose by 45 percent to 1.29 billion guilders from 888 million.
+Securities income rose a fat 83 percent to 378 million guilders, while other commission income also mushroomed by 69 percent to 533 million guilders.
+Funds transfer and Insurance broking income remained largely stable at 322 million guilders and 55 million respectively.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Shares in financial services group Internationale Nederlanden Groep NV (ING) were down 1.70 guilders to 52.50 following the company's an8 percent rise in first half net profit.
+First half net rose to 1.51 billion guilders from a previous 1.18 billion, in line with most forecasts, but the shares faltered after the company said second half profit growth would not equal that seen in the first half.
+-- Amsterdam Newsroom +31 20 504 5000Financial services group Internationale Nederlanden Groep NV (ING) said on Thursday the influence of the Barings acquisition was clearly seen in rises in first half commission and trading income and operating costs.
+But ING said it was no longer possible to report the direct effect of the March 1995 acquisition on its results in the first half of 1996 because all ING investment banking activities had now been integrated into the ING Barings business unit.  
+ING earlier announced a net profit of 1.51 billion guilders in the first half of 1996, up from 1.18 billion a year earlier.
+In the first half, commission rose 45 percent to 1.29 billion guilders, results from financial transactions soared 156.7 percent to 534 million and operating spending increased 21.9 percent to 3.92 billion.
+ING bought Barings, the British merchant bank which collapsed last year with huge trading losses, for 1.7 billiion guilders.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Financial services group Internationale Nederlanden Groep NV (ING) said on Thursday that earnings growth in the second half of this year would not match the 27.9 percent earnings growth of the first half.  
+"It is not to be expected that the percentage increase in group profit for the first half of 1996  will be equalled in the second half of 1996," it said.
+Despite an increase in the number of shares in issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995.  
+"...based on current perceptions and the results achieved for the first six months of 1996, profit per share for 1996 will be higher than the 1995 level," it said.
+ING reported that first-half 1996 net profit rose 27.9 percent to 1.51 billion guilders. Net profit per ordinary share rose 21.8 percent to 2.12 guilders.
+First-half pre-tax insurance profit rose 16.8 percent to 1.16 billion guilders while first-half pre-tax banking profit rose 39.2 percent to 1.02 billion guilders.
+-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040Analysts' estimates of Dutch company earnings to be reported in the week beginning August 19:
+DATE--COMPANY---------PERIOD----CONSENSUS--RANGE-------PVS 22/08 Aegon		H1	  690.1    679-699     614.7
+22/08 ING		  H1	 1517.0   1460-1560   1184
+22/08 Nutricia	   H1	   86.5   78.6-102	64.2
+22/08 Intern. Muller   H1	   44.3     41-46.5     40.3
+23/08 KPN		  H1	 1223.0   1210-1236   1114
+23/08 Boskalis	   H1	   30.1     20-37.3     41.4
+Earnings figures refer to net profit before extraordinary items in millions of guilders unless otherwise stated.
+Estimates contributed by: Amstgeld, Bangert Pontier, BZW, Delta Lloyd, Generale Bank, ING Barings, Kempen & Co, MeesPierson, Van Lanschot, Rabo/IRIS, and Strating.
+Banks and brokers interested in contributing to this regular Reuters survey can contact the Amsterdam newsroom on +31-20-504-5000 or fax their forecasts to +31-20-504 5040.
+For the week of August 26-30 we need forecasts for IHC Caland, HBG, VNU, Heidemij, BolsWessanen, KBB, Hagemeyer, Fortis, Stork and Frans Maas.Six months to June 30, 1996
+				    (million markka unless stated)
+ Operating profit				   466 vs 270
+ Profit before untaxed reserves,taxes	 250 vs 30
+ Net investment income			    657 vs 234
+ Earnings per share (markka)		   4.70 vs 2.78
+ Net asset value per share (markka)	120.22 vs 138.87
+ Earned premiums				  1,356 vs 1,366
+NOTE - Analysts average forecast was for a 285 million markka profit in a 250 million to 318 million markka range.  
+ Claims paid					1,255 vs 1,054
+ Net operating costs				292 vs 278
+ UNDERWRITING RESULT			loss  191 vs 34 gain
+ Share of associated company results	  nil vs 2 gain
+ Change in equalisation provision    charge 215 vs 144 charge
+Unrealised gains
+   and revaluation of investments     charge 1  vs nil
+ PROFIT BEFORE EXTRAORDINARY ITEMS, TAXES   250 vs 126
+ Extraordinary items				nil vs 96 charge
+ PROFIT BEFORE PROVISIONS AND TAXES	   250 vs 30
+ Taxes						   59 vs 13
+ NET PROFIT					   191 vs 17 @
+ Loss ratio/retained business (percent)    85.5 vs 82.4
+ Loss ratio/total business (percent)	 92.6 vs 77.2
+ Expense ratio (percent)			 21.5 vs 20.4
+ Combined ratio (percent)		     114.1 vs 97.6
+NOTE - Full name of the Finnish insurer is Pohjola Oy.
+-- Helsinki newsroom +358-0-6805 0245PHAR-MOR, INC.
+	   UNAUDITED CONSOLIDATED SUMMARY OF SALES AND EARNINGS
+		    (In thousands, except per share amounts)
+PROFORMA :  (a)
+			Successor Company	   Successor Company
+			Thirteen Weeks Ended  Fifty-two Weeks Ended
+	   Jun 29, 1996  Jul 1, 1995  Jun 29, 1996  Jul 1, 1995
+ Sales	     $264,798  $264,680     $1,056,252 $1,107,222
+Income before
+income tax
+  expense	   (4,017)     1,700	    6,006     12,684
+Income tax expense
+		   (1,333)(b)    680(b)	 2,676(b)   5,074(b)
+ Net income    (2,684)(e)     1,020	 3,330(e)	7,610
+Earnings per share
+			 (0.22)	0.08	     0.27	 0.63
+AS REPORTED:
+			Successor Company	 Predecessor Company
+				   Thirteen	 Thirteen
+				    Wks Ended		   Wks Ended
+				 Jun 29, 1996		 Jul 1, 1995
+ Sales			  $264,798(c)		 $297,130(c)
+Income (loss) before  
+reorganization items and
+   income taxes		(4,017)(c)		  (2,038)(c)
+ Reorganization items		  --		 (52,971)(d)
+ Income before income taxes   (4,017)		    (55,009)
+ Income tax expense	  (1,333)(b)		    (111)(b)
+ Net income			 (2,684)		    (54,898)
+ Earnings per share		(0.22)			   N/M
+			  Successor Company     Predecessor Company
+				 Forty-3	     9		   52
+			     Wks Ended   Wks Ended	  Wks Ended
+				 Jun 29,	Sep 2,	     Jul 1,
+				    1996	 1995		 1995
+ Sales		   $874,284(c) $181,968(c)    $1,412,661(c)
+Income (loss) before
+reorganization items,
+fresh start revaluation,
+extraordinary item
+  and income taxes	4,668(c)  ( 1,634)(c)	(2,097)(c)
+ Reorganization items	   --  (16,798)(d)     (51,158)(d)
+ Fresh start revaluation	--	 8,043		   --
+Extraordinary item
+  - gain on debt discharge    --     775,073		   --
+Income before income taxes
+				   4,668     764,684	   (53,255)
+ Income tax expense     2,142(b)	 --(b)	   (111)(b)
+ Net income		 2,526(e)     764,684	   (53,144)
+ Earnings per share	   0.21	   N/M		  N/M
+NOTES:
+(a)  The Company emerged from protection under Chapter 11 of the United States Bankruptcy Code on September 11, 1995. "Effective Date"). Consequently,  the Company has applied the reorganization and fresh-start reporting adjustments to the balance sheet as of September 2, 1995, the closest fiscal month end.
+(b)  Due to the losses it generated, the Predecessor Company was in a net operating loss carryforward position.  
+Further, the discharge of debt in conjunction with the reorganization did not generate taxable income. Consequently, no provision for income taxes was recorded by the Predecessor Company. The proforma income tax provision for the Predecessor Company has been computed at the estimated combined Federal and state tax rate of approximately 40%.
+(c)  Includes the results for 143 stores for four weeks and 102 stores for eight weeks of the 13 weeks ended  July 1, 1995.  Includes the results of 143 stores for 44 weeks and 102 stores for eight weeks of  the 52 weeks ended July 1, 1995. Includes the results of 102 stores for all other periods presented.
+(d)  Reorganization items include charges for Chapter 11 professional fees, the Debtor-In-Possession financing facility fees and costs of downsizing net of credits for: interest income; amortization of prepetition vendor exclusivity income; gain on sale of an asset held for sale; and an insurance claim recovery.
+(e)  The current year results for the fifty-two weeks ended June 29, 1996 include non-recurring items which relate to the settlement of professional fees incurred while the Company was in Chapter 11 and interest income received on income tax refunds which together increased net income $2,804,000 or $0.23 per share.
+-- New York Newsdesk 212 859-1610GAMING WORLD INTERNATIONAL LTD. AND SUBSIDIARIES
+		    CONSOLIDATED STATEMENTS OF OPERATIONS
+				    (unaudited)
+				  For the Three Months  For the Nine
+Months
+				     Ended June 30,	 Ended June
+30,
+				     1995	1996	1995	1996
+Revenues
+ Management fee	     $373,615  $381,017  $1,219,995
+$527,588
+ Concessions		 1,423,969 1,408,761   3,414,250
+3,904,452
+				 1,797,584 1,789,778   4,634,245
+4,432,040
+Expenditures
+ Concessions		 1,232,133 1,282,922   2,747,178
+3,268,837
+General and admini-
+  strative		     554,468   300,839   1,457,769
+1,351,537
+Depreciation and Amort-
+  ization			 87,257    89,095     244,990
+267,285
+				 1,873,858 1,672,856   4,449,937
+4,887,659
+Earnings/(Loss) from
+ operations		    (76,274)  116,922     184,308
+(455,619)
+Other Income and (Expenses) 58,612    78,747     305,963
+180,458
+ Interest income	    (176,922) (352,661)   (709,621)
+(937,124)
+ Interest expense	   (118,310) (273,914)   (403,658)
+(756,666)
+Earnings/(Loss) before
+ Income Taxes		 (194,584) (156,992)   (219,350)
+(1,212,285)
+Income taxes (benefit)     (29,188)  (23,549)    (32,903)
+(181,843)
+ NET EARNINGS (LOSS)	(165,396) (133,443)   (186,447)
+(1,030,442)
+Net earnings (loss) per
+ common share		    $(.02)    $(.02)	$(.03)
+$(.15)

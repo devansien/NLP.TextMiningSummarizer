@@ -1,0 +1,242 @@
+CompuServe Corp. Tuesday reported a surprisingly large $29.6 million fiscal first-quarter loss, blaming a decline in the number of subscribers to the No. 2 online service and spending on a new family-oriented service and improvements.
+CompuServe predicted a second-quarter loss but said earnings would improve in the second half of the fiscal year.
+"We are taking steps to revitalise CompuServe," said Chief Executive Bob Massey.
+The company said it would cut 150 jobs, or 4 percent of its work force, as part of a cost-cutting programme expected to save $30 million on an annualized basis.
+The Columbus, Ohio-based company said that as part of the cost cuts it would sell its Spry Inc. unit, whose Web browser trails far behind similar products made by Netscape Communications Corp. and Microsoft Corp.
+The loss of $29.6 million, or 32 cents a share, in the company's fiscal 1997 first quarter ended July 31 compared with last year's quarterly profit of $26.8 million, or 36 cents a share. The results included a pretax charge of $17.7 million, or 13 cents per share.
+CompuServe last month said it expected to post a loss for the quarter, but the actual loss was greater than Wall Street expectations.
+The company reported revenues of $208.6 million for the quarter vs. $186.5 million in the previous year's quarter.
+Massey, expanding on last month's comments, said the number of people cancelling their subscriptions exceeded the 900,000 new subscribers to the company's online services, producing a "modest decline" in subscriber numbers.
+As of July 31, the company's flagship CompuServe Information Service had 3.3 million members worldwide, the company said. Total subscribers, including members of NiftyServe, a joint-venture Japanese online service, numbered 5.2 million.
+CompuServe, founded in 1969, is second only to America Online Inc., with 6.2 million subscribers.
+CompuServe also blamed the loss on investments in its family-oriented WOW! service and infrastructure improvements.
+It said it expected losses to continue into the second fiscal quarter, hitting 10 cents to 15 cents a share, due to the costs of rolling out the latest version of the software needed to access the service, Compuserve 3.0, and the release of a feature that makes WOW! look different to teenagers than it does to their parents.
+But the forecast for the second half of its fiscal year was rosier.
+"Coupled with new product releases and aggressive marketing campaigns, we expect the third and fourth quarters to improve with subscribers topping the 7-million mark, including our Japanese licensee service, NiftyServe," Massey said in a statement.
+The company said it also expected increased revenue from advertising and fees for electronic commerce.
+CompuServe is a former subsidiary of tax preparer H&R Block Inc., which spun off the company and is selling its 80 percent stake in CompuServe.
+CompuServe announced its financial results after markets closed. Its stock dropped 12.5 cents to $13.50 on Nasdaq in earlier trading.Sprint Corp. Tuesday announced plans to offer Internet access to consumers, jumping into the market to help millions of homes go online after similar moves by rivals AT&T and MCI.
+Kansas City, Mo.-based Sprint, which has operated a big chunk of the Internet for American businesses since 1992, said it would offer the service for free to 200,000 of its existing telephone customers until it is introduced widely in the fall.
+After that, consumers will be able to choose a flat rate of $19.95 a month for unlimited access, or $1.50 an hour with no minimum or maximum usage requirement, the nation's third-largest long-distance company said.
+"We've been in the Internet, in fact profitable and making money in the Internet business, longer than anybody," said Jim Dodd, vice president of Internet Access Services for Sprint.
+Industry analysts said Sprint took its time getting into the consumer side of the Internet access business to avoid some of the service glitches that have hurt its larger rivals.
+"Some others got not very good press," said Bette Massick Colombo at Bear Stearns & Co. "The fact that they are taking their time is okay. I don't think they've lost ground."
+Sprint said the service, dubbed Sprint Internet Passport, will provide around-the-clock access to the global computer network with a local phone call in 212 cities to start, and in more than 300 cities by year-end.
+The offering compares with the services rolled out by AT&T Corp. and MCI Communications Corp. as well as regional Bell operating companies earlier this year.
+AT&T's entry into the market, which included some free access time, sparked a flurry of competition that sent shockwaves through the consumer Internet access business.
+Sprint's service initially will support only the Netscape Navigator search software, but Dodd said the company was taking with Microsoft about including its Explorer "browser" software as well.
+"In our first release we won't support the Microsoft browser, but we expect them to be a part of our service shortly," Dodd said.
+In 1992, Sprint became the first long-distance company to offer commercial Internet service, and now offers access to more than 1,000 Internet service providers and to a host of other businesses. Sprint also provides on-line access for most major proprietary online services.
+Sprint has $12.8 billion in annual revenues and serves more than 15 million business and residential customers.
+It said its offerings would also include Netscape Navigator, a rebate certificate for a high-speed modem, access speeds of up to 14.4 and 28.8 kilobits per second, a dedicated Web site with e-mail, news, directory and search services, and technical support online or through a toll-free 800 number.
+Credit card billing will be offered.
+Sprint stock fell 50 cents to $39 on the New York Stock Exchange.Novell Inc. Tuesday unveiled its new IntranetWare software, intended to establish the computer networking company in the growing market for internal corporate networks known as intranets.
+Novell has been a leader since 1983 in conventional networking software but has fallen behind Netscape Communications Corp. and Microsoft Corp. in the competition for intranets, private networks which function like the Internet's Web.
+"With IntranetWare, Novell opens our product line and (our) 55 million customers to the future of networking," said Novell Chairman Robert Frankenberg. The company provides software for an estimated 1 million networks with 55 million users.
+Orem, Utah-based Novell's IntranetWare is a full-service intranet and Internet access product for businesses of all sizes. It builds on the features of the company's Netware 4.11 network software.
+The latest product offers a high-performance Web browser and server software -- the software needed to access and publish Web pages --  and is designed to take advantage of the latest standards for surfing the Internet and using far-flung corporate networks.
+Novell did not give prices for the software, which it plans to release in the fall.
+The company said IntranetWare is compatible with existing Novell network software and will allow companies to preserve previous investments in network software.
+Novell said it will concentrate on IntranetWare in the future but will continue to sell and support NetWare 4 and NetWare 3.
+Novell stock dropped 12.5 cents to $11.25 in afternoon trading on Nasdaq.The Internet browser wars heated up Monday as market leader Netscape Communications Corp launched its latest Navigator software and officials of rival Microsoft Corp. said they saw little new.
+Netscape, countering Microsoft's high-profile launch of its Internet Explorer 3.0 last week, said it had linked up with more than 20 content providers, including The New York Times and Sportsline USA, to offer tailored news and information to users.
+Microsoft last week made a similar offer, saying that users who download its new browser would get free trial subscriptions to The Wall Street Journal Interactive Edition, ESPN SportsZone and other services.
+While Netscape has a commanding lead in the growing browser market, with a share estimated at over 80 percent, industry analysts say Microsoft's latest software poses a threat to that dominance.
+"I'd say at the very minimum Microsoft has leveled the playing field, and the real battle can now begin," said Adam Schoenfeld of the Jupiter Communications research firm.
+Microsoft said more than 1 million users had downloaded its browser off the Internet since it became available last Tuesday.
+Microsoft stock fell 75 cents to $123.50 a share, while Netscape dropped $2.375 to $36.50, its lowest close since October.
+In launching the latest version of Navigator, Mountain View, Calif.-based Netscape highlighted a new electronic mail feature that will deliver information from selected content providers directly to the user's computer "in box."
+The new software also offers enhanced audio, video and three-dimensional animation.
+In a statement sent to reporters, Redmond, Wash.-based Microsoft called Netscape's new electronic mail feature "glorified junk mail" and said its own Internet Explorer offers faster access to multimedia clips.
+On its World Wide Web site, Microsoft was less blunt but invited users to try both products and compare.
+"We're confident that in this scenario Internet Explorer 3.0 will fare very well," Microsoft said in the Web statement.
+Schoenfeld agreed, saying, "To the average user now, the products are probably indistinguishable in terms of quality."
+Microsoft also pointed out that its product is free, while Netscape charges most users a $49 license fee after a free 90-day trial period.
+While Navigator is available for a variety of computer platforms, the new version of Internet Explorer so far requires Microsoft's most recent operating systems, Windows 95 or Windows NT.
+Microsoft officials said versions for previous versions of Windows and for Apple Computer Inc.'s Macintosh system were forthcoming.
+Analysts said while the rapidly expanding Internet market was big enough for both players, Netscape was certain to see its share of the browser market diminish.
+They said the browser war was likely to become even more intense when Microsoft unveiled its Internet Explorer version 4.0, expected early next year.
+The new browser will be integrated into the Windows operating system, allowing users to "browse" through their local computer as well as the Internet.
+"Netscape doesn't own the operating system, so it will be very difficult for them to counter that," said Michael Wallace of UBS Securities.CompuServe Corp president and chief executive officer Bob Massey said Tuesday that despite a $0.32 a share first-quarter loss and a projected second-quarter loss, the outlook is positive for the on-line services firm.
+"Moving into the second quarter we're seeing an increase in usage in the CompuServe Information Service," Massey said in a telephone interview.
+He also said trends in usage per member and revenue per member are "clearly going in the right direction."  
+Subscribers declined in the first quarter ended July 31 but Massey said that may be weather-related. "I think in general the trend is in a positive direction," he said.
+CompuServe has addressed subscriber declines by upgrading its infrastructure to improve speed and performance and is releasing a new software product, CompuServe 3.0, that is easier to use and has an integrated Internet browser, he said.
+Marketing programs will promote CompuServe 3.0 and WOW! for Teens, which will be released in September, he said.  
+"We are expecting that we will have a loss in the second quarter in the neighborhood of $0.10-$0.15 and that ... the earnings will improve from that point forward," Massey said in a telephone interview.
+Earlier Tuesday CompuServe reported on its first quarter, warned of the expected second-quarter loss and said it expects improvements in the second half.
+"We think the company is extremely well positioned to take advantage of the opportunities in this nascent environment we're in, in both the consumer online Internet market as well as the Corporate Internet Services," Massey said.  
+He said the corporate service, which he called the company's "crown jewel," gained 43 customers in the first quarter, bringing the total to more than 1,000.
+New partnerships with IBM, Netscape Communications Corp, Microsoft Corp and Oracle Corp provide comprehensive intranet-hosting platforms, he said. In the second quarter, CompuServe will have two icons in the Microsoft Windows 95 online services folder, he said.  
+At July 31, CompuServe said, it had 3.3 million direct worldwide subscribers and, with NiftyServe, its Japanese licensee, a total of 5.2 million. WOW!, a new service for novice users introduced four months ago, grew to 92,000 users, and the SPRYNET Internet access serviced grew to 163,000.
+--Cleveland Newsdesk 216-579-0077Netscape Communications Corp's lead antitrust lawyer has written to the U.S. Department of Justice to urge that immediate action be taken against Microsoft Corp for what Netscape called "far-reaching anti-competitive behavior."
+The letter, dated August 12 and made available to Reuters Tuesday, is a further escalation of a battle of words between the two companies that began earlier this month as the rivals prepared to issue new versions of Internet browser software.
+Gary Reback, an outside attorney representing Netscape, also suggested in the letter that the issue be turned back to the Federal Trade Commission for further investigation.  
+The eight-page letter accuses Microsoft of having made written offers to computer makers, Internet service providers (ISPs), systems integrators and large corporations providing for "either clandestine side payments, discounts on the Microsoft desktop operating system (Windows) or payments in the form of 'real estate' on the Windows 95 screen."
+The Netscape counsel said these inducements were made on the condition that the parties involved would "make competitors' browsers far less accessible to users than Microsoft's own browser."
+A browser enables PC users to access the World Wide Web.  
+The legal clash comes at a critical point as both Netscape and Microsoft are introducing new versions of their respective browsers, Netscape Navigator and Microsoft Internet Explorer.
+Netscape, which pioneered browser technology and surged on to the public stock market with a stellar initial public offering in August 1995, holds the lead with an estimated 80 percent or more of the worldwide browser market.
+But Microsoft, whose Windows systems dominate the personal computer market with about a 90 percent share, has moved quickly to gain an estimated 10 percent browser share.  
+It said Monday that more than one million users have downloaded its latest Internet Explorer version in its first week of availability.  
+The software, known as Internet Explorer 3.0, was formally introduced just a week ago. On Monday, Netscape launched the latest version of its own Navigator software.
+Both companies have linked up with content providers to offer free trial subscriptions as a way of promoting their browsers. Analysts have said that Microsoft, which has thrown its marketing and financial clout into Internet products, has leveled the playing field with its latest software.
+Netscape and Microsoft are already well along the way to developing the next version of their browser software.  
+Reback, a Silicon Valley lawyer known for spearheading past legal tussles with the Redmond, Wash.-based software company, said the alleged practices went far beyond those that had been addressed in a consent decree agreed by Microsoft and the Justice Department two years ago.
+"Microsoft's behavior is, if anything, more anti-competitive and pernicious than the conduct addressed specifically in the decree," Reback wrote in the letter.
+Reback said in an interview a number of companies had "started coming out of the trees" with compliants since a war of words began between Netscape and Microsoft two weeks ago.  
+Reback urged the Department of Justice to investigate what Netscape believes was illegal conduct by Microsoft, saying the department could do so swiftly. He said many small Internet companies "now face the threat of elimination from the market by reason of Microsoft's illegal conduct."
+The attorney also suggested the department's antitrust division return the matter to the Federal Trade Commission, which he said has taken a recent interest in the subject.
+"In any event, we are requesting immediate attention," he said. "Time is of the essence. We know that the antitrust division has an open file with respect to Microsoft."
+-- sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400Spyglass Inc said Tuesday it launched a new version of its Web Server Software Development Kit, which it said is the first to be fully compatible with both Microsoft Corp and UNIX platforms.
+The software also provides improved features such as file caching and secure communications, Spyglass said.
+Pricing for the software starts at $25,000, which includes 100 licenses and a one-year support and maintenance contract.
+--Chicago newsdesk, 312-408-8787Sprint Corp said Tuesday that it sees its market share in the Internet service provider arena topping its position in the long-distance market, which it said averages 10 to 12 percent.
+"We have an objective of fast growth and high share, higher than the approximate 10th share that we have in long-distance," Jim Dodd, vice president of Internet Access Services, said in an interview. "We think we can."
+Earlier, Kansas City-based Sprint introduced its consumer Internet access service, called Sprint Internet Passport.  
+The communications company will first offer the service to 200,000 of its current long-distance customers to "test-drive" it for free before doing a nationwide launch in 60 to 90 days, Dodd said. The service is priced at $19.50 a month for unlimited use or $1.50 an hour, as the customer prefers.
+Sprint, which is already a major provider of Internet access to commercial services such as America Online Inc, said it will now use its infrastructure for its own service.  
+Sprint plans to add content and high-quality service to give it an edge over other service providers, and offer long-distance and Internet package deals.
+"We're pretty confident going in that we have the best economics of any major provider because of our cost structure and existing data networking capabilities," Dodd said, adding the company is currently discussing plans with software providers and companies in the entertainment arena.  
+Sprint's service will initially support only the Netscape browser, but Dodd said the company is currently in talks with Microsoft Corp to include its Explorer browser as well.
+"In our first release we won't support the Microsoft browser, but we expect them to be a part of our service shortly," Dodd said.  
+Sprint is entering the general consumer market after its prime competitors AT&T Corp and MCI Communications Corp already have their services in place. But analysts said in the long run the unrushed entrance into the market is not likely to hurt the company.
+"Some others got not very good press," said Bette Massick Colombo, an analyst for Bear Stearns & Co. "The fact that they are taking their time is okay. I don't think they've lost ground."  
+Massick Colombo said the service may help Sprint retain customers in the long run, and expects only slight pressure on earnings in the short term as the Sprint gets the service up and running.
+"I think it's important to have a full-service package," she said. "They have one of the most advanced data networks in the world."
+Sprint is also planning to provide intranet packages for international businesses. Intranets are company-wide networks based on the Internet protocol.
+"In the upcoming months you will see all sorts of integrated activity," Dodd said. "We've been in the Internet, in fact profitable and making money in the Internet business, longer than anybody."
+--Chicago newsdesk, 312-408-8787Microsoft Corp expects Sprint Corp's new Internet access service to offer the software company's Internet Explorer as an option, a Microsoft official said Tuesday.
+Mike Ahern, a Microsoft group product manager, said he hoped an agreement between the two companies could be announced soon. He declined to discuss details.
+"We're absolutely talking to Sprint," Ahern said. "We fully expect Sprint will be offering Internet Explorer with their Internet access service."  
+Earlier Sprint said it would offer Netscape Communications Corp's Navigator browser for customers of its new service.
+But Sprint did not say the relationship was exclusive, and Ahern said he expected an arrangement that would allow customers to choose which browser they use.
+Microsoft and Netscape both launched new versions of their Internet browsers this week, marking a new phase in the rivalry between the two companies.
+-- Seattle bureau 206-386-4848Sun Microsystems Inc said the company's Java WorkShop suite of software development tools will be available electronically from August 23 for an initial introductory price of $99.
+Larry Weber, vice president and general manager for WorkShop products at Sun Microsystems, said in a conference call that Java Workshop, a set of development tools for the company's hot new Java technology, will be available at the discounted price until December 31.  
+The low initial price -- the suite's suggested pricing remains at $295 -- reflects Sun's intention to distribute the software tools broadly, Sun and industry executives said.
+"Their goal is to have a Java tool on every desktop," said one computer industry source familiar with their strategy.
+To promote this, Sun is working on a number of methods for distributing the tools, including electronic downloading and delivering it through resellers, including retail stores.
+Java WorkShop, which is designed with the look and feel of a World Wide Web browser, is designed to work on Microsoft Corp's Windows 95 and NT systems as well as Solaris.  
+A major focus of the product is to extend the use of the development tools beyond the usual software developer community to include graphic artists, Web masters and authors and people engaged in publishing content on the Internet.
+"This tool is much more integrated with the Internet than any other software tools for Java," said Weber, noting that it uses browser technology to make it easier for individuals who program computers on a more casual basis.
+Sun has calculated that the broadest target for its tools product is a wide group of up to 25 million "content users," including people who manipulate data within spreadsheets.  
+"These people don't think of themselves as programmers,... but they do transformations of the data much the way a programmer would do it," Weber said. "For the bottom tier, the content developer, we have included the ability to directly edit HTML pages and to marry those pages with Java applets."
+HTML pages use the World Wide Web's Hypertext Markup Language which enables subjects to be cross-referenced in graphics-rich displays across the Internet.
+Java applets are small applications which can be delivered over the Internet and used for various tasks, such as editing, in the Java language, which runs on nearly any computer.  
+The Java Workshop is Sun's first retail product, although the company said it would require purchasers to contact an authorized reseller so as not to compete with its partners.
+The tools enable developers and others to create Java applications graphically, shielding users having to use command line coding and thus speeding and simplifying the task of programming, according to Sun Microsystems.
+The company said the Java Workshop is currently in use in a number of locations developing sophisticated Java applets and applications for use on both the Internet and on internal corporate networks known as intranets.
+-- sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400Novell Inc Tuesday unveiled IntranetWare, a new service designed to establish the company in the growing corporate intranet market.
+The product is a full service intranet and Internet access platform for businesses of all sizes and builds upon the services offered in its Netware 4.11 software.
+The latest software offers a high-performance Web server and browser, a gateway for networking protocols as well as a multiprotocol router for wide-area networks and Internet connections.  
+Novell did not reveal the pricing of the software which it plans to release in the fall.
+The company said IntranetWare is compatable with existing Novell networking software and will allow firms to preserve existing network investments by allowing them to selectively install the networking components needed to upgrade their systems to meet new demands.
+Novell said it will concentrate IntranetWare in the future but will continue to sell and support NetWare 4 and NetWare 3.
+"With IntranetWare, Novell opens our product line and 55 million to the future of networking," said Robert Frankenberg, chairman and chief executive officer.
+Novell said the new software is secure acting as a "level-one security firewall" because only the network server carries out all tasks in contrast to traditional systems where numerous users have that capability.
+Orem, Utah-based Novell has been active in networking software since 1983 but has fallen behind Netscape Communications Corp and Microsoft Corp in building intranet market share.After arriving late to the Internet party, computer software giant Microsoft Corp has crafted a strategy that poses a serious threat to rival Netscape Communications Corp.
+The latest version of Microsoft's Internet Explorer software for browsing the vast computer network, launched last week, eliminates the formerly commanding technological lead Netscape's market-leading Navigator, industry analysts said.  
+Because Microsoft is giving away its browser, the Redmond, Wash.-based company likely will boost its market share from less than 10 percent to as much as 40 percent by mid-1997, according to one estimate.
+The market battle is expected to escalate next year when Microsoft launches a new version of its browser that can be used instead of the Windows interface, allowing users to search for information on their own computer or the Internet with a single stroke.  
+"Netscape doesn't own the operating system, so it will be very difficult for them to counter that," said Michael Wallace of UBS Secrurities.
+Microsoft also has integrated Internet server software for no additional cost into its high-end Windows NT operating system, taking aim at another key Netscape market.
+"It's clearly a strategy to cut off any revenue stream that Netscape might have because Netscape does pose a real threat to Microsoft," said Phil Lemmons, editor in chief of PC World magazine.  
+While the Internet browser market itself is not expected to generate significant revenue, it is a crucial battleground because the browser is seen as the next-generation "front end" for the operating system.
+"Whoever dominates the browser market will determine the direction of the Internet," Wallace said.
+He and others are betting that Microsoft will continue to make inroads as its Chairman Bill Gates tenaciously defends the company's dominance of the personal computer desktop.  
+"I don't think Netscape is going to do very well in the long run with Bill Gates waking up every morning thinking, 'How can I get Netscape today?'" said Adam Schoenfeld or research firm Jupiter Communications.
+"As other companies have painfully learned, when Gates is out to get you he's serious," Schoenfeld said.
+Netscape can count on support from software developers and corporate executives eager for an alternative to Microsoft's Windows platform.  
+And Netscape has a chance to beat its much-larger rival in areas not dominated by Microsoft products, such as television set-top boxes, video game devices and stripped-down "network computers" being backed by Oracle Corp and other Microsoft rivals.
+But analysts say Netscape faces a tough battle with broad ramifications for the software industry.
+"It's very hard to bet against them given the amount of resources that they can and are throwing at it," Lemmons said. "Microsoft is a formidable foe, and there's nothing so deep and mysterious about Netscape's technology that it can't be cloned."  
+Lemmons said that despite Microsoft's near-monopoly in key areas of desktop computing software, the strategy of giving away Internet software appears to be legal, and the company has withstood years of antitrust scrutiny.
+Software developers and industry executives will be watching closely as the battle between Microsoft and Netscape continues to heat up over the coming year, Schoenfeld said.
+"The question for any innovative software company is what can you do that Microsoft can't also do," he said.
+"The damning thing is Microsoft doesn't even have to do it as well -- they just have to do it and leverage their desktop control," Schoenfeld said. "That looms over the entire industry."
+					-- Seattle bureau 206-386-4848Ten powerful high-technology companies are investing in a $100 million venture fund to support startups developing Internet software using Java as a progamming language, The Wall Street Journal reported on Wednesday.
+International Business Machines Corp, Tele-Communications Inc, Sun Microsystems Inc, Compaq Computer Corp, U S West Communications Group, Netscape Communications Corp and Oracle Corp are among the investors in the Java Fund. It will be administered by venture-capital firm Kleiner Perkins Caulfield & Byers.
+The widespread endorsement for the Java Fund, which also includes investments from Cisco Systems Inc, Comcast Corp and Japan's Itochu Corp, marks an unprecedented rate of adoption for a single technology across a wide range of high-tech industries, the newspaper said.
+"Nothing like this level of adoption and endorsement has ever happened in computing," said John Doerr, a partner at Kleiner Perkins.
+Beyond financial investment, companies are also planning on putting their weight behind new technologies in return for getting early access to any breakthroughs.
+Java has been hailed as a revolutionary technology because of its ability to create multimedia computer programs that work on all operating systems. Many industry experts believe that may help put an end to Microsoft Corp's dominance of the software industry, which has long relied on the Windows platform that Microsoft controls.
+-- New York newsroom, (212) 859-1610Novell Inc. Tuesday unveiled its new IntranetWare software, intended to establish the computer networking company in the growing market for internal corporate networks known as intranets.
+Novell has been a leader since 1983 in conventional networking software but has fallen behind Netscape Communications Corp and Microsoft Corp. in the competition for intranets, private networks which function like the Internet's Web.
+"With IntranetWare, Novell opens our product line and (our) 55 million customers to the future of networking," said Novell Chairman Robert Frankenberg. The company provides software for an estimated 1 million networks with 55 million users.
+Orem, Utah-based Novell's IntranetWare is a full-service intranet and Internet access product for businesses of all sizes. It builds on the features of the company's Netware 4.11 network software.
+The latest product offers a high-performance Web browser and server software -- the software needed to access and publish Web pages --  and is designed to take advantage of the latest standards for surfing the Internet and using far-flung corporate networks.
+Novell did not give prices for the software, which it plans to release in the fall.
+The company said IntranetWare is compatible with existing Novell network software and will allow companies to preserve previous investments in network software.
+Novell said it will concentrate on IntranetWare in the future but will continue to sell and support NetWare 4 and NetWare 3.Sun Microsystems Inc.'s Java WorkShop -- software used to create software incorporating Sun's hot Java technology -- will be available online for $99 starting Friday, the company announced Tuesday.
+In a separate announcement, Sun and International Business Machines Corp. said they agreed to integrate IBM's Taligent technology into Java software to give it a more international accent. The enchacements would allow Java, written by programmers working in American English, to automatically recognise the language differences of individual countries.
+Java is a programming system that allows software designers to transform billboard-like Web pages into dynamic scenes that incorporate not only text, but moving graphics, video, and sound features.
+Scores of leading international computer, communications, and consumer electronics companies have licensed Java software for use in Internet-related products they are developing.
+Java WorkShop, Sun's first retail product, will be available at the discounted $99 price until Dec. 31, Larry Weber, Sun vice president and general manager for WorkShop products, said in a conference call.
+The low initial price -- the product's suggested price remains $295 -- reflects Sun's intention to broadly distribute the so-called software tools, Sun and industry executives said.
+"Their goal is to have a Java tool on every desktop," said one computer industry source familiar with their strategy.
+To promote this, Sun is working on a number of methods for distributing Java WorkShop, including electronic downloading and selling retail stores and other outlets.
+The software, which is designed to have the look and feel of a World Wide Web browser, will work on Microsoft Corp.'s Windows 95 and NT systems as well as Sun's Solaris system.
+A major focus of the product is to extend the use of the software tools beyond software developers to graphic artists, "Webmasters" and Web authors and people engaged in publishing content on the Internet.
+"This tool is much more integrated with the Internet than any other software tools for Java," said Weber, noting that it uses browser technology to make it easier for individuals who programme computers on a more casual basis.
+Sun has calculated that the broadest target for the product is a wide group of up to 25 million "content users," including people who manipulate data within spreadsheets.Netscape Communications Corp.'s lead antitrust lawyer has written the Justice Department urging it to take immediate action against Microsoft Corp. for what he characterised as "far-reaching, anti-competitive behaviour."
+The letter demanding "immediate attention" was dated Aug. 12 and made available to Reuters Tuesday. It represents a further escalation of a battle of words between the rival companies that began earlier this month as they prepared to issue new versions of Internet browser software.
+Gary Reback, the outside attorney representing Netscape, also suggested in the letter to Deputy Assistant Attorney General Joel Klein that the issue be turned over to the Federal Trade Commission for further investigation.
+The eight-page letter accused Microsoft of having made written offers to computer makers, Internet service providers, large corporations and others providing for "either clandestine side payments, discounts on the Microsoft desktop operating system (Windows) or payments in the form of 'real estate' on the Windows 95 (opening) screen."
+Reback says these inducements were made on condition that the parties involved would "make competitors' browsers far less accessible to users than Microsoft's own browser." A browser enables computer users to access the Internet's World Wide Web.
+The letter said Netscape had "uncovered numerous additional steps that Microsoft has taken for the purpose of eliminating competition in the Internet software markets," including predatory pricing and bundling of products.
+Microsoft spokeswoman Claire Lematta dismissed the letter, saying it "appears to be full of wild and unsubstantiated statements."
+"It looks to us like a marketing document masquerading as a legal document," she said. "Netscape must be feeling the competitive pressure."
+The legal clash comes at a critical point as both Netscape and the Redmond, Wash.-based software giant introduce new versions of their respective browsers, Netscape Navigator and Microsoft Internet Explorer.
+Mountain View, Calif.-based Netscape, an early leader in browser technology, holds the lead in market share with an estimated 80 percent or more of the worldwide market.
+But Microsoft, whose Windows systems are found in about 90 percent of personal computers, has moved quickly to gain an estimated 10 percent of the browser market and says more than 1 million people have downloaded its latest browser ,version.
+That software, Internet Explorer 3.0, was formally introduced just a week ago. On Monday, Netscape launched the latest version of its browser, Navigator 3.0
+Both companies have linked up with content providers to offer free trial subscriptions as a way of promoting their browsers. Analysts have said that Microsoft, which has thrown its marketing and financial clout into Internet products, has leveled the playing field with its latest software.
+Microsoft and Netscape are also already well along the way to developing the next versions of their browsers.
+Reback, a Silicon Valley lawyer known for spearheading past legal tussles with Microsoft, said the alleged practices went far beyond those which had been addressed in a consent decree reached by Microsoft and the Justice Department just two years ago.
+"Microsoft's behaviour is, if anything, more anti-competitive and pernicious than the conduct addressed specifically in the decree," Reback wrote in the letter.High-tech venture capital powerhouse Kleiner Perkins Caufield & Byers said Wednesday it has created a $100 million fund to invest in start-up firms developing businesses based on the hot new Java technology for the World Wide Web.
+Kleiner Perkins -- which since its 1972 founding has created a web of companies similar to Japan's networks of closely affiliated businesses -- named 10 major technology companies, including International Business Machines Corp., Compaq Computer Corp. ), and Netscape Communications Corp., as investors in the new fund. It said the Java Fund was closed to any new investment.
+Kevin Compton, a Kleiner Perkins general partner who will be a fund manager, said the fund aims to improve small firms' access to corporate investors at a time when new product development has been shortened considerably by the frenzy over the Web.
+"These companies have to live in Web weeks now, and instead of spending a year, or who knows how long, it takes to get corporate partners, they've got them on day one," he said.
+Java developer Sun Microsystems Inc., itself a company launched with support from Kleiner Perkins, is the largest investor in the fund after Kleiner Perkins' institutional investors as a group.
+"We could have just let the market take care of this because there's a lot of money in the market right now," Eric Schmidt, chief technology officer at Sun Microsystems, said in an interview.
+But, he noted, the fund aims to build on the broad enthusiasm over Java, which has been licensed by a wide range of software developers ranging from Redmond, Wash.-based software giant Microsoft Corp. to the Taiwanese government.
+"There's a certain benefit that's hard to quantify of having people with a common shared goal, with a clear name and a clear objective," investing together, he said.
+Kleiner Perkins said its corporate partners in the fund include leaders in networking, personal computers, Internet software, database software and communications.
+In addition to IBM, Compaq and Netscape, the corporate investors in the fund include Cisco Systems Inc., the cable TV companies Comcast Corp. and Tele-Communications Inc. , Japan's Itochu Corp, Oracle Corp., and US West Media Group, Kleiner Perkins said.
+Schmidt said the fund, believed to be unique in its concentration on a particular technology, would compare to setting up a venture fund in the late 1970s to collectively finance early growth of the personal computer industry.
+The fund is set up to run for 10 years, a relatively long time, and will aim to make an average investment of around $3 million, implying some 25 to 30 investments overall.
+The first three Java Fund investments are start-up companies Active Software, Calico Technology and Marimba.
+Active Software, founded in 1995, is a privately held company focused on extending information systems to the World Wide Web multimedia portion of the Internet. Calico Technology is working on software to enable sales representatives to quote and order products and services.
+Palo Alto, Calif.-based Marimba, which was founded in February by four key members of the original Java development team, plans to provide technologies for developing and deploying network-aware Java applications.
+Java was designed at Sun to be a programming language that makes it possible for software using it to run on nearly all the computer systems in the world, making it ideal for the global Internet network of computer networks.
+Nearly 50 corporations have agreed to license the Java technology, and Sun Microsystems Chief Executive Scott McNealy estimated that 100 million computers and other devices will be able to use Java by the end of 1997.
+Sun has set up a separate division, JavaSoft, to promote Java-based development to expand its reach into new areas, including the huge task of linking older computers to the Internet using Java.
+Another area of innovation is expected to be in filtering and ultimately reducing data to make it more usable, along with improving group communications across networks used on the Internet and corporate networks known as intranets.
+"What I will absolutely tell you that, over the course of the lifetime of this fund, there will be some set of investments that will be extraordinarily important, none of which any of us can identify right now," Schmidt said.A giant videoscreen equipped with the same technology as those mounted at the Atlanta Olympics would be hung over Times Square to beam television programs, NBC and Panasonic said Wednesday.
+Company officials told a news conference that the "NBC Astrovision by Panasonic" was scheduled to begin operation in the autumn over One Times Square, the building famous worldwide for the New Year's Eve ball drop.
+Matsushita Electric Industrial Co Ltd is the parent of Panasonic consumer electronics. NBC is the television unit of General Electric Co.  
+The screen replaces the so-called Jumbotron, which beamed advertisements and news over Times Square for six years until it was switched off by manufacturers Sony Corp.at the end of May.
+A 1,100 square foot (102 sq metre) Astrovision screen displayed events at the Olympic Stadium in Atlanta this summer. More than 150 Astrovision screens are in use at stadiums and arenas all over the world.  
+"Ten years from now everyone will be calling it NBC Astrovision along with us," said Bill Bolster, president of CNBC, the network primarily known for its daytime financial news broadcasts.
+Bolster said the screen would display news and events from the NBC network, NBC channel 4 New York, CNBC and MSNBC, the all-news cable venture that NBC started in July with Microsoft Corp.
+Matsushita said the screen would be 27 percent larger than the Jumbotron. It had advanced fluorescent technology that would provide clear pictures even in direct sunlight, the company said.Microsoft Corp and Security Dynamics Technologies Inc said on Wednesday that they signed a number of cross-licensing agreements on security technology.
+The pacts grant Microsoft greater access to encryption and authentication token technology developed by Security Dynamics and its RSA Data Security Inc subsidiary, including new licensing rights to software for supporting Security Dynamics' SecurID token technology in future Microsoft products.  
+The pacts would let corporate users increase security through the addition of SecurID token authentication to the Windows NT Server network operating system and Microsoft Internet Information Server.
+The agreements also make developers' toolkits from RSA available which feature Microsoft's cryptographic programming interfaces, CryptoAPI, allowing the addition of secure features to software products in development.
+RSA will receive an ongoing revenue stream from Microsoft based on the use of patented RSA technology.
+Microsoft will license CryptoAPI to RSA, including rights to incorporate CryptoAPI into RSA's BSAFE and other security toolkit products, to port CryptoAPI to new platforms, and to build on Microsoft's base set of cryptography services.
+Similar agreements were struck convering Security Dynamics software.
+--New York Newsdesk, 212/859-1610VERITAS Software Thursday said it formed a strategic licensing, development and marketing relationship with Microsoft Corp for the delivery of its volume manager disk and storage management software in Microsoft's fast-growing operating system.
+In a statement, VERITAS will create enhanced disk and volume management capabilities to be embedded in future versions of Windows NT Server, making VERITAS the first external provider of enterprise storage technologies for the platform.  
+VERITAS also said it will independently deliver additional capabilities in versions of its products for Windows NT Server 4.0 and other versions of the operating system in the future. VERITAS Volume Manager, a product that allows large groups of disks in client/server environments to be optimized for storage, capacity and performance is currently installed in tens of thousands of customer sites through its 50 OEM partners and network of resellers on the UNIX platform.
+Pricing was not announced.
+Veritas shares were up 3-3/4 to 44 in morning trade.Microsoft Corp said Thursday it has fixed two problems users had with the company's Internet Explorer 3.0 software.
+The company has posted an updated version of the software setup routine that needs less temporary hard disk space for installation. The new downloads include the new setup automatically. Users who have already downloaded the Internet Explorer are not affected by this issue.
+The company will post a patch file at http://www.microsoft.com/ie/ at 2200 PDT Thursday (0500 GMT) to correct an issue with some Web sites that require users to enter a user name and password.
+All Internet Explorer 3.0 users are encouraged to install the patch, which can be done automatically by visiting a page on the Microsoft Internet Explorer Web site and downloading one automatic-update file, Microsoft said.Seagate Technology's Seagate Software said on Thursday it launched Seagate ExecView, touting it as the first solution that provides integrated, cross-platform storage management for enterprise networks running Microsoft Windows NT and Novell NetWare operating systems.
+Loaded on either a Windows NT server or a Windows 95 client, ExecView provides administrators with information on all Seagate Backup Exec for Windows NT and Seagate Backup Exec for NetWare operations from a single administrator console, the company said.
+ExecView initially will be released in English and is expected to be available in August at an suggested retail price of $1,395 for 5 servers, $3,595 for 20 servers and $5,595 for 50 servers, the company said.
+With ExecView, administrators can monitor all scheduled, active and completed backup operations to ensure compliance with company data protection standards and identify backup operations that need attention, the company said.
+French, German and Spanish versions are expected to be available in September, the company said.
+- New York Newsdesk 212-859-1610.
