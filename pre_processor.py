@@ -29,23 +29,16 @@ def fix_contractions(text):
 
 
 def convert_to_lower(words):
-    word_list = []
-    for w in words:
-        word = w.lower()
-        word_list.append(word)
-    return word_list
+    return words.lower()
 
 
 def convert_number_to_words(words):
     processor = inflect.engine()
-    word_list = []
-    for w in words:
-        if w.isdigit():
-            word = processor.number_to_words(w)
-            word_list.append(word)
-        else:
-            word_list.append(w)
-    return word_list
+    if words.isdigit():
+        word = processor.number_to_words(words)
+    else:
+        word = words
+    return word
 
 
 def remove_stop_words(words):
@@ -57,19 +50,51 @@ def remove_stop_words(words):
 
 
 def remove_punctuations(words):
-    word_list = []
-    for w in words:
-        word = re.sub(r'[^\w\s]', '', w)
-        if word != '':
-            word_list.append(word)
-    return word_list
+    word = re.sub(r'[^\w\s]', '', words)
+    if word != '':
+        return word
 
 
 def remove_non_ascii_chars(words):
-    word_list = []
-    for w in words:
-        word = unicodedata.normalize('NFKD', w) \
-            .encode('ascii', 'ignore')\
-            .decode('utf-8', 'ignore')
-        word_list.append(word)
-    return word_list
+    return unicodedata.normalize('NFKD', words) \
+        .encode('ascii', 'ignore') \
+        .decode('utf-8', 'ignore')
+
+
+# def convert_to_lower(words):
+#     word_list = []
+#     for w in words:
+#         word = w.lower()
+#         word_list.append(word)
+#     return word_list
+
+
+# def convert_number_to_words(words):
+#     processor = inflect.engine()
+#     word_list = []
+#     for w in words:
+#         if w.isdigit():
+#             word = processor.number_to_words(w)
+#             word_list.append(word)
+#         else:
+#             word_list.append(w)
+#     return word_list
+
+
+# def remove_punctuations(words):
+#     word_list = []
+#     for w in words:
+#         word = re.sub(r'[^\w\s]', '', w)
+#         if word != '':
+#             word_list.append(word)
+#     return word_list
+
+
+# def remove_non_ascii_chars(words):
+#     word_list = []
+#     for w in words:
+#         word = unicodedata.normalize('NFKD', w) \
+#             .encode('ascii', 'ignore')\
+#             .decode('utf-8', 'ignore')
+#         word_list.append(word)
+#     return word_list
