@@ -1,5 +1,9 @@
+import datetime
 import file_reader as fr
 import pre_processor as ps
+
+# process starts
+start_time = datetime.datetime.now()
 
 # get text files (text level)
 files = []
@@ -35,8 +39,16 @@ for idx, d in enumerate(tok_documents):
 
 # pre-process step 06: convert int to string representation
 for idx, d in enumerate(tok_documents):
-    tok_documents[idx] = ps.
+    tok_documents[idx] = ps.convert_number_to_words(d)
 
+# pre-process step 07: remove stop words
+for idx, d in enumerate(tok_documents):
+    tok_documents[idx] = ps.remove_stop_words(d)
 
 print(documents[0])
 print(tok_documents)
+
+# process ends
+end_time = datetime.datetime.now()
+print('\nstart  time: ' + str(start_time))
+print('finish time: ' + str(end_time))
