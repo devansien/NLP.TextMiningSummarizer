@@ -10,6 +10,20 @@ def tokenize(text):
     return nltk.word_tokenize(text)
 
 
+def pos_tag(words):
+    return nltk.pos_tag(words)
+
+
+def ner_tag(words):
+    return nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(words)))
+
+
+def chunk_sentence(words):
+    pattern = 'NP: {<DT>?<JJ>*<NN>}'
+    chunk_pattern = nltk.RegexpParser(pattern)
+    return chunk_pattern.parse(words)
+
+
 def fix_contractions(text):
     return contractions.fix(text)
 
