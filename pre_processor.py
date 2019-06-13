@@ -14,7 +14,7 @@ def pos_tag(words):
     return nltk.pos_tag(words)
 
 
-def ner_tag(words):
+def apply_ner(words):
     return nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(words)))
 
 
@@ -32,13 +32,13 @@ def convert_to_lower(words):
     return words.lower()
 
 
-def convert_number_to_words(words):
-    processor = inflect.engine()
-    if words.isdigit():
-        word = processor.number_to_words(words)
-    else:
-        word = words
-    return word
+# def convert_number_to_words(words):
+#     processor = inflect.engine()
+#     if words.isdigit():
+#         word = processor.number_to_words(words)
+#     else:
+#         word = words
+#     return word
 
 
 def remove_stop_words(words):
@@ -69,17 +69,17 @@ def remove_non_ascii_chars(words):
 #     return word_list
 
 
-# def convert_number_to_words(words):
-#     processor = inflect.engine()
-#     word_list = []
-#     for w in words:
-#         if w.isdigit():
-#             word = processor.number_to_words(w)
-#             word_list.append(word)
-#         else:
-#             word_list.append(w)
-#     return word_list
-
+def convert_number_to_words(words):
+    processor = inflect.engine()
+    words = words.split()
+    word_list = []
+    for w in words:
+        if w.isdigit():
+            word = processor.number_to_words(w)
+            word_list.append(word)
+        else:
+            word_list.append(w)
+    return word_list
 
 # def remove_punctuations(words):
 #     word_list = []

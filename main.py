@@ -1,10 +1,18 @@
+import nltk
+import spacy
 import datetime
+import en_core_web_sm
 import file_reader as fr
 import pre_processor as ps
+from pprint import pprint
+from spacy import displacy
 from nltk import sent_tokenize
+from collections import Counter
+from sacremoses import MosesDetokenizer
 
 # process starts
 start_time = datetime.datetime.now()
+nlp = en_core_web_sm.load()
 
 # read all text files from the data folder
 files = []
@@ -49,42 +57,72 @@ for idx, d in enumerate(mod_documents):
     mod_documents[idx] = ps.remove_non_ascii_chars(d)
 # print(mod_documents)
 
-# pre-process step 04: convert characters into lower cases
-for idx, d in enumerate(mod_documents):
-    mod_documents[idx] = ps.convert_to_lower(d)
-# print(mod_documents)
+# # pre-process step 04: convert characters into lower cases
+# for idx, d in enumerate(mod_documents):
+#     mod_documents[idx] = ps.convert_to_lower(d)
+# # print(mod_documents)
 
 # pre-process step 05: remove punctuations
 for idx, d in enumerate(mod_documents):
     mod_documents[idx] = ps.remove_punctuations(d)
-print(mod_documents)
+# print(mod_documents)
 
 # pre-process step 06: convert int to string representation
 for idx, d in enumerate(mod_documents):
     mod_documents[idx] = ps.convert_number_to_words(d)
-print(mod_documents)
+# print(mod_documents)
 
-# # pre-process step 07: remove stop words
-# for idx, d in enumerate(tok_documents):
-#     tok_documents[idx] = ps.remove_stop_words(d)
-#
+# pre-process step 07: remove stop words
+for idx, d in enumerate(mod_documents):
+    mod_documents[idx] = ps.remove_stop_words(d)
+# print(mod_documents)
+
 # # pre-process step 08: part of speech tagging
 # for idx, d in enumerate(tok_documents):
 #     tok_documents[idx] = ps.pos_tag(d)
-#
+
 # # pre-process step 09: chunking
 # for idx, d in enumerate(tok_documents):
 #     tok_documents[idx] = ps.chunk_sentence(d)
-#
-# # this part is not working well
-# # pre-process step 10: named entity recognition
-# for idx, d in enumerate(documents):
-#     documents[idx] = ps.ner_tag(d)
 
+# detokenize before process ner, which need to be tokenized again (not working well)
+detokenizer = MosesDetokenizer(lang='en')
+
+word_bag = []
+for idx, d in enumerate(mod_documents):
+    word_list = mod_documents[idx]
+    word_bag += word_list
+
+# pre-process step 10: named entity recognition
+temp_documents = []
+temp_documents.append(ps.apply_ner(detokenizer.detokenize(word_bag)))
+# print(temp_documents)
+
+# collect nouns
+# noun_bag = []
+# noun_bag = nltk.FreqDist(word for (word, tag) in temp_documents[0] if tag == 'NN')
+# print(noun_bag.most_common())
 
 # stemming, lemmatization should be performed if required
 # https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
 
+# spacy ner
+doc = nlp(detokenizer.detokenize(word_bag))
+print('Total number of entities: ' + str(len(doc)))
+
+# label summary
+labels = [x.label_ for x in doc.ents]
+print('\nEntity summary:')
+pprint(Counter(labels))
+
+# most common items
+# items = [x.text for x in doc.ents]
+# pprint(Counter(items).most_common(3))
+
+# most common organizations
+orgs = [x.text for x in doc.ents if x.label_ == 'ORG']
+print('\nTop 5 most commonly appeared organizations:')
+pprint(Counter(orgs).most_common(5))
 
 # process ends
 end_time = datetime.datetime.now()
