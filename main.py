@@ -143,7 +143,9 @@ for i in range(3):
         for oidx, o in enumerate(target_orgs[i]):
             if o in d:
                 file = open('./output/' + str(o) + '.txt', 'a+')
-                file.writelines(d)
+                contents = file.read()
+                if d not in contents:
+                    file.writelines(d)
                 file.close()
 
 # process ends
